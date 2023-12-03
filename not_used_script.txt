@@ -1,0 +1,27 @@
+CREATE TABLE IF NOT EXISTS oslo-bike-hist(
+started_at timestamp,
+ended_at timestamp,
+duration int,
+start_station_id int,
+start_station_name varchar,
+start_station_description varchar,
+start_station_latitute float,
+start_station_longitude float,
+end_station_id int,
+end_station_name varchar,
+end_station_description varchar,
+end_station_latitute float,
+end_station_longitude float
+)
+row format delimited
+fields terminated by ','
+lines terminated by '\n'
+stored as textfile
+location '';
+
+CREATE OR REPLACE VIEW AS SELECT start_station_name, end_station_name, count(*) as trips
+FROM oslo-bike-hist
+    ) avg_durr
+        GROUP BY start_station_name, end_station_name
+        ORDER BY trips desc
+        ;

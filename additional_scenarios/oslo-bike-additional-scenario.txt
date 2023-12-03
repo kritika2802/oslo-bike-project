@@ -1,0 +1,31 @@
+1- How would you retrieve the data that is updated daily and incorporate it into your dataset?
+a. How would you schedule it
+
+I will use "not isin()" function to compare the running month file for the data not in the previous day downloaded file for the month.
+For eg: I will use all already downloaded the files till Nov 2023 (one time load). But for dec 2023 I will download the full file only on 01 Dec. From 2nd Dec onwards, I will compare the current_day-1 and current_day files and will get data from Dec 02 file which is not in Dec 01 file to avoid loading full data again.
+Incremental load will speed up the pipeline.
+The first job everyday is to take backup of current month csv and the trigger the current month file download.
+
+I will schedule it as a batch just I will keep one historic copy of current running month from previous day to compare.
+
+
+2. Imagine that you have to maintain a list of the most common start-end station pairs:
+a. How would you design the data model?
+b. How would you keep it up to date as new data comes in?
+
+I have done it using sql, the same can be done using python as well.
+I will have one job to get the most common start-end station pairs, which will execute post all the daily data ingestion and transformation jobs are completed.
+So everyday post data ingestion and transdormation most common start-end station pairs will be updated.
+Data Model will be having columns:
+start_station, 
+end_station,
+number of trips.
+Incremental load with a frequency as per the new data coming-in will be used to be up-to-date.
+We can have index on start_station,end_station for faster analytical querying
+
+3. Assume there is an update to the bike infrastructure in Oslo some months in the future and some of the existing bike stations are removed. How would you modify your model to take into account historical stations that are no longer used?
+I will handle this with 2 tables:
+Stations Table(name, id, latitude, longitude, status)
+Hist_Stations Table(name, status, last_updated)
+I will be using Stations Table(name, id, latitude, longitude, status) for all the analytical task but will maintain a history table for all the records updated (deleted/added/under-repair).
+Similarly, I need to take care of foreign key relationship, like if a station is removed how do we want to handle it in reports- put na inplace of it or blank or exclude them etc.

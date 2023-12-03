@@ -1,0 +1,5001 @@
+﻿start_station_name,end_station_name,trips
+Tjuvholmen,Frognerstranda,2327
+Frognerstranda,Tjuvholmen,2238
+Saga Kino,Tjuvholmen,1782
+Jernbanetorget,Vippetangen vest,1563
+Sukkerbiten,SjÃ¸siden ved trappen,1497
+Tjuvholmen,Saga Kino,1323
+KvÃ¦rnerbyen,BjÃ¸rvika,1295
+Olaf Ryes plass,Torggata,1294
+Olaf Ryes plass,Kirkeristen,1282
+TÃ¸yen skole,Jens Bjelkes Gate,1236
+Saga Kino,Aker Brygge,1096
+Vippetangen vest,SjÃ¸siden ved trappen,1092
+SjÃ¸siden ved trappen,Vippetangen vest,1080
+SjÃ¸siden ved trappen,Sukkerbiten,1058
+Sukkerbiten,Sukkerbiten,1049
+Frognerstranda,Filipstadveien,1038
+Oslo Hospital,BjÃ¸rvika,1005
+Sukkerbiten,PalÃ©haven,1004
+Botanisk Hage sÃ¸r,Jens Bjelkes Gate,1003
+Torggata,Olaf Ryes plass,1002
+Ringnes Park,Alexander Kiellands Plass,994
+Jens Bjelkes Gate,Botanisk Hage sÃ¸r,970
+PalÃ©haven,Sukkerbiten,948
+Lakkegata,Vaterlandsparken,936
+Saga Kino,Vippetangen vest,934
+Norsk Folkemuseum,Norsk Folkemuseum,927
+Schous plass,Torggata,897
+Tjuvholmen,Tjuvholmen,895
+SjÃ¸siden 1 ved trappen,Vippetangen vest,887
+Alexander Kiellands Plass,Torggata,885
+Kirkeristen,Olaf Ryes plass,879
+Saga Kino,Dokkveien,872
+Sukkerbiten,SjÃ¸siden 1 ved trappen,865
+KvÃ¦rnerbyen,SjÃ¸siden ved trappen,862
+Frogner plass,Frogner plass,835
+Helga Helgesens plass,Sentrum Scene,828
+Jess Carlsens gate,The Hub,812
+Sommerfrydhagen,Jens Bjelkes Gate,811
+Schous plass,Kirkeristen,811
+BjÃ¸rvika,KvÃ¦rnerbyen,810
+Aker Brygge,Saga Kino,805
+Jens Bjelkes Gate,Vaterlandsparken,801
+Olaf Ryes plass,The Hub,795
+Sofienbergparken nord,TÃ¸yen skole,790
+Alexander Kiellands Plass,Linaaes gate,789
+TÃ¸yen skole,Botanisk Hage sÃ¸r,786
+Olaf Ryes plass,Olaf Ryes plass,785
+Rostockgata,Rostockgata,783
+TÃ¸yen skole,Sommerfrydhagen,781
+Jess Carlsens gate,Helga Helgesens plass,781
+AHO,Linaaes gate,779
+Jakob kirke,Olaf Ryes plass,778
+Linaaes gate,AHO,772
+Jens Bjelkes Gate,Kirkeristen,768
+Alexander Kiellands Plass,Ringnes Park,764
+Jernbanetorget,Sukkerbiten,761
+Helga Helgesens plass,The Hub,755
+Fred Olsens gate,Vippetangen vest,754
+Helga Helgesens plass,Helga Helgesens plass,748
+Ringnes Park,Olaf Ryes plass,744
+Oslo Plaza,Lakkegata,744
+Aker Brygge,Aker Brygge,740
+Karenslyst allÃ©,Karenslyst allÃ©,729
+GrÃ¸nlands torg,Munkegata,728
+Majorstuen,Bogstadveien,718
+AHO,Hammersborg Torg,716
+Helga Helgesens plass,Munkegata,714
+Sommerfrydhagen,TÃ¸yen skole,713
+Jens Bjelkes Gate,TÃ¸yen skole,712
+Jernbanetorget,Olaf Ryes plass,709
+AHO,Torggata,708
+Rostockgata,KvÃ¦rnerbyen,707
+Hydroparken,Skillebekk,699
+Vippetangen vest,SjÃ¸siden 1 ved trappen,693
+Marcus Thranes gate,Ringnes Park,681
+SjÃ¸siden 1 ved trappen,Sukkerbiten,680
+Ringnes Park,Torggata,672
+Jens Bjelkes Gate,The Hub,667
+EnsjÃ¸ T-bane,SotahjÃ¸rnet,666
+Botanisk Hage sÃ¸r,Schous plass,665
+Jakob kirke,Kirkeristen,661
+TÃ¸yen skole,Sofienbergparken nord,659
+The Hub,Olaf Ryes plass,658
+Hammersborg Torg,Aker Brygge,655
+Vippetangen vest,Jernbanetorget,654
+Carl Berners plass sÃ¸r,TÃ¸yen skole,654
+Helga Helgesens plass,Vaterlandsparken,652
+Helga Helgesens plass,Kirkeristen,647
+Oslo Handelsgymnasium,Skillebekk,641
+Kirkeristen,Helga Helgesens plass,640
+Olaf Ryes plass,Jernbanetorget,638
+Lakkegata,Oslo Plaza,632
+Norsk Folkemuseum,Maritimt Museum,631
+Dokkveien,Saga Kino,629
+Torggata,Torggata,627
+KvÃ¦rnerbyen,SjÃ¸siden 1 ved trappen,626
+Alexander Kiellands Plass,The Hub,624
+Helga Helgesens plass,Jess Carlsens gate,617
+Hammersborg Torg,AHO,616
+Frognerstranda,Frognerstranda,616
+Kirkeristen,Jens Bjelkes Gate,613
+Linaaes gate,Alexander Kiellands Plass,612
+Alexander Kiellands Plass,Fredensborg,604
+Dyvekes bru,BjÃ¸rvika,604
+SjÃ¸siden ved trappen,SjÃ¸siden ved trappen,603
+Tjuvholmen,Karenslyst allÃ©,601
+Filipstadveien,Frognerstranda,599
+Alexander Kiellands Plass,Hammersborg Torg,598
+Oslo Hospital,Helga Helgesens plass,596
+Alexander Kiellands Plass,Olaf Ryes plass,593
+TÃ¸yen skole,Botanisk hage sÃ¸r-vest,593
+Linaaes gate,Olaf Ryes plass,589
+Munkegata,Helga Helgesens plass,585
+Sofienbergparken nordvest,TÃ¸yen skole,582
+KvÃ¦rnerbyen,Trelastgata,579
+Schous plass trikkestopp,Botanisk Hage sÃ¸r,576
+Jakob kirke,Jakob kirke,576
+St. Olavs gate,Aker Brygge,575
+Oslo Handelsgymnasium,Tjuvholmen,573
+Sukkerbiten,BjÃ¸rvika,571
+Huk 2,Huk 2,570
+Skillebekk,Tjuvholmen,569
+Olaf Ryes plass,Sentrum Scene,566
+Oslo Hospital,SjÃ¸siden ved trappen,564
+Sofienbergparken nordvest,Helga Helgesens plass,562
+Kirkeristen,Kirkeristen,554
+Enerhaugen,TÃ¸yenbekken,552
+Fagerheimgata,Torggata,551
+SjÃ¸siden ved trappen,Vippetangen Ã¸st,551
+Alexander Kiellands Plass,Alexander Kiellands Plass,550
+Sommerfrydhagen,Helga Helgesens plass,548
+Torggata,AHO,548
+Birkelunden,Botanisk Hage sÃ¸r,544
+Sentrum Scene,Olaf Ryes plass,542
+TÃ¸yen skole,Schous plass,541
+Birkelunden,Torggata,538
+AHO,Helga Helgesens plass,537
+TÃ¸yen skole,Sofienbergparken nordvest,535
+Linaaes gate,Vulkan,535
+EnsjÃ¸ T-bane,VÃ¥lerenga,534
+Hallings gate,Alexander Kiellands Plass,533
+The Hub,Jens Bjelkes Gate,532
+Olaf Ryes plass,Jakob kirke,531
+Rostockgata,SjÃ¸siden ved trappen,529
+Munkegata,GrÃ¸nlands torg,529
+Jens Bjelkes Gate,Jens Bjelkes Gate,527
+Storo Storsenter,Bentsebrugata,527
+Frogner Stadion,Frogner plass,527
+Domus Athletica,Sognsveien,527
+Olaf Ryes plass,Aker Brygge,524
+Storo Storsenter,Ringnes Park,524
+Birkelunden,Helga Helgesens plass,523
+Sofienbergparken nord,Torggata,523
+Marcus Thranes gate,TÃ¸yen skole,522
+Vulkan,Vulkan,521
+OsloMet,7. juni-plassen,520
+Lakkegata,BjÃ¸rvika,520
+Majorstua skole,Frogner plass,520
+Jens Bjelkes Gate,Torggata,515
+Tjuvholmen,Skillebekk,513
+Akerselvallmenningen,Akerselvallmenningen,512
+SjÃ¸siden ved trappen,Aker Brygge,512
+BjÃ¸rvika,Oslo Hospital,512
+Schous plass,Botanisk Hage sÃ¸r,510
+Sukkerbiten,Kirkeristen,510
+Marcus Thranes gate,Olaf Ryes plass,509
+SÃ¸ndre gate,Kirkeristen,509
+Rostockgata,BjÃ¸rvika,503
+Helga Helgesens plass,Torggata,503
+KvÃ¦rnerbyen,Munkegata,501
+AHO,The Hub,501
+Sofienbergparken nordvest,Sofienbergparken nordvest,500
+Aker Brygge,SjÃ¸siden ved trappen,498
+Dokkveien,Frognerstranda,497
+TÃ¸yen skole,Helga Helgesens plass,497
+Gimle Kino,Tjuvholmen,497
+Olaf Ryes plass,Fred Olsens gate,496
+Thomas Heftyes plass,Fram-gÃ¥rden,494
+Gunerius,Helga Helgesens plass,494
+Ringnes Park,Sofienbergparken sÃ¸r,493
+Olaf Ryes plass,Bankplassen,492
+Olaf Ryes plass,Helga Helgesens plass,492
+TÃ¸yen skole,TÃ¸yen skole,491
+Vippetangen Ã¸st,SjÃ¸siden ved trappen,491
+Alexander Kiellands Plass,Vulkan,490
+Sognsveien,Domus Athletica,487
+Ringnes Park,TÃ¸yen skole,484
+Gimle Kino,Fram-gÃ¥rden,482
+Ringnes Park,Schous plass,480
+Sukkerbiten,Jernbanetorget,480
+Trelastgata,KvÃ¦rnerbyen,478
+Botanisk Hage sÃ¸r,Botanisk Hage sÃ¸r,478
+Karenslyst allÃ©,Tjuvholmen,477
+Vaterlandsparken,Helga Helgesens plass,474
+Fagerheimgata,Kirkeristen,474
+Majorstuen,Oscars gate,473
+Lakkegata,Kirkeristen,473
+Bislettgata,Alexander Kiellands Plass,472
+Bislett Stadion,Alexander Kiellands Plass,472
+Bislettgata,Henrik Ibsens gate,471
+Helga Helgesens plass,Oslo Hospital,470
+St. Olavs gate,St. Olavs gate,469
+The Hub,Helga Helgesens plass,469
+Frognerstranda,Dokkveien,468
+Sofienbergparken nord,Olaf Ryes plass,467
+TÃ¸yen skole,TÃ¸yenbekken,466
+Maritimt Museum,Norsk Folkemuseum,465
+Sentrum Scene,Helga Helgesens plass,465
+Uranienborgveien,Henrik Ibsens gate,464
+Bogstadveien,Stensparken,464
+Helga Helgesens plass,Sofienbergparken nordvest,463
+Botanisk Hage sÃ¸r,Olaf Ryes plass,461
+Torggata,Schous plass,460
+Alexander Kiellands Plass,Sentrum Scene,459
+Saga Kino,Aker Brygge 1 mot Nasjonalmuseet,458
+Oslo Hospital,SjÃ¸siden 1 ved trappen,458
+Vulkan,Linaaes gate,457
+Jess Carlsens gate,Jess Carlsens gate,455
+Marcus Thranes gate,Chr. Michelsens Gate,454
+Norsk Folkemuseum,Huk 2,453
+Majorstuen,Henrik Wergelands allÃ©,453
+Tjuvholmen,Kirkeristen,451
+Bogstadveien,Majorstuen,451
+Botanisk Hage sÃ¸r,Torggata,451
+Linaaes gate,Jess Carlsens gate,450
+Munkegata,Munkegata,450
+Henrik Ibsens gate,Parkveien,448
+Galgeberg,KvÃ¦rnerbyen,447
+GrÃ¸nlands torg,GrÃ¸nlands torg,447
+Kirkeveien,Majorstuen,446
+Saga Kino,Saga Kino,446
+AHO,Sentrum Scene,445
+Schous plass,The Hub,445
+Ringnes Park,Ringnes Park,444
+Olaf Ryes plass,Linaaes gate,442
+Slottsparken Ã˜st,Slottsparken Ã˜st,441
+Alexander Kiellands Plass,TÃ¸yenbekken,441
+Olaf Ryes plass,TÃ¸yenbekken,441
+Lille Schous plass,Sofienbergparken nord,440
+Fredensborg,Alexander Kiellands Plass,440
+Bentsebrugata,Ringnes Park,439
+Gimle Kino,Filipstadveien,438
+Jens Bjelkes Gate,Sommerfrydhagen,438
+GrÃ¸nlands torg,Helga Helgesens plass,438
+Vippetangen vest,Skippergata,438
+Bankplassen,Aker Brygge,438
+Helga Helgesens plass,Olaf Ryes plass,438
+Jakob kirke,Botanisk Hage sÃ¸r,437
+Vippetangen vest,Saga Kino,436
+Thomas Heftyes plass,Tjuvholmen,435
+Helga Helgesens plass,Brugata,434
+Anker Hotel,Anker Hotel,434
+KvÃ¦rnerbyen,Rostockgata,434
+Parkveien,Henrik Ibsens gate,433
+DÃ¦lenenggata,Ringnes Park,431
+Helga Helgesens plass,Gunerius,431
+Birkelunden,Birkelunden,431
+Aker Brygge,Sukkerbiten,430
+GrÃ¸nlands torg,Oslo Hospital,429
+Birkelunden,The Hub,429
+Sukkerbiten,Aker Brygge,428
+Bislettgata,7. juni-plassen,427
+Lille Grensen,Aker Brygge,426
+Hoff terrasse holdeplass,SkÃ¸yen Stasjon,425
+Jens Bjelkes Gate,BjÃ¸rvika,423
+Aker Brygge,Bankplassen,423
+Oslo Hospital,Oslo Hospital,423
+Sukkerbiten,Lille Grensen,422
+Lindern,Marcus Thranes gate,421
+Hammersborg Torg,Alexander Kiellands Plass,421
+Filipstadveien,Filipstadveien,420
+Marcus Thranes gate,Marcus Thranes gate,419
+Sofienbergparken nord,Kirkeristen,418
+AHO,Kirkeristen,418
+TÃ¸yen skole,Olaf Ryes plass,416
+Jens Bjelkes Gate,Hausmanns bru,416
+Olaf Ryes plass,Botanisk Hage sÃ¸r,416
+Rostockgata,Oslo Hospital,415
+Jens Bjelkes Gate,TÃ¸yenbekken,415
+Sofienbergparken nordvest,Torggata,415
+Sukkerbiten,Fred Olsens gate,414
+Saga Kino,Frognerstranda,412
+Torggata,Alexander Kiellands Plass,412
+Olaf Ryes plass,Sukkerbiten,412
+Karenslyst allÃ©,Filipstadveien,411
+KontraskjÃ¦ret,Aker Brygge,411
+Olaf Ryes plass,TÃ¸yen skole,411
+Oslo Hospital,GrÃ¸nlands torg,410
+Henrik Ibsens gate,Uranienborgveien,410
+Dyvekes bru,SjÃ¸siden ved trappen,410
+Dyvekes bru,SjÃ¸siden 1 ved trappen,410
+Fagerheimgata,Fagerheimgata,409
+Schous plass,Helga Helgesens plass,409
+Spikersuppa Ã˜st,Spikersuppa Ã˜st,409
+Kirkeristen,Torggata,409
+Bankplassen,Kirkeristen,409
+Botanisk Hage sÃ¸r,Nordre gate,409
+Drammensveien,SkÃ¸yen,409
+Torggata,Kirkeristen,408
+Torggata,Sofienbergparken nord,408
+KvÃ¦rnerbyen,PalÃ©haven,407
+Landstads gate,Hammersborg Torg,405
+Dokkveien,SjÃ¸siden ved trappen,405
+Jens Bjelkes Gate,Helga Helgesens plass,405
+Stensparken,Bogstadveien,405
+Lakkegata,TÃ¸yenbekken,404
+Skillebekk,Skillebekk,404
+Bentsebrugata,Torggata,404
+Gimle Kino,Saga Kino,404
+Birkelunden,Kirkeristen,403
+Torggata,Ringnes Park,403
+TÃ¸yen skole,Carl Berners plass sÃ¸r,402
+SotahjÃ¸rnet,EnsjÃ¸ T-bane,402
+The Hub,The Hub,401
+Frogner plass,Frogner Stadion,401
+Norsk Folkemuseum,Filipstadveien,400
+Hoffsveien,Karenslyst allÃ©,400
+Vippetangen vest,Fred Olsens gate,399
+Sukkerbiten,SjÃ¸siden ved fontenen,399
+Helga Helgesens plass,Lakkegata,399
+Tjuvholmen,SjÃ¸siden ved trappen,399
+Frogner plass,SkÃ¸yen,398
+Sukkerbiten,Sentrum Scene,398
+Jess Carlsens gate,TÃ¸yenbekken,398
+Majorstua skole,SkÃ¸yen,398
+Sofienberggata,Kirkeristen,397
+Akerselvallmenningen,Aker Brygge,397
+SkÃ¸yen,SkÃ¸yen,397
+Storo Storsenter,Krebs' gate,397
+Schous plass trikkestopp,The Hub,397
+Aker Brygge,Akerselvallmenningen,396
+Huitfeldts gate,Huitfeldts gate,396
+Sofienbergparken nordvest,Bankplassen,396
+Aker Brygge,Kirkeristen,394
+OsloMet,Saga Kino,394
+Alexander Kiellands Plass,Birkelunden,393
+Alexander Kiellands Plass,Jess Carlsens gate,393
+Torggata,The Hub,393
+Schous plass,Schous plass,392
+Fred Olsens gate,Sukkerbiten,392
+Botanisk Hage sÃ¸r,Kirkeristen,391
+Galgeberg,BjÃ¸rvika,391
+Jess Carlsens gate,Linaaes gate,391
+Alexander Kiellands Plass,AHO,390
+Oslo Hospital,PalÃ©haven,390
+Akerselvallmenningen,Lakkegata,389
+Thomas Heftyes plass,Karenslyst allÃ©,389
+Frogner plass,Tjuvholmen,389
+Rostockgata,Sukkerbiten,388
+Birkelunden,Jernbanetorget,388
+Marcus Thranes gate,Torggata,388
+TÃ¸yen skole,Torggata,387
+Jens Bjelkes Gate,Brugata,387
+SÃ¸ndre gate,Torggata,387
+Oslo Plaza,Sofienbergparken sÃ¸r,387
+Helga Helgesens plass,Hausmanns gate,386
+Kirkeristen,SÃ¸ndre gate,386
+Edvard Storms gate,Edvard Storms gate,386
+Skillebekk,Filipstadveien,386
+Frognerstranda,Saga Kino,386
+BI Nydalen,BI Nydalen,386
+Storo Storsenter,Storo Storsenter,386
+Bislettgata,Ringnes Park,385
+Helga Helgesens plass,Jens Bjelkes Gate,384
+AHO,Jess Carlsens gate,383
+Bentsebrugata,Birkelunden,383
+PalÃ©haven,PalÃ©haven,383
+Jernbanetorget,Bankplassen,383
+Marcus Thranes gate,Bislett Stadion,382
+Aker Brygge,Vippetangen vest,382
+Kirkegata 15,Huitfeldts gate,382
+Hammersborg Torg,Vippetangen vest,382
+Sommerfrydhagen,Sommerfrydhagen,381
+Birkelunden,TÃ¸yen skole,380
+Sofienbergparken nordvest,Kirkeristen,380
+SjÃ¸siden ved trappen,Bankplassen,380
+Sofienbergparken sÃ¸r,Helga Helgesens plass,380
+Helga Helgesens plass,Sommerfrydhagen,379
+Marcus Thranes gate,Schous plass,379
+Ringnes Park,Kirkeristen,379
+SjÃ¸siden 1 ved trappen,SjÃ¸siden 1 ved trappen,379
+Sukkerbiten,Akerselvallmenningen,378
+Jens Bjelkes Gate,Jernbanetorget,378
+KvÃ¦rnerbyen,KvÃ¦rnerbyen,378
+Marcus Thranes gate,Birkelunden,377
+The Hub,Jess Carlsens gate,377
+Karenslyst allÃ©,SkÃ¸yen,377
+Gimle Kino,Karenslyst allÃ©,376
+Kirkeristen,Sukkerbiten,375
+Stjerneplassen,Olaf Ryes plass,375
+Thomas Heftyes plass,Thomas Heftyes plass,374
+BjÃ¸rvika,Aker Brygge,374
+Botanisk Hage sÃ¸r,Sofienbergparken nordvest,374
+Lakkegata,Brugata,374
+Botanisk Hage sÃ¸r,TÃ¸yenbekken,374
+Majorstuen,Stensparken,373
+Storo Storsenter,BjÃ¸lsen Studentby,373
+Helga Helgesens plass,Spikersuppa Ã˜st,373
+Bjerregaards gate,Ringnes Park,373
+Helga Helgesens plass,Sukkerbiten,372
+Bislettgata,Bislettgata,371
+Frognerstranda,Karenslyst allÃ©,371
+Gimle Kino,7. juni-plassen,371
+Oslo Hospital,Munkegata,369
+AHO,AHO,369
+RÃ¥dhusgata,RÃ¥dhusgata,369
+Hammersborg Torg,Bankplassen,368
+7. juni-plassen,OsloMet,368
+KvÃ¦rnerbyen,Gunerius,368
+Storo Storsenter,Hans Nielsen Hauges plass,367
+Vippetangen vest,PalÃ©haven,366
+Kirkeristen,Schous plass,366
+AHO,TÃ¸yenbekken,366
+Sofienbergparken nordvest,Aker Brygge,366
+Alexander Kiellands Plass,Jernbanetorget,365
+AHO,Jernbanetorget,365
+Fagerheimgata,Vaterlandsparken,365
+Carl Berners plass nord,TÃ¸yen skole,365
+Tjuvholmen,Munkedamsveien,365
+Schous plass,TÃ¸yenbekken,364
+Munkedamsveien,Tjuvholmen,364
+Helga Helgesens plass,Oslo Plaza,364
+BI Nydalen,Ringnes Park,363
+Vippetangen vest,Vippetangen vest,363
+AHO,Bankplassen,362
+Frogner plass,Majorstuen,362
+Aker Brygge 3 mot Fergene,Saga Kino,362
+Bankplassen,Bankplassen,362
+Birkelunden,Schous plass,361
+Landstads gate,Torggata,361
+Salt,Aker Brygge,361
+Ringnes Park,Bjerregaards gate,361
+Botanisk Hage sÃ¸r,Schous plass trikkestopp,360
+Helga Helgesens plass,AHO,360
+Majorstuen,Majorstuen,360
+Alexander Kiellands Plass,Bislett Stadion,359
+Ringnes Park,Bislett Stadion,359
+KvÃ¦rnerbyen,Helga Helgesens plass,359
+Frogner plass,Norsk Folkemuseum,359
+Vaterlandsparken,Vaterlandsparken,358
+Sommerfrydhagen,Vaterlandsparken,358
+St. Olavs gate,Alexander Kiellands Plass,358
+Tjuvholmen,Frogner plass,357
+TÃ¸yen skole,Sofienberggata,357
+Helga Helgesens plass,MÃ¸lleparken,357
+Norsk Folkemuseum,Huk 1,356
+Oslo Hospital,Rostockgata,356
+Skillebekk,Frognerstranda,356
+SjÃ¸siden ved trappen,KvÃ¦rnerbyen,356
+SjÃ¸siden ved trappen,Rostockgata,355
+Anker Hotel,The Hub,355
+Marcus Thranes gate,Alexander Kiellands Plass,354
+Majorstua skole,Majorstua skole,354
+Storo Storsenter,BjÃ¸lsendumpa,354
+Jernbanetorget,Vulkan,354
+Filipstadveien,Karenslyst allÃ©,353
+Tjuvholmen,SkÃ¸yen,353
+Bislett Stadion,Marcus Thranes gate,352
+Torshovparken vest,Ringnes Park,352
+Oslo Plaza,Helga Helgesens plass,352
+TÃ¸yen skole,Birkelunden,351
+Sinsen T-bane,Hans Nielsen Hauges plass,351
+Karenslyst allÃ©,Furulund,351
+Rostockgata,Aker Brygge,351
+TÃ¸yen skole,Enerhaugen,351
+Ringnes Park,Helga Helgesens plass,351
+Bislett Stadion,Bislett Stadion,351
+Sofienbergparken nordvest,TÃ¸yenbekken,351
+Jernbanetorget,Vippetangen Ã¸st,350
+Vulkan,Torggata,350
+BjÃ¸rvika,Sukkerbiten,350
+Professor Aschehougs plass,Professor Aschehougs plass,350
+Hydroparken,Frognerstranda,350
+Kirkeristen,Lakkegata,349
+Botanisk Hage sÃ¸r,Jakob kirke,349
+Kirkeristen,Aker Brygge,349
+Oslo Plaza,Alexander Kiellands Plass,348
+The Hub,AHO,348
+PalÃ©haven,Oslo Hospital,348
+Bankplassen,SjÃ¸siden ved trappen,348
+Lakkegata,Lakkegata,348
+Ringnes Park,Carl Berners plass sÃ¸r,348
+Aker Brygge,Rostockgata,347
+Skillebekk,Saga Kino,347
+Sofienbergparken nordvest,BjÃ¸rvika,346
+Schous plass trikkestopp,Schous plass trikkestopp,345
+Schous plass,Sentrum Scene,344
+Jernbanetorget,AHO,344
+Furulund,Karenslyst allÃ©,344
+Botanisk Hage sÃ¸r,Birkelunden,344
+Jakob kirke,Helga Helgesens plass,344
+PalÃ©haven,KvÃ¦rnerbyen,344
+Bislett Stadion,St. Olavs gate,344
+Karenslyst allÃ©,Hoffsveien,343
+Vulkan,Alexander Kiellands Plass,343
+SjÃ¸siden 1 ved trappen,Bankplassen,343
+UllevÃ¥l sykehus,Ringnes Park,343
+Sommerfrydhagen,Schous plass,343
+Huk 1,Huk 1,343
+Sofienbergparken sÃ¸r,TÃ¸yenbekken,342
+Alexander Kiellands Plass,Sukkerbiten,342
+Sofienbergparken nord,Schous plass,342
+Gimle Kino,SkÃ¸yen,342
+Torggata,Sukkerbiten,341
+Fagerheimgata,Jakob kirke,341
+Bislett Stadion,VÃ¥r Frelsers gravlund,341
+Aker Brygge,BjÃ¸rvika,340
+Alexander Kiellands Plass,St. Olavs gate,339
+KvÃ¦rnerbyen,SjÃ¸siden ved fontenen,339
+Sofienberggata,Olaf Ryes plass,339
+Sommerfrydhagen,The Hub,339
+Fredensborg,Fredensborg,339
+Jernbanetorget,Alexander Kiellands Plass,338
+Ringnes Park,Marcus Thranes gate,338
+Sukkerbiten,Torggata,338
+Alexander Kiellands Plass,Bankplassen,338
+Olaf Ryes plass,PalÃ©haven,338
+Sofienbergparken nord,The Hub,337
+SjÃ¸siden ved fontenen,SjÃ¸siden ved fontenen,336
+GrÃ¸nlands torg,Sukkerbiten,336
+Skillebekk,Hydroparken,336
+Skovveien,Tjuvholmen,334
+Vulkan,Jernbanetorget,334
+Sofienbergparken nordvest,Botanisk Hage sÃ¸r,334
+Saga Kino,Aker Brygge 3 mot Fergene,334
+Jess Carlsens gate,Torggata,333
+KontraskjÃ¦ret,Tjuvholmen,333
+Langkaia,Aker Brygge,333
+Tjuvholmen,Norsk Folkemuseum,332
+SÃ¸ndre gate,SÃ¸ndre gate,331
+Henrik Wergelands allÃ©,Majorstuen,331
+Karenslyst allÃ©,Majorstuveien,331
+Jess Carlsens gate,Botanisk Hage sÃ¸r,331
+Jenny Braatens Plass,TÃ¸yen skole,330
+Olaf Ryes plass,Sofienberggata,330
+Majorstuen,Frogner plass,330
+SÃ¸ndre gate,Bankplassen,330
+Munkegata,Aker Brygge,330
+Jess Carlsens gate,Jernbanetorget,329
+Frogner Stadion,Thune,329
+Trondheimsveien,Sofienbergparken nordvest,329
+Sofienberggata,TÃ¸yen skole,329
+Vippetangen vest,Aker Brygge,329
+Sofienbergparken nord,Sofienbergparken nord,328
+Torggata,Helga Helgesens plass,328
+Vulkan,Kirkeristen,327
+Olaf Ryes plass,SkrÃ¥ninga,327
+Munkegata,Oslo Hospital,327
+Jens Bjelkes Gate,Oslo Plaza,327
+Parkveien,Jernbanetorget,327
+Fagerheimgata,Olaf Ryes plass,326
+Dyvekes bru,Helga Helgesens plass,326
+Bislett Stadion,Ringnes Park,326
+Sukkerbiten,Olaf Ryes plass,326
+Olav Kyrres plass,Karenslyst allÃ©,326
+PalÃ©haven,Rostockgata,326
+Bjerregaards gate,Alexander Kiellands Plass,325
+Nordre gate,Nordre gate,325
+Helga Helgesens plass,Jakob kirke,325
+Jernbanetorget,Rostockgata,325
+Aker Brygge,Hammersborg Torg,325
+Olaf Ryes plass,Stjerneplassen,325
+Vulkan,Hammersborg Torg,324
+Munkegata,Sukkerbiten,324
+SjÃ¸siden 1 ved trappen,Vippetangen Ã¸st,324
+Sofienbergparken nord,Helga Helgesens plass,324
+Tjuvholmen,Hydroparken,323
+Alexander Kiellands Plass,Helga Helgesens plass,323
+Hoffsveien,SkÃ¸yen,323
+Sukkerbiten,Rostockgata,323
+Skillebekk,Huitfeldts gate,322
+Schous plass,Vaterlandsparken,322
+The Hub,Alexander Kiellands Plass,322
+VÃ¥r Frelsers gravlund,Jess Carlsens gate,322
+MyralÃ¸kka Ã˜st,Ringnes Park,322
+Jordalgata,Helga Helgesens plass,321
+Lille Grensen,Lille Grensen,321
+Helga Helgesens plass,Schous plass,321
+Vestkanttorvet,Filipstadveien,321
+Ringnes Park,Landstads gate,320
+Bislettgata,Spikersuppa Vest,320
+Lodalen busstopp,BjÃ¸rvika,320
+Sofienbergparken nordvest,Linaaes gate,320
+Vulkan,Spikersuppa Vest,320
+BI Nydalen,BjÃ¸lsen Studentby,320
+Linaaes gate,Jens Bjelkes Gate,320
+Annette Thommessens Plass,RÃ¥dhusgata,319
+Birkelunden,Sofienberggata,319
+Enerhaugen,Annette Thommessens Plass,319
+Dokkveien,Dokkveien,319
+SÃ¸ndre gate,Aker Brygge,318
+The Hub,Torggata,318
+Parkveien,Saga Kino,318
+Hausmanns gate,Helga Helgesens plass,317
+Alexander Kiellands Plass,Kirkeristen,317
+Bislett Stadion,Tjuvholmen,317
+Kirkegata 15,Kirkegata 15,317
+Rostockgata,SjÃ¸siden 1 ved trappen,316
+Torggata,Jens Bjelkes Gate,316
+TÃ¸yen skole,Vaterlandsparken,316
+Skillebekk,Oslo Handelsgymnasium,316
+Sukkerbiten,SjÃ¸siden 2 ved fontenen,316
+Olav Kyrres plass,SkÃ¸yen,316
+Finnmarksgata,TÃ¸yen skole,316
+Sentrum Scene,AHO,315
+Birkelunden,Sukkerbiten,315
+Hammersborg Torg,Linaaes gate,315
+Jess Carlsens gate,Vaterlandsparken,315
+Olaf Ryes plass,Alexander Kiellands Plass,314
+Bislett Stadion,Bjerregaards gate,314
+Dokkveien,Rostockgata,314
+Jens Bjelkes Gate,Sukkerbiten,314
+Dokkveien,St. Olavs gate,313
+Frogner Stadion,Frogner Stadion,313
+Dokkveien,Vippetangen vest,313
+Chr. Michelsens Gate,Alexander Kiellands Plass,312
+Oslo Hospital,Sukkerbiten,312
+Sogn Studentby,Sognsveien,312
+Sukkerbiten,The Hub,311
+Akerselvallmenningen,Sukkerbiten,311
+Linaaes gate,Aker Brygge,311
+Sirkustomta,TÃ¸yen skole,311
+The Hub,Sukkerbiten,311
+Ringnes Park,The Hub,311
+Holbergs plass,Saga Kino,310
+Saga Kino,Filipstadveien,310
+Majorstua skole,Drammensveien,309
+Jordalgata,KvÃ¦rnerbyen,309
+Bislett Stadion,Saga Kino,309
+Sofienbergparken sÃ¸r,Torggata,309
+Botanisk Hage sÃ¸r,Sukkerbiten,308
+SkÃ¸yen Stasjon,Hoff terrasse holdeplass,308
+Stjerneplassen,Vippetangen vest,308
+Ringnes Park,Aker Brygge,307
+Fagerheimgata,TÃ¸yen skole,307
+SjÃ¸siden ved trappen,Oslo Hospital,307
+Botanisk Hage sÃ¸r,The Hub,307
+Fagerheimgata,Schous plass,307
+7. juni-plassen,Uranienborgveien,306
+Uranienborgveien,7. juni-plassen,306
+TÃ¸yen skole,Ringnes Park,306
+Hydroparken,Tjuvholmen,306
+Sukkerbiten,Tjuvholmen,306
+Kirkeristen,Sofienbergparken nord,305
+Galgeberg,Dyvekes bru,305
+Rostockgata,Helga Helgesens plass,305
+Linaaes gate,Hammersborg Torg,305
+TÃ¸yen skole,Sofienbergparken sÃ¸r,305
+Torggata,SÃ¸ndre gate,305
+TÃ¸yen skole,Jakob kirke,305
+Holbergs plass,7. juni-plassen,304
+Jernbanetorget,Jernbanetorget,304
+Helga Helgesens plass,Arkaden SÃ¸r,303
+Fram-gÃ¥rden,Tjuvholmen,303
+Jess Carlsens gate,Oslo Plaza,303
+Colosseum Kino,Hoffsveien,303
+TÃ¸yen skole,Marcus Thranes gate,303
+Torggata,Aker Brygge,303
+Helga Helgesens plass,Aker Brygge,303
+AHO,Spikersuppa Ã˜st,303
+Bislettgata,Bogstadveien,303
+Lille Grensen,Sukkerbiten,302
+Hammersborg Torg,Hammersborg Torg,301
+Sofienbergparken nordvest,Sofienbergparken nord,301
+Ringnes Park,Botanisk Hage sÃ¸r,301
+Jess Carlsens gate,Bankplassen,301
+MÃ¸lleparken,Olaf Ryes plass,301
+Norsk Folkemuseum,Frogner plass,300
+Ringnes Park,Birkelunden,300
+Fredensborg,The Hub,300
+Vaterlandsparken,Lakkegata,300
+Storo Storsenter,Marcus Thranes gate,300
+Sofienbergparken nordvest,The Hub,300
+Sentrum Scene,Jens Bjelkes Gate,300
+Rostockgata,Dyvekes bru,300
+Kirkeristen,Ringnes Park,300
+Edvard Storms gate,Saga Kino,300
+DÃ¦lenenggata,MÃ¸lleparken,299
+John Colletts plass,Sognsveien,299
+Nordre gate,Botanisk Hage sÃ¸r,299
+SjÃ¸siden 1 ved trappen,Oslo Hospital,298
+TÃ¸yenbekken,AHO,298
+Thomas Heftyes plass,SkÃ¸yen,298
+Lindern,Ringnes Park,298
+Sommerfrydhagen,KvÃ¦rnerbyen,298
+Lille Grensen,Olaf Ryes plass,297
+Schous plass trikkestopp,Torggata,297
+Munkegata,Rostockgata,297
+Jordalgata,TÃ¸yen skole,297
+Uranienborgveien,Tjuvholmen,297
+MÃ¸lleparken,Helga Helgesens plass,297
+Sommerfrydhagen,TÃ¸yenbekken,297
+Torggata,Professor Aschehougs plass,296
+Skillebekk,BjÃ¸rvika,296
+Olaf Ryes plass,BjÃ¸rvika,296
+Olaf Ryes plass,Spikersuppa Ã˜st,296
+VÃ¥r Frelsers gravlund,Spikersuppa Vest,296
+VÃ¥r Frelsers gravlund,VÃ¥r Frelsers gravlund,296
+Linaaes gate,Schous plass,296
+Thomas Heftyes plass,Huitfeldts gate,295
+Majorstua skole,Elisenberg,295
+Schous plass trikkestopp,Kirkeristen,295
+Lakkegata,Sukkerbiten,295
+Sukkerbiten,Langkaia,295
+Aker Brygge,Linaaes gate,295
+Ringnes Park,Schous plass trikkestopp,295
+Skillebekk,7. juni-plassen,295
+Alexander Kiellands Plass,Spikersuppa Vest,295
+Munkegata,Sentrum Scene,294
+Colosseum Kino,SkÃ¸yen,294
+Storo Storsenter,Fagerheimgata,294
+Fagerheimgata,Bankplassen,294
+Tjuvholmen,Slottsparken Ã˜st,294
+Oscars gate,Oscars gate,294
+BI Nydalen,Birkelunden,294
+Rostockgata,PalÃ©haven,294
+Oslo Handelsgymnasium,Dokkveien,294
+Sommerfrydhagen,Olaf Ryes plass,294
+Jess Carlsens gate,Sukkerbiten,294
+Thomas Heftyes plass,Dokkveien,293
+Anker Hotel,Kirkeristen,293
+Sukkerbiten,Professor Aschehougs plass,293
+Botanisk Hage sÃ¸r,Jess Carlsens gate,293
+Marcus Thranes gate,Fredensborg,293
+Bentsebrugata,Alexander Kiellands Plass,292
+Dokkveien,BjÃ¸rvika,292
+Sofienbergparken nord,Jakob kirke,292
+Torggata,Botanisk Hage sÃ¸r,291
+Sofienberggata,Torggata,290
+Kirkeristen,Schous plass trikkestopp,290
+Thomas Heftyes plass,Skillebekk,290
+Frogner Stadion,SkÃ¸yen,290
+Dyvekes bru,PalÃ©haven,290
+UllevÃ¥l sykehus,Marcus Thranes gate,290
+Oscars gate,7. juni-plassen,290
+Dyvekes bru,KvÃ¦rnerbyen,290
+Aker Brygge 3 mot Fergene,Aker Brygge 3 mot Fergene,289
+Vestkanttorvet,Elisenberg,289
+Sukkerbiten,Helga Helgesens plass,289
+Torggata,Fagerheimgata,288
+Munkegata,KvÃ¦rnerbyen,288
+Dokkveien,SjÃ¸siden 1 ved trappen,288
+Vaterlandsparken,Jens Bjelkes Gate,288
+BjÃ¸rvika,Rostockgata,288
+Kirkeristen,Jakob kirke,288
+Sofienbergparken nord,TÃ¸yenbekken,288
+Storo Storsenter,LÃ¸renveien,287
+Ringnes Park,Bislettgata,287
+TÃ¸yen skole,The Hub,287
+BjÃ¸lsen Studentby,Bentsebrugata,287
+Hans Nielsen Hauges plass,Hans Nielsen Hauges plass,287
+Schous plass trikkestopp,TÃ¸yenbekken,287
+Alexander Kiellands Plass,DÃ¦lenenggata,287
+Kirkeristen,Munkegata,287
+Gimle Kino,Gimle Kino,287
+Ringnes Park,DÃ¦lenenggata,286
+KvÃ¦rnerbyen,SjÃ¸siden 2 ved fontenen,286
+Linaaes gate,Helga Helgesens plass,286
+Gunerius,Jens Bjelkes Gate,286
+Annette Thommessens Plass,Vippetangen vest,286
+TÃ¸yen skole,Kirkeristen,286
+Alexander Kiellands Plass,Schous plass trikkestopp,286
+KontraskjÃ¦ret,Sukkerbiten,286
+Sofienbergparken nord,Sofienbergparken nordvest,286
+Hoffsveien,SkÃ¸yen Stasjon,286
+Lilleborgbanen,Lilleborgbanen,286
+SjÃ¸siden 1 ved trappen,KvÃ¦rnerbyen,286
+Jernbanetorget,Jens Bjelkes Gate,285
+LÃ¸renveien,Storo Storsenter,285
+Birkelunden,Jakob kirke,285
+Lilleborgbanen,Ringnes Park,284
+Storo Storsenter,BI Nydalen,284
+Lille Grensen,Jens Bjelkes Gate,284
+Universitetsgata,Aker Brygge,284
+UllevÃ¥l sykehus,Chr. Michelsens Gate,283
+Alexander Kiellands Plass,Forskningsveien,283
+Slottsparken Ã˜st,Aker Brygge,283
+Kirkeristen,Vaterlandsparken,283
+Ringnes Park,Jakob kirke,283
+Botanisk hage sÃ¸r-vest,TÃ¸yenbekken,283
+Alexander Kiellands Plass,Sofienbergparken nordvest,283
+Majorstuen,SkÃ¸yen,283
+Storo Storsenter,MyralÃ¸kka Ã˜st,283
+Dokkveien,Sofienbergparken nordvest,283
+Sentrum Scene,Sentrum Scene,282
+Botanisk hage sÃ¸r-vest,TÃ¸yen skole,282
+Helga Helgesens plass,Sofienbergparken nord,282
+Alexander Kiellands Plass,Lille Grensen,282
+TÃ¸yen skole,GrÃ¸nlands torg,282
+Spikersuppa Vest,Spikersuppa Vest,282
+SjÃ¸siden ved trappen,Tjuvholmen,281
+Schous plass trikkestopp,Helga Helgesens plass,281
+Ringnes Park,Sentrum Scene,281
+Professor Aschehougs plass,Torggata,281
+Helga Helgesens plass,GrÃ¸nlands torg,281
+Fredensborg,Aker Brygge,281
+GrÃ¼nerhagen Nord,Torggata,281
+AHO,Aker Brygge,280
+SkÃ¸yen,Tjuvholmen,280
+Frognerbadet,Frognerbadet,280
+Henrik Ibsens gate,Frognerstranda,280
+Norsk Folkemuseum,Frognerstranda,280
+Jakob kirke,Ringnes Park,279
+Tjuvholmen,SjÃ¸siden 1 ved trappen,279
+Jernbanetorget,Jess Carlsens gate,279
+Lakkegata,Akerselvallmenningen,279
+Helga Helgesens plass,Spikersuppa Vest,279
+Rostockgata,Olaf Ryes plass,279
+Munkegata,Slottsparken Ã˜st,279
+Trondheimsveien,Torggata,279
+Storo Storsenter,BjÃ¸lsen mÃ¸lle,279
+Maritimt Museum,Maritimt Museum,279
+Lakkegata,The Hub,278
+Helga Helgesens plass,Annette Thommessens Plass,278
+Sukkerbiten,Edvard Storms gate,278
+Sentrum Scene,Schous plass,278
+Galgeberg,SjÃ¸siden ved trappen,278
+Ringnes Park,Fredensborg,277
+Linaaes gate,SÃ¸ndre gate,277
+Ulven Torg,Ulven Torg,277
+Helga Helgesens plass,Sofienbergparken sÃ¸r,277
+Jakob kirke,Torggata,277
+Olaf Ryes plass,Vaterlandsparken,277
+St. Olavs gate,Saga Kino,277
+Hammersborg Torg,The Hub,276
+Huk 2,Tjuvholmen,276
+Stjerneplassen,Helga Helgesens plass,276
+Ringnes Park,Hallings gate,276
+Hammersborg Torg,Landstads gate,276
+Helga Helgesens plass,Hausmanns bru,276
+Dyvekes bru,Rostockgata,275
+Professor Aschehougs plass,Sukkerbiten,275
+Torggata,Sofienbergparken nordvest,275
+Hammersborg Torg,Saga Kino,275
+Frogner plass,Karenslyst allÃ©,275
+Over RÃ¥dhusgata,Over RÃ¥dhusgata,275
+Frognerveien,Henrik Ibsens gate,275
+Ringnes Park,Sommerfrydhagen,275
+Lille Grensen,Jess Carlsens gate,275
+Alexander Kiellands Plass,Botanisk Hage sÃ¸r,274
+GrÃ¼nerhagen Nord,Sofienberggata,274
+Fagerheimgata,The Hub,274
+KrohgstÃ¸tten hospital,Helga Helgesens plass,274
+Bislettgata,Saga Kino,274
+Helga Helgesens plass,Birkelunden,274
+Storo Storsenter,Alexander Kiellands Plass,274
+BjÃ¸rvika,BjÃ¸rvika,274
+Carl Berners plass sÃ¸r,Finnmarksgata,274
+Jakob kirke,The Hub,273
+Aker Brygge,Olaf Ryes plass,273
+UllevÃ¥l sykehus,Majorstuen,273
+Aker Brygge 1 mot Nasjonalmuseet,Saga Kino,273
+Vulkan,The Hub,273
+Georg Morgenstiernes hus,Marcus Thranes gate,273
+Bentsebrugata,Bentsebrugata,273
+Sirkustomta,TÃ¸yenbekken,273
+Torggata,Birkelunden,272
+Jakob kirke,Sofienbergparken nord,272
+Henrik Wergelands allÃ©,Elisenberg,272
+Sukkerbiten,TÃ¸yenbekken,272
+Bislett Stadion,RuselÃ¸kkgÃ¥rden,272
+Landstads gate,Kirkeristen,272
+MÃ¸lleparken,TÃ¸yen skole,272
+Sentrum Scene,Sofienbergparken nord,272
+VÃ¥r Frelsers gravlund,Kirkeristen,272
+Landstads gate,Bankplassen,272
+Norsk Folkemuseum,Tjuvholmen,272
+MÃ¸lleparken,MÃ¸lleparken,272
+Ringnes Park,GrÃ¼nerhagen Nord,272
+Hoff terrasse holdeplass,SkÃ¸yen,272
+Vippetangen vest,SjÃ¸siden ved fontenen,272
+Birkelunden,BjÃ¸rvika,272
+Dokkveien,Kirkeristen,271
+Langkaia,Vippetangen vest,271
+Rostockgata,RÃ¥dhusgata,271
+Oslo Plaza,Munkegata,271
+St. Olavs gate,Munkedamsveien,271
+BI Nydalen,Marcus Thranes gate,271
+Majorstuen,Elisenberg,271
+Vulkan,Sukkerbiten,271
+Klingenberggata,Tjuvholmen,271
+Lille Grensen,Hammersborg Torg,270
+Hasle Torg,TÃ¸yen skole,270
+St. Olavs gate,Tjuvholmen,270
+Elisenberg,Elisenberg,270
+Oslo Plaza,Jens Bjelkes Gate,270
+Norsk Folkemuseum,SkÃ¸yen,270
+Jens Bjelkes Gate,Gunerius,270
+Huitfeldts gate,RÃ¥dhusgata,270
+Majorstuen,Bislettgata,269
+Hans Nielsen Hauges plass,Ringnes Park,269
+Lakkegata,Helga Helgesens plass,269
+Bogstadveien,Bislettgata,269
+Studenterlunden,Studenterlunden,269
+TÃ¸yen skole,Finnmarksgata,269
+Bjerregaards gate,Bislett Stadion,268
+Sukkerbiten,Salt,268
+Fred Olsens gate,Vippetangen Ã¸st,268
+Tjuvholmen,Sukkerbiten,268
+BjÃ¸rvika,Lakkegata,268
+Alexander Kiellands Plass,Stjerneplassen,268
+Frognerbadet,Frogner plass,268
+Vulkan,Aker Brygge,268
+Jess Carlsens gate,Alexander Kiellands Plass,268
+Majorstuen,Suhms gate,267
+Alexander Kiellands Plass,SjÃ¸siden ved trappen,267
+Chr. Michelsens Gate,Ringnes Park,267
+Elisenberg,Frogner Stadion,267
+Professor Aschehougs plass,Alexander Kiellands Plass,267
+Bislettgata,Bislett Stadion,267
+Olaf Ryes plass,Arkaden Nord,267
+Kirkegata 15,Helga Helgesens plass,267
+Elisenberg,Skovveien,267
+Olaf Ryes plass,Ringnes Park,267
+Jakob kirke,Fagerheimgata,267
+KontraskjÃ¦ret,KontraskjÃ¦ret,266
+Bjerregaards gate,Torggata,266
+VÃ¥r Frelsers gravlund,Akersgata,266
+Helga Helgesens plass,Arkaden Nord,266
+Ringnes Park,Jens Bjelkes Gate,266
+Majorstuveien,Uranienborgveien,266
+BjÃ¸lsendumpa,Ringnes Park,266
+Galgeberg,Rostockgata,266
+Carl Berners plass sÃ¸r,Sommerfrydhagen,266
+Ringnes Park,Sofienbergparken nord,266
+Sofienbergparken nord,Sentrum Scene,265
+Tjuvholmen,Oslo Handelsgymnasium,265
+Bankplassen,SjÃ¸siden 1 ved trappen,265
+Sofienbergparken nord,Fredensborg,265
+Drammensveien,Drammensveien,265
+Holbergs plass,Aker Brygge,265
+GrÃ¼nerhagen Nord,TÃ¸yen skole,265
+Annette Thommessens Plass,Alexander Kiellands Plass,265
+Salt,Salt,264
+Annette Thommessens Plass,Aker Brygge,264
+The Hub,Schous plass trikkestopp,264
+SjÃ¸siden ved trappen,Dokkveien,264
+Vulkan,Helga Helgesens plass,264
+Bankplassen,Alexander Kiellands Plass,263
+Jens Bjelkes Gate,Sentrum Scene,263
+Landstads gate,Linaaes gate,263
+Edvard Storms gate,Oslo Handelsgymnasium,262
+Bogstadveien,Oscars gate,262
+Lindern,Griffenfeldts gate,262
+Ringnes Park,Vulkan,262
+Henrik Ibsens gate,Tjuvholmen,262
+Sukkerbiten,Karenslyst allÃ©,262
+Alexander Kiellands Plass,PalÃ©haven,261
+St. Olavs gate,Kirkeristen,261
+SjÃ¸siden ved trappen,Dyvekes bru,261
+Stavangergata,Stavangergata,261
+Torshovparken vest,Torggata,261
+Olaf Ryes plass,Sofienbergparken nord,261
+Bogstadveien,Elisenberg,261
+BjÃ¸lsen Studentby,BjÃ¸lsen Studentby,261
+Majorstua skole,Oscars gate,261
+BjÃ¸rvika,Skovveien,261
+GrÃ¸nlands torg,KvÃ¦rnerbyen,261
+Bogstadveien,Henrik Ibsens gate,260
+Birkelunden,Olaf Ryes plass,260
+SotahjÃ¸rnet,Helga Helgesens plass,260
+BjÃ¸lsendumpa,MyralÃ¸kka Ã˜st,260
+Majorstua skole,Stensparken,260
+Majorstua skole,Thune,260
+Sagene bussholdeplass,Lilleborgbanen,260
+GrÃ¸nlands torg,Rostockgata,260
+Lille Schous plass,Botanisk Hage sÃ¸r,260
+Schous plass,Spikersuppa Vest,260
+Olaf Ryes plass,St. Olavs gate,260
+SkÃ¸yen,Norsk Folkemuseum,260
+Helga Helgesens plass,KvÃ¦rnerbyen,259
+TÃ¸yen skole,MÃ¸lleparken,259
+Aker Brygge,Torggata,259
+AHO,Fredensborg,259
+Ringnes Park,Sofienbergparken nordvest,259
+Helga Helgesens plass,Linaaes gate,259
+VÃ¥r Frelsers gravlund,Linaaes gate,259
+Rostockgata,Spikersuppa Vest,259
+Aker Brygge,St. Olavs gate,258
+Gunerius,Olaf Ryes plass,258
+Lakkegata,Bankplassen,258
+Sukkerbiten,Pilestredet Studenthus,257
+Botanisk Hage sÃ¸r,Spikersuppa Ã˜st,257
+Huitfeldts gate,Bankplassen,257
+The Hub,Sofienbergparken nord,257
+Sofienberggata,TÃ¸yenbekken,257
+Storo Storsenter,Lilleborgbanen,257
+GrÃ¼nerhagen Nord,Sentrum Scene,257
+Frogner Stadion,Tjuvholmen,257
+Tjuvholmen,Hoffsveien,257
+BI Nydalen,Storo Storsenter,257
+Forskningsveien,Marcus Thranes gate,257
+Georg Morgenstiernes hus,Georg Morgenstiernes hus,257
+Marcus Thranes gate,Bjerregaards gate,257
+Alexander Kiellands Plass,Schous plass,257
+Trelastgata,BjÃ¸rvika,256
+Skillebekk,SkÃ¸yen,256
+DÃ¦lenenggata,Alexander Kiellands Plass,256
+Henrik Ibsens gate,Henrik Ibsens gate,256
+Alexander Kiellands Plass,Oslo Plaza,256
+Munkegata,PalÃ©haven,256
+Tjuvholmen,Akerselvallmenningen,256
+Oscars gate,Bankplassen,256
+Bislett Stadion,7. juni-plassen,256
+Kirkeristen,Botanisk Hage sÃ¸r,256
+Anker Hotel,Sukkerbiten,256
+Colosseum Kino,Frogner plass,256
+LÃ¸renporten,Hasle Torg,256
+Jernbanetorget,Schous plass,255
+Sofienbergparken sÃ¸r,Vaterlandsparken,255
+Aker Brygge,Slottsparken Ã˜st,255
+BjÃ¸rvika,Skillebekk,255
+Helga Helgesens plass,Bankplassen,255
+Munkegata,Kirkeristen,255
+BjÃ¸lsendumpa,Alexander Kiellands Plass,255
+Mandalls gate,Mandalls gate,255
+Bjerregaards gate,St. Olavs gate,255
+Akerselvallmenningen,Vippetangen vest,255
+TÃ¸yenbekken,Lakkegata,255
+Sentrum Scene,Ringnes Park,254
+Jess Carlsens gate,AHO,254
+Jess Carlsens gate,Sentrum Scene,254
+Lille Grensen,Vulkan,254
+Schous plass,Jakob kirke,254
+St. Hanshaugen park vest,VÃ¥r Frelsers gravlund,254
+Hausmanns bru,Helga Helgesens plass,254
+Edvard Storms gate,Kirkeristen,254
+VÃ¥r Frelsers gravlund,Jernbanetorget,254
+Huitfeldts gate,Skillebekk,253
+Olaf Ryes plass,Aker Brygge 1 mot Nasjonalmuseet,253
+Huitfeldts gate,Edvard Storms gate,253
+Munkegata,Sofienbergparken nordvest,253
+GrÃ¸nlands torg,Lodalen busstopp,253
+Oscars gate,Saga Kino,253
+Hammersborg Torg,Lille Grensen,253
+AHO,Vaterlandsparken,253
+Schous plass,Linaaes gate,252
+Botanisk Hage vest,The Hub,252
+Hallings gate,Bislett Stadion,252
+Enerhaugen,Kirkeristen,252
+Fram-gÃ¥rden,Dokkveien,252
+Langkaia,Sukkerbiten,252
+GrÃ¼nerhagen Nord,GrÃ¼nerhagen Nord,252
+Brugata,Jens Bjelkes Gate,252
+Stjerneplassen,Sukkerbiten,252
+BjÃ¸lsendumpa,Arendalsgata,252
+Huk 2,Frognerstranda,252
+BjÃ¸lsen Studentby,Ringnes Park,251
+Tjuvholmen,Spikersuppa Ã˜st,251
+Bislettgata,Bjerregaards gate,251
+Huk 2,Norsk Folkemuseum,251
+Akerselvallmenningen,Tjuvholmen,251
+Alexander Kiellands Plass,Bislettgata,251
+Jernbanetorget,Munkegata,251
+Huitfeldts gate,Kirkegata 15,251
+Huk 2,Filipstadveien,251
+EnsjÃ¸ T-bane,Trelastgata,251
+Sofienbergparken nordvest,Trondheimsveien,251
+Briskeby,Majorstuen,251
+Storo Storsenter,Birkelunden,251
+Munkegata,The Hub,251
+Aker Brygge 3 mot Fergene,Kirkeristen,250
+Sofienbergparken nordvest,Schous plass,250
+Skillebekk,Bankplassen,250
+Frogner plass,Elisenberg,250
+Sukkerbiten,Lakkegata,250
+Sukkerbiten,Arkaden Nord,250
+FrÃ¸en T-bane,Majorstuen,250
+Olaf Ryes plass,Spikersuppa Vest,250
+Slottsparken Ã˜st,Kirkeristen,250
+BjÃ¸rvika,Dyvekes bru,250
+Helga Helgesens plass,TÃ¸yenbekken,250
+Botanisk Hage vest,Helga Helgesens plass,250
+Sommerfrydhagen,Annette Thommessens Plass,249
+Hoffsveien,Filipstadveien,249
+Rostockgata,Munkegata,249
+Bislett Stadion,Kirkeristen,249
+SkÃ¸yen,Karenslyst allÃ©,249
+Professor Aschehougs plass,Olaf Ryes plass,249
+Kirkeristen,Alexander Kiellands Plass,249
+Marcus Thranes gate,AHO,248
+Salt,SjÃ¸siden 1 ved trappen,248
+Oslo Handelsgymnasium,Oslo Handelsgymnasium,248
+Bogstadveien,Bogstadveien,248
+Slottsparken Ã˜st,Tjuvholmen,248
+Linaaes gate,Linaaes gate,248
+Elisenberg,Majorstuen,248
+Marcus Thranes gate,Sentrum Scene,248
+St. Olavs gate,Studenterlunden,247
+Jens Bjelkes Gate,Jakob kirke,247
+Akerselvallmenningen,Olaf Ryes plass,247
+Fredensborg,Ringnes Park,247
+Marcus Thranes gate,UllevÃ¥l sykehus,247
+Hausmanns bru,BjÃ¸rvika,247
+MÃ¸lleparken,Torggata,247
+Bislett Stadion,Bislettgata,247
+Marcus Thranes gate,Kirkeristen,247
+Suhms gate,Majorstuen,247
+Bentsebrugata,UllevÃ¥l sykehus,247
+Aker Brygge 1 mot Nasjonalmuseet,Aker Brygge 1 mot Nasjonalmuseet,247
+Alexander Kiellands Plass,TÃ¸yen skole,246
+Tjuvholmen,Thomas Heftyes plass,246
+Majorstuen,Bislett Stadion,246
+Gimle Kino,Skillebekk,246
+Majorstua skole,Bogstadveien,246
+Karenslyst allÃ©,Frognerstranda,246
+Botanisk Hage sÃ¸r,Botanisk hage sÃ¸r-vest,246
+Kirkeristen,AHO,246
+TÃ¸yenbekken,Jess Carlsens gate,246
+Linaaes gate,Sofienbergparken nord,246
+Fred Olsens gate,Aker Brygge,246
+Hedmarksgata,TÃ¸yen skole,246
+Henrik Ibsens gate,7. juni-plassen,246
+Majorstua skole,Hoffsveien,246
+Gimle Kino,Dokkveien,245
+Vestkanttorvet,Vestkanttorvet,245
+Torggata,Vulkan,245
+Helga Helgesens plass,BjÃ¸rvika,245
+Sofienbergparken nordvest,Sofienberggata,245
+Rostockgata,Via Vika,245
+Fagerheimgata,Alexander Kiellands Plass,245
+Uranienborgveien,Saga Kino,245
+Majorstua skole,Thomas Heftyes plass,245
+DÃ¦lenenggata,Carl Berners plass sÃ¸r,245
+Botanisk hage sÃ¸r-vest,Helga Helgesens plass,245
+AHO,BjÃ¸rvika,245
+PalÃ©haven,Vippetangen vest,244
+Alexander Kiellands Plass,Aker Brygge,244
+Akerselvallmenningen,Birkelunden,244
+Stjerneplassen,Stjerneplassen,244
+Helga Helgesens plass,Kjeld Stubs gate,244
+Munkegata,Lakkegata,244
+Ringnes Park,Vaterlandsparken,244
+Bislettgata,Tjuvholmen,244
+Henrik Ibsens gate,Saga Kino,244
+Linaaes gate,Nordre gate,244
+Olaf Ryes plass,Lille Grensen,244
+Storo Storsenter,Jenny Braatens Plass,244
+Frogner plass,Aker Brygge,243
+Aker Brygge,Helga Helgesens plass,243
+Alexander Kiellands Plass,Munkegata,243
+Frogner plass,Thune,243
+Munkegata,Annette Thommessens Plass,243
+PalÃ©haven,Dyvekes bru,242
+Storo Storsenter,Nydalen,242
+Bislett Stadion,Parkveien,242
+GrÃ¼nerhagen Nord,Kirkeristen,242
+Kirkeristen,BjÃ¸rvika,242
+Jernbanetorget,Aker Brygge,242
+Lille Grensen,AHO,242
+Schous plass,Aker Brygge,242
+Oslo Plaza,Jess Carlsens gate,241
+Storo Storsenter,Arendalsgata,241
+Bislett Stadion,Skovveien,241
+Professor Aschehougs plass,BjÃ¸rvika,241
+KÃ¸benhavngata busstopp,Ringnes Park,241
+Dyvekes bru,Dyvekes bru,241
+Elisenberg,Bogstadveien,241
+Vippetangen vest,SjÃ¸siden 2 ved fontenen,241
+MÃ¸lleparken,TÃ¸yenbekken,241
+Aker Brygge 2 mot RÃ¥dhusplassen,Aker Brygge 2 mot RÃ¥dhusplassen,240
+Carl Berners plass sÃ¸r,TÃ¸yenparken,240
+Bjerregaardsgate Ã˜st,Linaaes gate,240
+Oslo Hospital,SjÃ¸siden ved fontenen,240
+Briskeby,Bogstadveien,240
+Sukkerbiten,Spikersuppa Ã˜st,240
+TÃ¸yen skole,GrÃ¼nerhagen Nord,240
+Vulkan,Bankplassen,240
+Thomas Heftyes plass,7. juni-plassen,240
+Bislett Stadion,Henrik Ibsens gate,240
+Frognerstranda,Munkedamsveien,240
+GrÃ¸nlands torg,Dyvekes bru,240
+Brugata,Brugata,240
+Edvard Storms gate,Sukkerbiten,239
+Alexander Kiellands Plass,BjÃ¸rvika,239
+Ringnes Park,Jernbanetorget,239
+Carl Berners plass sÃ¸r,Ringnes Park,239
+OsloMet,Aker Brygge,239
+Frogner plass,Dokkveien,239
+Sofienbergparken sÃ¸r,Oslo Plaza,239
+Botanisk Hage sÃ¸r,Ringnes Park,239
+Kirkeristen,Sofienbergparken nordvest,238
+Oslo Handelsgymnasium,Frognerstranda,238
+Hoffsveien,SjÃ¸lyst,238
+AHO,Stjerneplassen,238
+Kirkeristen,Oscars gate,238
+MÃ¸lleparken,Botanisk Hage sÃ¸r,238
+Professor Aschehougs plass,Parkveien,238
+The Hub,Schous plass,238
+Rostockgata,Bankplassen,238
+VÃ¥r Frelsers gravlund,Sukkerbiten,237
+Briskeby,Briskeby,237
+Torggata,Spikersuppa Ã˜st,237
+Storo Storsenter,Olaf Ryes plass,237
+Majorstuen,Briskeby,237
+VÃ¥r Frelsers gravlund,PalÃ©haven,237
+Helga Helgesens plass,Rostockgata,237
+Oscars gate,Henrik Ibsens gate,237
+Oslo Hospital,Vaterlandsparken,237
+Tjuvholmen,Henrik Wergelands allÃ©,237
+Linaaes gate,Botanisk Hage sÃ¸r,237
+Fred Olsens gate,Fred Olsens gate,236
+VÃ¥r Frelsers gravlund,Aker Brygge,236
+Aker Brygge,Lille Grensen,236
+Alexander Kiellands Plass,Fagerheimgata,236
+OsloMet,Kirkeristen,236
+Fagerheimgata,Birkelunden,236
+Sinsen T-bane,Storo Storsenter,236
+Lille Grensen,Alexander Kiellands Plass,236
+EnsjÃ¸ T-bane,KvÃ¦rnerbyen,236
+KontraskjÃ¦ret,Frognerstranda,236
+Vulkan,Lille Grensen,236
+St. Olavs gate,Filipstadveien,236
+Gunerius,Gunerius,236
+Fredensborg,Schous plass trikkestopp,236
+Skovveien,Bislett Stadion,236
+Thune,SkÃ¸yen,235
+VÃ¥r Frelsers gravlund,Lille Grensen,235
+Bjerregaardsgate Ã˜st,The Hub,235
+Georg Morgenstiernes hus,Majorstuen,235
+Olaf Ryes plass,Kirkegata 15,235
+Jakob kirke,Bankplassen,235
+Schous plass,Jernbanetorget,235
+Frognerveien,Frognerveien,235
+Hammersborg Torg,Vulkan,235
+Bislett Stadion,Aker Brygge,235
+Fyrstikktorget,KvÃ¦rnerbyen,234
+Fagerheimgata,Oslo Plaza,234
+Edvard Storms gate,Aker Brygge,234
+Parkveien,Huitfeldts gate,234
+Munkegata,BjÃ¸rvika,234
+AHO,Schous plass trikkestopp,234
+Thomas Heftyes plass,Filipstadveien,234
+Frognerbadet,SkÃ¸yen,233
+VÃ¥r Frelsers gravlund,Saga Kino,233
+Aker Brygge,Studentparlamentet,233
+Studentparlamentet,Aker Brygge,233
+Lille Grensen,Bankplassen,233
+MÃ¸lleparken,Sommerfrydhagen,233
+Hydroparken,7. juni-plassen,233
+Arkitekt Rivertz Plass,Uelands gate,233
+BjÃ¸lsen Studentby,Arendalsgata,233
+Munkegata,TÃ¸yenbekken,232
+Tjuvholmen,Uranienborgveien,232
+Georg Morgenstiernes hus,UllevÃ¥lsveien,232
+VÃ¥r Frelsers gravlund,Hammersborg Torg,232
+Sukkerbiten,Jens Bjelkes Gate,232
+SjÃ¸siden 2 ved fontenen,SjÃ¸siden 2 ved fontenen,231
+Birkelunden,Aker Brygge,231
+Spikersuppa Ã˜st,Tjuvholmen,231
+BjÃ¸rvika,Vippetangen vest,231
+Sommerfrydhagen,Kirkeristen,231
+Vippetangen Ã¸st,SjÃ¸siden 1 ved trappen,231
+Botanisk Hage sÃ¸r,GrÃ¼nerhagen Nord,231
+Maritimt Museum,Huk 2,231
+Klingenberggata,Klingenberggata,231
+Stavangergata,BjÃ¸lsen Studentby,230
+Galgeberg,Helga Helgesens plass,230
+RuselÃ¸kkgÃ¥rden,Over RÃ¥dhusgata,230
+Fram-gÃ¥rden,Spikersuppa Ã˜st,230
+Frogner plass,Filipstadveien,229
+Tjuvholmen,Huk 2,229
+Helga Helgesens plass,Botanisk Hage vest,229
+Ila,Torggata,229
+Marienlystparken,Majorstuen,229
+Bislettgata,St. Olavs gate,229
+Alexander Kiellands Plass,Vaterlandsparken,229
+Jordalgata,Jordalgata,229
+Frogner Stadion,Elisenberg,229
+Birkelunden,VÃ¥r Frelsers gravlund,229
+Lille Grensen,Helga Helgesens plass,229
+Universitetsgata,Aker Brygge 1 mot Nasjonalmuseet,229
+BI Nydalen,Alexander Kiellands Plass,229
+Jess Carlsens gate,Kirkeristen,229
+Karenslyst allÃ©,TÃ¸yen skole,229
+Kirkegata 15,Aker Brygge,229
+Tjuvholmen,Filipstadveien,229
+Fred Olsens gate,Oslo Hospital,229
+Schous plass,RÃ¥dhusgata,228
+Munkegata,Vaterlandsparken,228
+Torggata,Schous plass trikkestopp,228
+Jernbanetorget,Hammersborg Torg,228
+TÃ¸yen skole,Schous plass trikkestopp,228
+UllevÃ¥l sykehus,Alexander Kiellands Plass,228
+Olaf Ryes plass,SjÃ¸siden ved trappen,228
+Chr. Michelsens Gate,Marcus Thranes gate,228
+Hasle Torg,LÃ¸renporten,228
+7. juni-plassen,Edvard Storms gate,228
+Majorstuen T-bane,Frogner plass,228
+Lille Grensen,Torggata,228
+Dokkveien,Ringnes Park,228
+Elisenberg,Henrik Wergelands allÃ©,228
+Vulkan,Spikersuppa Ã˜st,227
+Torggata,Jernbanetorget,227
+MÃ¸lleparken,Bislett Stadion,227
+EnsjÃ¸ T-bane,EnsjÃ¸ T-bane,227
+Vippetangen vest,Aker Brygge 2 mot RÃ¥dhusplassen,227
+Sofienbergparken sÃ¸r,Kirkeristen,227
+Olaf Ryes plass,Munkegata,227
+VÃ¥r Frelsers gravlund,Olaf Ryes plass,227
+Professor Aschehougs plass,Munkegata,227
+Kirkegata 15,Sukkerbiten,227
+BjÃ¸lsen Studentby,Birkelunden,227
+Lille Schous plass,Torggata,227
+Bislettgata,Kirkeristen,226
+Munkegata,Linaaes gate,226
+Munkegata,SjÃ¸siden ved trappen,226
+Henrik Ibsens gate,Oscars gate,226
+Carl Berners plass sÃ¸r,Helga Helgesens plass,226
+Alexander Kiellands Plass,Sofienbergparken sÃ¸r,226
+Jernbanetorget,Torggata,226
+Karenslyst allÃ©,Sukkerbiten,226
+MyralÃ¸kka Ã˜st,Alexander Kiellands Plass,226
+UllevÃ¥l sykehus,UllevÃ¥l sykehus,226
+BjÃ¸lsen mÃ¸lle,Ringnes Park,226
+Alexander Kiellands Plass,Jens Bjelkes Gate,226
+Kirkeristen,GrÃ¸nlands torg,226
+Bislett Stadion,Majorstuen,225
+Helga Helgesens plass,TÃ¸yen skole,225
+Aker Brygge 3 mot Fergene,SjÃ¸siden 1 ved trappen,225
+Sofienbergparken nord,Bankplassen,225
+Nybrua holdeplass,Nybrua holdeplass,225
+Birkelunden,Bentsebrugata,225
+Botanisk hage sÃ¸r-vest,Botanisk Hage sÃ¸r,225
+Sofienbergparken nordvest,Sukkerbiten,225
+Vaterlandsparken,Munkegata,225
+Henrik Wergelands allÃ©,Bogstadveien,225
+TÃ¸yen skole,Lakkegata,224
+The Hub,Lakkegata,224
+Kjeld Stubs gate,Kjeld Stubs gate,224
+Trondheimsveien,TÃ¸yen skole,224
+Bislett Stadion,Hallings gate,224
+Bogstadveien,Kirkeristen,224
+BjÃ¸lsen Studentby,Storo Storsenter,224
+Over RÃ¥dhusgata,RuselÃ¸kkgÃ¥rden,224
+Sentrum Scene,Sukkerbiten,224
+Olaf Ryes plass,Akerselvallmenningen,224
+Majorstuen,Karenslyst allÃ©,224
+Sukkerbiten,KontraskjÃ¦ret,224
+GrÃ¸nlands torg,The Hub,223
+Bjerregaardsgate Ã˜st,Torggata,223
+Universitetsgata,Universitetsgata,223
+Lakkegata,GrÃ¸nlands torg,223
+Parkveien,Parkveien,223
+BjÃ¸rvika,Trelastgata,223
+Bentsebrugata,Dokkveien,223
+Hausmanns bru,Jens Bjelkes Gate,222
+Oscars gate,Kirkeristen,222
+Sofienbergparken nordvest,Sentrum Scene,222
+Bankplassen,Sukkerbiten,222
+Fredensborg,Spikersuppa Vest,222
+Frogner Stadion,Briskeby,222
+Alexander Kiellands Plass,Bjerregaards gate,222
+Fram-gÃ¥rden,7. juni-plassen,222
+VÃ¥r Frelsers gravlund,Torggata,222
+Volvat,Majorstua skole,222
+Sofienbergparken sÃ¸r,Sofienbergparken sÃ¸r,222
+Jens Bjelkes Gate,Sofienbergparken nordvest,222
+Ringnes Park,VÃ¥r Frelsers gravlund,221
+Birkelunden,Sentrum Scene,221
+Jernbanetorget,Schous plass trikkestopp,221
+RÃ¥dhusgata,Sukkerbiten,221
+Birkelunden,Jens Bjelkes Gate,221
+Jakob kirke,Vulkan,221
+Storo Storsenter,Sinsen T-bane,221
+AHO,Vippetangen vest,221
+Botanisk Hage sÃ¸r,Sofienbergparken sÃ¸r,221
+Hasle Torg,EnsjÃ¸ T-bane,221
+Mandalls gate,Munkegata,221
+Rostockgata,Galgeberg,221
+Bislett Stadion,Spikersuppa Vest,220
+Vestkanttorvet,Tjuvholmen,220
+VÃ¥r Frelsers gravlund,SjÃ¸siden ved trappen,220
+SotahjÃ¸rnet,Rostockgata,220
+Aker Brygge,Salt,220
+Majorstuen,Vestkanttorvet,220
+Sofienbergparken nordvest,Vaterlandsparken,220
+Fagerheimgata,Ringnes Park,220
+Munkegata,Oslo Plaza,220
+Tjuvholmen,Bislettgata,220
+Sofienbergparken nord,Aker Brygge,220
+SkrÃ¥ninga,Olaf Ryes plass,219
+Trondheimsveien,Kirkeristen,219
+TÃ¸yen skole,Nordre gate,219
+Sukkerbiten,Bankplassen,219
+Professor Aschehougs plass,Aker Brygge,219
+Galgeberg,Galgeberg,219
+Bjerregaards gate,Bjerregaardsgate Ã˜st,219
+Majorstuen,Parkveien,219
+Birkelunden,Alexander Kiellands Plass,218
+Dokkveien,Bankplassen,218
+Jakob kirke,Spikersuppa Ã˜st,218
+Nydalen,BI Nydalen,218
+Jernbanetorget,Oslo Hospital,218
+Elisenberg,Tjuvholmen,218
+Dokkveien,Olaf Ryes plass,218
+Majorstuen,Thune,218
+Griffenfeldts gate,Chr. Michelsens Gate,218
+Lilleborgbanen,TÃ¸yen skole,218
+Olaf Ryes plass,VÃ¥r Frelsers gravlund,218
+Bjerregaards gate,Bislettgata,218
+Helga Helgesens plass,SjÃ¸siden 1 ved trappen,217
+BjÃ¸rvika,Frognerstranda,217
+Majorstua skole,Karenslyst allÃ©,217
+Jordalgata,SjÃ¸siden ved trappen,217
+Tjuvholmen,St. Olavs gate,217
+SjÃ¸siden 1 ved trappen,Tjuvholmen,217
+Stavangergata,MyralÃ¸kka Ã˜st,217
+Sukkerbiten,Birkelunden,217
+Karenslyst allÃ©,Norsk Folkemuseum,217
+Over RÃ¥dhusgata,Aker Brygge,217
+Jess Carlsens gate,Lille Grensen,217
+Elgsletta,Elgsletta,217
+Sofienbergparken nord,Lille Schous plass,217
+SjÃ¸lyst,Hoffsveien,216
+Stensparken,VÃ¥r Frelsers gravlund,216
+Hallings gate,Ringnes Park,216
+The Hub,KvÃ¦rnerbyen,216
+Skovveien,Filipstadveien,216
+Studenterlunden,St. Olavs gate,216
+SjÃ¸siden 1 ved trappen,Aker Brygge 3 mot Fergene,216
+Vippetangen Ã¸st,Aker Brygge,216
+Olaf Ryes plass,GrÃ¸nlands torg,216
+Schous plass trikkestopp,Sukkerbiten,216
+Slottsparken Ã˜st,Munkegata,216
+Sukkerbiten,RÃ¥dhusgata,216
+Oslo Handelsgymnasium,Bankplassen,216
+Vulkan,Lakkegata,216
+Sognsveien,UllevÃ¥lsallÃ©en,216
+Lille Grensen,SÃ¸ndre gate,215
+Bjerregaards gate,VÃ¥r Frelsers gravlund,215
+Jakob kirke,Jens Bjelkes Gate,215
+Akerselvallmenningen,Botanisk Hage sÃ¸r,215
+TÃ¸yen skole,Alexander Kiellands Plass,215
+AHO,Lille Grensen,215
+Aker Brygge 3 mot Fergene,Akerselvallmenningen,215
+Tjuvholmen,Frogner Stadion,215
+Fagerheimgata,Bjerregaards gate,215
+Aker Brygge,PalÃ©haven,215
+Stavangergata,Ringnes Park,215
+Colosseum Kino,Karenslyst allÃ©,215
+GrÃ¸nlands torg,Sommerfrydhagen,215
+Jens Bjelkes Gate,Tjuvholmen,214
+Rostockgata,Lodalen busstopp,214
+Bislettgata,Oscars gate,214
+MÃ¸lleparken,Schous plass,214
+Munkegata,Torggata,214
+Akerselvallmenningen,Aker Brygge 1 mot Nasjonalmuseet,214
+Hans Nielsen Hauges plass,Storo Storsenter,214
+Sofienbergparken sÃ¸r,The Hub,214
+The Hub,Vulkan,214
+St. Olavs gate,Ringnes Park,214
+Nydalen,Storo Storsenter,214
+Marcus Thranes gate,DÃ¦lenenggata,213
+Galgeberg,Trelastgata,213
+Stensparken,Majorstuen,213
+KontraskjÃ¦ret,Dokkveien,213
+St. Hanshaugen park vest,Akersgata,213
+Uelands gate,Torggata,213
+Bislett Stadion,Edvard Storms gate,213
+Elisenberg,Frogner plass,213
+Jens Bjelkes Gate,GrÃ¸nlands torg,213
+Bankplassen,Dokkveien,213
+Kirkeristen,Aker Brygge 1 mot Nasjonalmuseet,213
+Brugata,Helga Helgesens plass,213
+Bislett Stadion,Professor Aschehougs plass,213
+Bjerregaardsgate Ã˜st,Hammersborg Torg,213
+Bislettgata,Professor Aschehougs plass,213
+TÃ¸yen skole,Sirkustomta,212
+Botanisk Hage sÃ¸r,Spikersuppa Vest,212
+Fredensborg,Jernbanetorget,212
+Linaaes gate,Jakob kirke,212
+Drammensveien,Karenslyst allÃ©,212
+Fredensborg,St. Olavs gate,212
+Fram-gÃ¥rden,Thomas Heftyes plass,212
+VÃ¥lerenga,Helga Helgesens plass,212
+Oslo Plaza,Sofienbergparken nordvest,212
+Landstads gate,TÃ¸yenbekken,212
+Arkitekt Rivertz Plass,Torggata,212
+Hammersborg Torg,Akersgata,211
+Jess Carlsens gate,Aker Brygge,211
+Tjuvholmen,Gimle Kino,211
+Jernbanetorget,Ringnes Park,211
+MÃ¸lleparken,Jens Bjelkes Gate,211
+Torggata,Bankplassen,211
+Helga Helgesens plass,Fredensborg,211
+Jakob kirke,Alexander Kiellands Plass,211
+TÃ¸yen skole,Hesselbergs Gate,211
+Vulkan,Jess Carlsens gate,211
+Hydroparken,Hydroparken,211
+LÃ¸renveien,LÃ¸renveien,211
+Tjuvholmen,Skovveien,211
+SkÃ¸yen,Colosseum Kino,211
+Sofienberggata,Birkelunden,210
+Hammersborg Torg,Jernbanetorget,210
+VÃ¥r Frelsers gravlund,Studenterlunden,210
+SkÃ¸yen,Drammensveien,210
+Arkitekt Rivertz Plass,Chr. Michelsens Gate,210
+Fagerheimgata,SjÃ¸siden ved trappen,210
+Jens Bjelkes Gate,Stjerneplassen,210
+St. Olavs gate,7. juni-plassen,210
+Spikersuppa Ã˜st,Aker Brygge,209
+Valkyrieplassen,Bogstadveien,209
+Uranienborgveien,Spikersuppa Ã˜st,209
+Nordre gate,Helga Helgesens plass,209
+AHO,Vulkan,209
+UllevÃ¥lsveien,Alexander Kiellands Plass,209
+Fagerheimgata,MÃ¸lleparken,209
+MÃ¸lleparken,Alexander Kiellands Plass,209
+Stensgata,Bislett Stadion,209
+Bjerregaards gate,Bjerregaards gate,209
+Filipstadveien,Sukkerbiten,209
+Gimle Kino,Oslo Handelsgymnasium,209
+Aker Brygge,Langkaia,209
+Landstads gate,Landstads gate,209
+Frognerstranda,Skillebekk,209
+BI Nydalen,Fredensborg,209
+Linaaes gate,Ringnes Park,209
+Kirkeristen,Rostockgata,209
+Fredensborg,Sofienbergparken nordvest,209
+Salt,Sukkerbiten,208
+Dokkveien,AHO,208
+Frogner plass,Skovveien,208
+Ringnes Park,Carl Berners plass nord,208
+Vulkan,St. Olavs gate,208
+Thomas Heftyes plass,Spikersuppa Ã˜st,208
+Schous plass trikkestopp,TÃ¸yen skole,208
+Bislett Stadion,Oslo Handelsgymnasium,208
+Jordalgata,BjÃ¸rvika,208
+Sukkerbiten,St. Olavs gate,208
+Fysikkbygningen,Fysikkbygningen,208
+Fagerheimgata,Sentrum Scene,208
+Botanisk Hage sÃ¸r,Vaterlandsparken,208
+Akersgata,Aker Brygge,208
+Rostockgata,Kirkegata 15,208
+Anker Hotel,Bankplassen,208
+Lindern,Chr. Michelsens Gate,208
+Oscars gate,Karenslyst allÃ©,207
+Bentsebrugata,The Hub,207
+OsloMet,Helga Helgesens plass,207
+TÃ¸yen skole,Sukkerbiten,207
+Bankplassen,Oscars gate,207
+Sofienberggata,Sofienberggata,207
+Botanisk Hage sÃ¸r,Lille Schous plass,207
+Tjuvholmen,BjÃ¸rvika,207
+KvÃ¦rnerbyen,TÃ¸yenbekken,207
+Vippetangen vest,Sukkerbiten,207
+Botanisk Hage sÃ¸r,Sentrum Scene,207
+Frogner plass,Majorstua skole,207
+Schous plass,SkrÃ¥ninga,207
+SkÃ¸yen Stasjon,Hoffsveien,207
+Ringnes Park,Tjuvholmen,207
+Oscars gate,Skillebekk,206
+Holbergs plass,Holbergs plass,206
+Uranienborgveien,Uranienborgveien,206
+Sognsveien,Sogn Studentby,206
+Henrik Ibsens gate,Sukkerbiten,206
+Hallings gate,7. juni-plassen,206
+Skovveien,Skovveien,206
+Tjuvholmen,RÃ¥dhusgata,206
+Rostockgata,Kirkeristen,206
+Marcus Thranes gate,Helga Helgesens plass,206
+Schous plass,Oslo Plaza,206
+Aker Brygge 3 mot Fergene,Sukkerbiten,206
+Krebs' gate,Ringnes Park,206
+Jernbanetorget,SÃ¸ndre gate,206
+Sofienberggata,The Hub,205
+Schous plass trikkestopp,Vaterlandsparken,205
+Uranienborgparken,Henrik Ibsens gate,205
+Sagene bussholdeplass,Sagene bussholdeplass,205
+Aker Brygge,Munkegata,205
+RuselÃ¸kkgÃ¥rden,BjÃ¸rvika,205
+7. juni-plassen,Henrik Ibsens gate,205
+Hesselbergs Gate,The Hub,205
+7. juni-plassen,Bjerregaards gate,205
+Ringnes Park,Bjerregaardsgate Ã˜st,205
+Salt,Aker Brygge 2 mot RÃ¥dhusplassen,205
+AHO,Alexander Kiellands Plass,205
+Sukkerbiten,Vulkan,204
+KvÃ¦rnerbyen,Sukkerbiten,204
+Fram-gÃ¥rden,Saga Kino,204
+Hasle Torg,Fyrstikktorget,204
+BjÃ¸rvika,Jens Bjelkes Gate,204
+Sofienbergparken nord,Aker Brygge 1 mot Nasjonalmuseet,204
+KvÃ¦rnerbyen,Bankplassen,204
+TÃ¸yen skole,Munkegata,204
+Schous plass,Akersgata,204
+Munkegata,Professor Aschehougs plass,204
+SkrÃ¥ninga,SÃ¸ndre gate,204
+Munkegata,Jernbanetorget,204
+Torggata,Lille Grensen,204
+Alexander Kiellands Plass,Spikersuppa Ã˜st,204
+Helga Helgesens plass,Nordre gate,204
+Bentsebrugata,Storo Storsenter,204
+Jens Bjelkes Gate,Fagerheimgata,204
+Briskeby,Elisenberg,203
+Birkelunden,Linaaes gate,203
+Sommerfrydhagen,GrÃ¼nerhagen Nord,203
+Bogstadveien,Saga Kino,203
+BjÃ¸lsen Studentby,Trondheimsveien,203
+TÃ¸yen skole,Mandalls gate,203
+Majorstuen,Alexander Kiellands Plass,203
+Jess Carlsens gate,Vippetangen vest,203
+Stavangergata,Torggata,203
+TÃ¸yen skole,Sentrum Scene,203
+Bankplassen,SÃ¸ndre gate,203
+Huitfeldts gate,BjÃ¸rvika,203
+Gimle Kino,BygdÃ¸y allÃ©,203
+Helga Helgesens plass,Schous plass trikkestopp,202
+Stavangergata,Lilleborgbanen,202
+Lakkegata,Vulkan,202
+Frognerveien,Kirkeristen,202
+Ringnes Park,Fagerheimgata,202
+Jernbanetorget,Helga Helgesens plass,202
+Kirkeristen,Tjuvholmen,202
+Schous plass,BjÃ¸rvika,202
+Schous plass,Sukkerbiten,202
+UllevÃ¥l sykehus,Sagene bussholdeplass,202
+TÃ¸yen skole,Bankplassen,202
+DÃ¦lenenggata,TÃ¸yen skole,202
+Marcus Thranes gate,Jakob kirke,201
+Olaf Ryes plass,Jess Carlsens gate,201
+Jernbanetorget,Sofienbergparken nordvest,201
+Sognsveien,Adamstuen,201
+Schous plass,TÃ¸yen skole,201
+Hallings gate,MÃ¸lleparken,201
+Vippetangen vest,The Hub,201
+Jakob kirke,Trondheimsveien,201
+Sirkustomta,Helga Helgesens plass,201
+Skippergata,Vippetangen vest,201
+St. Olavs gate,Sukkerbiten,201
+Carl Berners plass sÃ¸r,DÃ¦lenenggata,201
+KvÃ¦rnerbyen,Sommerfrydhagen,201
+Fredensborg,Helga Helgesens plass,200
+Olaf Ryes plass,Sommerfrydhagen,200
+Aker Brygge,Tjuvholmen,200
+Birkelunden,Vaterlandsparken,200
+Hausmanns gate,Lille Grensen,200
+Slottsparken Ã˜st,Sukkerbiten,200
+Slottsparken Ã˜st,Frogner plass,200
+Karenslyst allÃ©,Thomas Heftyes plass,200
+EnsjÃ¸ T-bane,Schous plass,200
+Jordalgata,Oslo Hospital,200
+Helga Helgesens plass,Dyvekes bru,200
+Landstads gate,The Hub,200
+Vulkan,TÃ¸yenbekken,200
+KvÃ¦rnerbyen,Sentrum Scene,200
+Frognerveien,7. juni-plassen,200
+Jess Carlsens gate,Filipstadveien,199
+Tjuvholmen,Klingenberggata,199
+Ringnes Park,Chr. Michelsens Gate,199
+Sinsenveien,Carl Berners plass nord,199
+Munkegata,Birkelunden,199
+Lakkegata,Rostockgata,199
+Schous plass,Kirkegata 15,199
+SjÃ¸siden 1 ved trappen,Aker Brygge 2 mot RÃ¥dhusplassen,199
+Jens Bjelkes Gate,Munkegata,199
+Sognsveien,Sognsveien,198
+Munkegata,Schous plass,198
+Sommerfrydhagen,Torggata,198
+Jernbanetorget,Sofienbergparken nord,198
+Sofienbergparken nord,Botanisk Hage sÃ¸r,198
+BjÃ¸rvika,Olaf Ryes plass,198
+SjÃ¸siden ved fontenen,Vippetangen vest,198
+Vippetangen vest,Akerselvallmenningen,198
+Oscars gate,Majorstuen,198
+Gunerius,KvÃ¦rnerbyen,198
+Vippetangen vest,BjÃ¸rvika,198
+TÃ¸yenparken,Sofienbergparken nordvest,198
+BjÃ¸lsen Studentby,Stavangergata,197
+Huitfeldts gate,PalÃ©haven,197
+Georg Morgenstiernes hus,Suhms gate,197
+Birkelunden,TÃ¸yenbekken,197
+GrÃ¸nlands torg,Torggata,197
+Bislett Stadion,AHO,197
+Hasle Torg,Tiedemannsparken,197
+Bislett Stadion,Jernbanetorget,197
+Bislettgata,BjÃ¸rvika,197
+Sofienberggata,GrÃ¼nerhagen Nord,197
+Schous plass trikkestopp,Jernbanetorget,197
+Vippetangen Ã¸st,Jernbanetorget,197
+Stensparken,Stensparken,197
+Skippergata,Skippergata,197
+Saga Kino,Alexander Kiellands Plass,197
+The Hub,Sofienbergparken nordvest,197
+St. Olavs gate,Spikersuppa Vest,197
+The Hub,Birkelunden,197
+Landstads gate,Vulkan,197
+Lakkegata,Hausmanns bru,197
+TÃ¸yenbekken,Olaf Ryes plass,197
+Salt,SjÃ¸siden ved trappen,197
+Ringnes Park,Linaaes gate,197
+HallÃ©nparken,Birkelunden,196
+BygdÃ¸y allÃ©,Hoffsveien,196
+BjÃ¸lsen mÃ¸lle,Alexander Kiellands Plass,196
+Nordre gate,Alexander Kiellands Plass,196
+SkÃ¸yen,Filipstadveien,196
+Karenslyst allÃ©,Huk 2,196
+Olaf Ryes plass,RÃ¥dhusgata,196
+Jess Carlsens gate,Spikersuppa Vest,196
+Ringnes Park,TÃ¸yenbekken,196
+Frognerstranda,Aker Brygge,196
+Forskningsveien,Alexander Kiellands Plass,196
+Jens Bjelkes Gate,Schous plass trikkestopp,196
+Tjuvholmen,Parkveien,196
+Annette Thommessens Plass,Bankplassen,196
+Carl Berners plass sÃ¸r,Jens Bjelkes Gate,196
+Linaaes gate,Sofienbergparken nordvest,195
+Marcus Thranes gate,Linaaes gate,195
+7. juni-plassen,7. juni-plassen,195
+Aker Brygge,Professor Aschehougs plass,195
+Bentsebrugata,Olaf Ryes plass,195
+St. Olavs gate,Helga Helgesens plass,195
+Fred Olsens gate,Rostockgata,195
+EnsjÃ¸ T-bane,Rostockgata,195
+Sofienbergparken nord,BjÃ¸rvika,195
+Aker Brygge,SjÃ¸siden ved fontenen,195
+Helga Helgesens plass,Alexander Kiellands Plass,195
+Bislettgata,Filipstadveien,195
+Lilleborgbanen,Torggata,195
+ColbjÃ¸rnsens gate,Tjuvholmen,195
+Sagene bussholdeplass,UllevÃ¥l sykehus,195
+Landstads gate,AHO,195
+KÃ¸benhavngata busstopp,Marcus Thranes gate,195
+Sinsen T-bane,Lilleborgbanen,194
+Fredensborg,Olaf Ryes plass,194
+Oscars gate,Bislett Stadion,194
+Thomas Heftyes plass,RuselÃ¸kkgÃ¥rden,194
+Jess Carlsens gate,GrÃ¸nlands torg,194
+Bjerregaardsgate Ã˜st,Helga Helgesens plass,194
+Bankplassen,Olaf Ryes plass,194
+SÃ¸ndre gate,The Hub,194
+Dyvekes bru,Bankplassen,194
+Fyrstikktorget,Hasle Torg,194
+Elisenberg,Filipstadveien,194
+Jens Bjelkes Gate,Linaaes gate,194
+Bislettgata,Majorstuen,194
+Frognerveien,Tjuvholmen,194
+Bjerregaards gate,The Hub,194
+Sofienbergparken nordvest,Jakob kirke,194
+Henrik Wergelands allÃ©,Oscars gate,194
+Birkelunden,Sofienbergparken nord,194
+Trondheimsveien,Olaf Ryes plass,193
+Linaaes gate,Torggata,193
+Enerhaugen,Enerhaugen,193
+Dokkveien,Akerselvallmenningen,193
+SjÃ¸siden ved trappen,Olaf Ryes plass,193
+Aker Brygge 2 mot RÃ¥dhusplassen,SjÃ¸siden 1 ved trappen,193
+Alexander Kiellands Plass,Studenterlunden,193
+Lille Schous plass,Kirkeristen,193
+Bislett Stadion,Oscars gate,193
+Jakob kirke,Sukkerbiten,193
+OsloMet,Spikersuppa Vest,193
+Sommerfrydhagen,BjÃ¸rvika,193
+VÃ¥r Frelsers gravlund,Bankplassen,193
+Jakob kirke,Linaaes gate,193
+ColbjÃ¸rnsens gate,ColbjÃ¸rnsens gate,193
+Dronningens gate,Sukkerbiten,193
+Birkelunden,Akerselvallmenningen,193
+Bislett Stadion,Jess Carlsens gate,193
+Vaterlandsparken,Sofienbergparken sÃ¸r,193
+Majorstua skole,Gimle Kino,192
+Rostockgata,Edvard Storms gate,192
+Schous plass,Sofienbergparken nord,192
+Norsk Folkemuseum,Karenslyst allÃ©,192
+VÃ¥r Frelsers gravlund,Birkelunden,192
+Annette Thommessens Plass,Munkegata,192
+Alexander Kiellands Plass,Hallings gate,192
+Slottsparken Ã˜st,RÃ¥dhusgata,192
+Helga Helgesens plass,St. Olavs gate,192
+Georg Morgenstiernes hus,Sognsveien,192
+Aker Brygge 2 mot RÃ¥dhusplassen,Vippetangen vest,192
+Domus Athletica,Domus Athletica,192
+St. Hanshaugen park vest,7. juni-plassen,192
+Briskeby,Henrik Ibsens gate,192
+Over RÃ¥dhusgata,Oscars gate,192
+Jens Bjelkes Gate,Aker Brygge,192
+Jakob kirke,Sofienbergparken nordvest,192
+KvÃ¦rnerveien,BjÃ¸rvika,192
+Ringnes Park,AHO,192
+Hausmanns gate,Hausmanns gate,192
+Sommerfrydhagen,Brugata,191
+Jens Bjelkes Gate,Aker Brygge 1 mot Nasjonalmuseet,191
+Aker Brygge,SÃ¸ndre gate,191
+Oslo Hospital,Bankplassen,191
+Colletts gate,Marcus Thranes gate,191
+Jens Bjelkes Gate,Rostockgata,191
+Frogner plass,Colosseum Kino,191
+Georg Morgenstiernes hus,Stensgata,191
+Bjerregaards gate,7. juni-plassen,191
+Oscars gate,Lille Grensen,191
+Olaf Ryes plass,Arkaden SÃ¸r,191
+Frogner Stadion,Vestkanttorvet,191
+Helga Helgesens plass,Jernbanetorget,191
+Jernbanetorget,BjÃ¸rvika,191
+Olaf Ryes plass,Professor Aschehougs plass,191
+Briskeby,Skovveien,191
+Brugata,Lakkegata,191
+Sofienbergparken sÃ¸r,Botanisk Hage sÃ¸r,191
+Alexander Kiellands Plass,Professor Aschehougs plass,191
+Munkegata,Salt,191
+Sukkerbiten,GrÃ¸nlands torg,191
+VÃ¥r Frelsers gravlund,Helga Helgesens plass,190
+St. Olavs gate,Aker Brygge 1 mot Nasjonalmuseet,190
+Sofienbergparken sÃ¸r,TÃ¸yen skole,190
+SjÃ¸siden ved fontenen,KvÃ¦rnerbyen,190
+Studentparlamentet,7. juni-plassen,190
+Jernbanetorget,Jakob kirke,190
+Fagerheimgata,Jenny Braatens Plass,190
+Sinsen T-bane,LÃ¸renveien,190
+Galgeberg,Sukkerbiten,189
+Bogstadveien,Karenslyst allÃ©,189
+Fred Olsens gate,Bankplassen,189
+Anker Hotel,Spikersuppa Ã˜st,189
+Hoffsveien,Tjuvholmen,189
+Henrik Ibsens gate,Kirkeristen,189
+BI Nydalen,MyralÃ¸kka Ã˜st,189
+Frogner plass,Saga Kino,189
+Alexander Kiellands Plass,Nordre gate,189
+SÃ¸ndre gate,SkrÃ¥ninga,189
+UllevÃ¥l sykehus,SkÃ¸yen,189
+Tjuvholmen,Huk 1,189
+Bentsebrugata,AHO,189
+Hesselbergs Gate,Torggata,189
+Schous plass,Alexander Kiellands Plass,189
+Jess Carlsens gate,Bjerregaardsgate Ã˜st,189
+Hammersborg Torg,SjÃ¸siden ved trappen,189
+Jess Carlsens gate,Hausmanns gate,188
+St. Olavs gate,Olaf Ryes plass,188
+Georg Morgenstiernes hus,Bjerregaards gate,188
+Torggata,Marcus Thranes gate,188
+7. juni-plassen,Frognerstranda,188
+Majorstua skole,Briskeby,188
+MÃ¸lleparken,Fredensborg,188
+Colletts gate,Bislett Stadion,188
+Sukkerbiten,Aker Brygge 2 mot RÃ¥dhusplassen,188
+Sentrum Scene,Alexander Kiellands Plass,188
+Uranienborgveien,Bankplassen,188
+Lille Grensen,Vaterlandsparken,188
+UllevÃ¥lsveien,VÃ¥r Frelsers gravlund,188
+TÃ¸yen skole,Trondheimsveien,188
+Nybrua holdeplass,The Hub,188
+Lilleborgbanen,Majorstua skole,188
+Ringnes Park,Sukkerbiten,188
+Kirkeristen,Birkelunden,188
+Sofienbergparken nord,Jernbanetorget,187
+Arendalsgata,Ringnes Park,187
+Tjuvholmen,KontraskjÃ¦ret,187
+Vippetangen vest,Olaf Ryes plass,187
+Alexander Kiellands Plass,Sofienbergparken nord,187
+Marcus Thranes gate,Oslo Plaza,187
+Lakkegata,Munkegata,187
+Jakob kirke,Professor Aschehougs plass,187
+Ringnes Park,Sofienberggata,187
+BjÃ¸lsendumpa,Storo Storsenter,187
+Oslo Plaza,Fagerheimgata,187
+Sofienbergparken nordvest,TÃ¸yenparken,187
+Elisenberg,Vestkanttorvet,187
+BjÃ¸rvika,Helga Helgesens plass,187
+BjÃ¸lsen Studentby,BI Nydalen,187
+MÃ¸lleparken,Hallings gate,187
+Henrik Ibsens gate,Bankplassen,187
+SotahjÃ¸rnet,KvÃ¦rnerbyen,187
+Over RÃ¥dhusgata,Vippetangen vest,187
+Alexander Kiellands Plass,Carl Berners plass sÃ¸r,186
+Oscars gate,Alexander Kiellands Plass,186
+Sagene bussholdeplass,Ringnes Park,186
+Aker Brygge,TÃ¸yenbekken,186
+GrÃ¸nlands torg,BjÃ¸rvika,186
+Munkegata,Mandalls gate,186
+Huk 1,Tjuvholmen,186
+Edvard Storms gate,Ringnes Park,186
+Jakob kirke,Jernbanetorget,186
+Bislett Stadion,Olaf Ryes plass,186
+Sukkerbiten,Botanisk Hage sÃ¸r,186
+St. Hanshaugen,Alexander Kiellands Plass,186
+Dyvekes bru,Munkegata,186
+TÃ¸yen skole,Lille Schous plass,186
+Domus Athletica,BjÃ¸lsen Studentby,186
+Uranienborgparken,RuselÃ¸kkgÃ¥rden,186
+Hammersborg Torg,Olaf Ryes plass,186
+KvÃ¦rnerbyen,TÃ¸yen skole,186
+Olaf Ryes plass,Rostockgata,186
+Fredensborg,MÃ¸lleparken,186
+Oscars gate,Skovveien,185
+Bjerregaards gate,Studenterlunden,185
+Salt,Vippetangen vest,185
+Kirkeristen,Bankplassen,185
+Olaf Ryes plass,Jens Bjelkes Gate,185
+Filipstadveien,Bankplassen,185
+Oslo Hospital,Spikersuppa Vest,185
+Forskningsveien,Ringnes Park,185
+Akerselvallmenningen,Oslo Hospital,185
+Lilleborgbanen,Sagene bussholdeplass,185
+Jess Carlsens gate,PalÃ©haven,185
+Hallings gate,Bjerregaards gate,185
+Uelands gate,Linaaes gate,185
+Uranienborgparken,Uranienborgveien,185
+Sofienbergparken nord,GrÃ¼nerhagen Nord,185
+Spikersuppa Ã˜st,Sukkerbiten,185
+Bislettgata,VÃ¥r Frelsers gravlund,185
+Hoffsveien,Hoffsveien,185
+Carl Berners plass sÃ¸r,Sofienbergparken nordvest,185
+Helga Helgesens plass,Fred Olsens gate,185
+AHO,Fred Olsens gate,185
+Huitfeldts gate,Rostockgata,185
+Dronningens gate,Dronningens gate,185
+Frogner Stadion,Hoffsveien,185
+Uranienborgveien,Spikersuppa Vest,184
+Helga Helgesens plass,Professor Aschehougs plass,184
+Schous plass,Bankplassen,184
+Sommerfrydhagen,Sentrum Scene,184
+St. Olavs gate,Bjerregaards gate,184
+Blindern Studenthus,Majorstuen,184
+Thune,Frogner Stadion,184
+Vulkan,Saga Kino,184
+Kirkeristen,Anker Hotel,184
+Oscars gate,Spikersuppa Vest,184
+Sofienbergparken nordvest,Jernbanetorget,184
+Henrik Ibsens gate,RÃ¥dhusgata,184
+Hans Nielsen Hauges plass,Lilleborgbanen,184
+Frogner plass,Frognerbadet,184
+St. Olavs gate,Vulkan,184
+Karenslyst allÃ©,Gimle Kino,184
+Sofienbergparken nord,AHO,184
+Fredensborg,AHO,184
+Ringnes Park,Lakkegata,184
+Jernbanetorget,Birkelunden,184
+Parkveien,Oslo Handelsgymnasium,184
+Professor Aschehougs plass,Slottsparken Ã˜st,184
+Frognerstranda,KontraskjÃ¦ret,184
+Ringnes Park,MÃ¸lleparken,184
+Parkveien,7. juni-plassen,184
+Schous plass,SjÃ¸siden ved trappen,184
+Marcus Thranes gate,Vulkan,184
+AHO,Olaf Ryes plass,184
+Skippergata,Bogstadveien,184
+Sofienberggata,Vaterlandsparken,183
+Jakob kirke,Birkelunden,183
+Kjeld Stubs gate,SjÃ¸siden ved trappen,183
+Skovveien,BjÃ¸rvika,183
+Ringnes Park,Lille Grensen,183
+Schous plass,Lille Grensen,183
+Skillebekk,RÃ¥dhusgata,183
+St. Hanshaugen park vest,Bislettgata,183
+Helga Helgesens plass,Trelastgata,183
+TÃ¥sen Senter,Stavangergata,183
+Helga Helgesens plass,SjÃ¸siden ved trappen,183
+Birkelunden,Stjerneplassen,183
+Oslo Plaza,Schous plass,183
+Hesselbergs Gate,Hesselbergs Gate,183
+SÃ¸ndre gate,Sentrum Scene,183
+Marcus Thranes gate,Carl Berners plass sÃ¸r,183
+Bak Niels Treschows hus sÃ¸r,Domus Athletica,183
+Olaf Ryes plass,Skippergata,183
+Alexander Kiellands Plass,Langkaia,183
+Olaf Ryes plass,Oslo Plaza,183
+Brugata,KvÃ¦rnerbyen,183
+GrÃ¸nlands torg,Kirkeristen,183
+Sofienbergparken nord,Linaaes gate,183
+Alexander Kiellands Plass,MÃ¸lleparken,182
+Fram-gÃ¥rden,Fram-gÃ¥rden,182
+Olaf Ryes plass,Akersgata,182
+Sukkerbiten,Munkegata,182
+Klingenberggata,Vippetangen vest,182
+Jens Bjelkes Gate,Olaf Ryes plass,182
+Kirkeveien,Majorstuen T-bane,182
+Munkegata,AHO,182
+Sukkerbiten,Oscars gate,182
+Jenny Braatens Plass,Torggata,182
+Thomas Heftyes plass,Hallings gate,182
+KvÃ¦rnerbyen,Aker Brygge,182
+Jess Carlsens gate,Stjerneplassen,182
+Gimle Kino,RuselÃ¸kkgÃ¥rden,182
+Marcus Thranes gate,BjÃ¸rvika,182
+Jakob kirke,SkrÃ¥ninga,182
+Arkitekt Rivertz Plass,Vulkan,182
+Henrik Wergelands allÃ©,Stensparken,182
+AHO,PalÃ©haven,182
+UllevÃ¥l sykehus,Bentsebrugata,182
+Jens Bjelkes Gate,Nordre gate,182
+St. Hanshaugen park vest,Alexander Kiellands Plass,182
+Ringnes Park,OsloMet,182
+Oscars gate,Holbergs plass,182
+Schous plass,MÃ¸lleparken,181
+Stjerneplassen,Sofienbergparken nord,181
+Sofienberggata,Helga Helgesens plass,181
+Henrik Ibsens gate,Bislett Stadion,181
+Linaaes gate,Birkelunden,181
+Helga Helgesens plass,Carl Berners plass sÃ¸r,181
+Frogner plass,RÃ¥dhusgata,181
+Lille Grensen,Tjuvholmen,181
+Munkegata,Jakob kirke,181
+Edvard Storms gate,Bankplassen,181
+Arkaden Nord,Bankplassen,181
+MÃ¸lleparken,Bjerregaards gate,181
+Arkitekt Rivertz Plass,Alexander Kiellands Plass,181
+Sofienbergparken sÃ¸r,Aker Brygge,181
+Studentparlamentet,Kirkeristen,181
+HallÃ©nparken,Ringnes Park,181
+Filipstadveien,Norsk Folkemuseum,181
+Jess Carlsens gate,Munkegata,181
+MÃ¸lleparken,Jernbanetorget,181
+Edvard Storms gate,Fram-gÃ¥rden,181
+Jess Carlsens gate,Hausmanns bru,181
+Arkitekt Rivertz Plass,Linaaes gate,181
+Kirkeristen,Enerhaugen,181
+Uranienborgveien,Lille Grensen,181
+Akerselvallmenningen,Kirkeristen,180
+Schous plass,Brugata,180
+Fagerheimgata,Anker Hotel,180
+St. Olavs gate,Bankplassen,180
+Vulkan,PalÃ©haven,180
+PalÃ©haven,Aker Brygge,180
+Studentparlamentet,Birkelunden,180
+Galgeberg,TÃ¸yen skole,180
+Professor Aschehougs plass,Helga Helgesens plass,180
+Botanisk hage sÃ¸r-vest,Torggata,180
+Uranienborgveien,Oslo Handelsgymnasium,180
+VÃ¥r Frelsers gravlund,Fred Olsens gate,180
+Oslo Plaza,Ringnes Park,180
+VÃ¥r Frelsers gravlund,Bjerregaards gate,180
+BjÃ¸lsendumpa,Olaf Ryes plass,180
+BjÃ¸lsendumpa,Marcus Thranes gate,180
+Munkegata,Bankplassen,179
+Sukkerbiten,Alexander Kiellands Plass,179
+Vestkanttorvet,Drammensveien,179
+Fysikkbygningen,Majorstuen,179
+BI Nydalen,Krebs' gate,179
+Nordre gate,Sukkerbiten,179
+VÃ¥r Frelsers gravlund,Bislett Stadion,179
+SotahjÃ¸rnet,Dyvekes bru,179
+TÃ¸yen skole,KvÃ¦rnerbyen,179
+Edvard Storms gate,7. juni-plassen,179
+Bislett Stadion,Torggata,179
+Botanisk Hage sÃ¸r,Helga Helgesens plass,179
+Marcus Thranes gate,Sommerfrydhagen,179
+Parkveien,Alexander Kiellands Plass,179
+Bentsebrugata,VÃ¥r Frelsers gravlund,179
+Mandalls gate,Tjuvholmen,179
+7. juni-plassen,Oscars gate,179
+Olaf Ryes plass,Hammersborg Torg,179
+Gimle Kino,SkÃ¸yen Stasjon,179
+Kirkeristen,KvÃ¦rnerbyen,179
+Vulkan,VÃ¥r Frelsers gravlund,179
+Norsk Folkemuseum,Aker Brygge,179
+Sognsveien,John Colletts plass,179
+Skovveien,7. juni-plassen,178
+Munkedamsveien,St. Olavs gate,178
+Gimle Kino,Aker Brygge,178
+Bogstadveien,7. juni-plassen,178
+Kirkeristen,Slottsparken Ã˜st,178
+Slottsparken Ã˜st,Lille Grensen,178
+Bjerregaards gate,MÃ¸lleparken,178
+Sagene bussholdeplass,Alexander Kiellands Plass,178
+EnsjÃ¸ T-bane,Sommerfrydhagen,178
+Sirkustomta,Carl Berners plass sÃ¸r,178
+Sofienbergparken nord,Birkelunden,178
+Fredensborg,Sofienbergparken nord,178
+Alexander Kiellands Plass,VÃ¥r Frelsers gravlund,178
+Oscars gate,Tjuvholmen,178
+Jess Carlsens gate,SjÃ¸siden ved trappen,177
+Lille Schous plass,Helga Helgesens plass,177
+Majorstuen,Pilestredet,177
+Saga Kino,Aker Brygge 2 mot RÃ¥dhusplassen,177
+Hammersborg Torg,Helga Helgesens plass,177
+Elgsletta,Kirkeristen,177
+Lille Schous plass,TÃ¸yen skole,177
+Hydroparken,Skarpsnoparken,177
+Jakob kirke,AHO,177
+Tjuvholmen,Spikersuppa Vest,177
+Skillebekk,Karenslyst allÃ©,177
+Forskningsveien,Karenslyst allÃ©,177
+Lille Grensen,Kirkeristen,177
+Nordre gate,TÃ¸yenbekken,177
+Sofienbergparken nordvest,Carl Berners plass sÃ¸r,177
+Marienlystparken,Majorstua skole,177
+GrÃ¼nerhagen Nord,Linaaes gate,177
+Sommerfrydhagen,GrÃ¸nlands torg,177
+Fram-gÃ¥rden,Filipstadveien,177
+Thomas Heftyes plass,Over RÃ¥dhusgata,177
+Thomas Heftyes plass,Henrik Ibsens gate,177
+Vulkan,TÃ¸yen skole,176
+Sommerfrydhagen,Botanisk Hage sÃ¸r,176
+Sommerfrydhagen,Sofienbergparken nordvest,176
+St. Olavs gate,Bislett Stadion,176
+Frogner plass,Hoffsveien,176
+Botanisk Hage sÃ¸r,AHO,176
+Studenterlunden,VÃ¥r Frelsers gravlund,176
+Marcus Thranes gate,Schous plass trikkestopp,176
+UllevÃ¥lsveien,UllevÃ¥lsveien,176
+EnsjÃ¸ T-bane,Dyvekes bru,176
+Aker Brygge,Annette Thommessens Plass,176
+Schous plass,PalÃ©haven,176
+KvÃ¦rnerbyen,The Hub,176
+Briskeby,Bislett Stadion,176
+MyralÃ¸kka Ã˜st,Birkelunden,176
+Studenterlunden,Alexander Kiellands Plass,176
+7. juni-plassen,Tjuvholmen,176
+TÃ¸yen skole,Vulkan,176
+Kirkeveien,SkÃ¸yen,176
+Trondheimsveien,Trondheimsveien,175
+Dokkveien,Dyvekes bru,175
+Jens Bjelkes Gate,PalÃ©haven,175
+Storo Storsenter,Badebakken,175
+SÃ¸ndre gate,Akersgata,175
+Botanisk Hage sÃ¸r,Akerselvallmenningen,175
+Olaf Ryes plass,TÃ¸yenparken,175
+Carl Berners plass sÃ¸r,Torggata,175
+Briskeby,Frogner Stadion,175
+Bjerregaards gate,Olaf Ryes plass,175
+Tiedemannsparken,Tiedemannsparken,175
+Lille Schous plass,Lille Schous plass,175
+Lilleborgbanen,Arendalsgata,175
+Oslo Handelsgymnasium,Bislett Stadion,175
+Lodalen busstopp,SjÃ¸siden ved trappen,175
+Studentparlamentet,Saga Kino,175
+Klingenberggata,Sofienbergparken nord,175
+Helga Helgesens plass,Botanisk hage sÃ¸r-vest,175
+Majorstua skole,Vestkanttorvet,175
+Munkegata,SjÃ¸siden 1 ved trappen,175
+RuselÃ¸kkgÃ¥rden,RuselÃ¸kkgÃ¥rden,175
+Fagerheimgata,Jernbanetorget,175
+Sofienbergparken nordvest,Sommerfrydhagen,175
+Henrik Wergelands allÃ©,Henrik Wergelands allÃ©,175
+Kirkeristen,Vulkan,175
+Karenslyst allÃ©,Oscars gate,174
+Dokkveien,Over RÃ¥dhusgata,174
+Nordre gate,Vaterlandsparken,174
+Stjerneplassen,Jens Bjelkes Gate,174
+Sofienbergparken nordvest,Alexander Kiellands Plass,174
+Rostockgata,Oslo Handelsgymnasium,174
+The Hub,Botanisk Hage sÃ¸r,174
+Fredensborg,Botanisk Hage sÃ¸r,174
+Bentsebrugata,Marcus Thranes gate,174
+Birkelunden,Trondheimsveien,174
+Oslo Handelsgymnasium,Huitfeldts gate,174
+Anker Hotel,Helga Helgesens plass,174
+Schous plass trikkestopp,Ringnes Park,174
+Annette Thommessens Plass,Annette Thommessens Plass,174
+BjÃ¸lsen mÃ¸lle,BjÃ¸lsen mÃ¸lle,174
+Bislett Stadion,Lille Grensen,174
+Landstads gate,Aker Brygge,174
+Sofienbergparken sÃ¸r,BjÃ¸rvika,174
+Jenny Braatens Plass,Trondheimsveien,174
+Fagerheimgata,Helga Helgesens plass,174
+Jens Bjelkes Gate,Fred Olsens gate,174
+Sagene bussholdeplass,Uelands gate,174
+Jakob kirke,TÃ¸yen skole,173
+Lindern,Alexander Kiellands Plass,173
+GrÃ¼nerhagen Nord,Bankplassen,173
+Sofienbergparken nord,SkrÃ¥ninga,173
+OsloMet,Studenterlunden,173
+Aker Brygge,Frogner plass,173
+The Hub,Fredensborg,173
+TÃ¸yenbekken,Lille Schous plass,173
+Bislett Stadion,BjÃ¸rvika,173
+Helga Helgesens plass,Edvard Storms gate,173
+Anker Hotel,Jernbanetorget,173
+Chr. Michelsens Gate,Olaf Ryes plass,173
+Bislett Stadion,OsloMet,173
+The Hub,Ringnes Park,173
+Sofienbergparken nordvest,Jens Bjelkes Gate,173
+Jens Bjelkes Gate,Fredensborg,173
+Alexander Kiellands Plass,Akersgata,173
+Helga Helgesens plass,Akerselvallmenningen,173
+Jernbanetorget,Lille Schous plass,173
+Frogner plass,Henrik Ibsens gate,173
+Bogstadveien,Briskeby,173
+Chr. Michelsens Gate,MÃ¸lleparken,173
+Botanisk Hage sÃ¸r,MÃ¸lleparken,173
+Tjuvholmen,Bjerregaards gate,173
+Tjuvholmen,Lille Grensen,173
+TÃ¸yen skole,Hausmanns gate,173
+Arendalsgata,Lilleborgbanen,172
+Frogner Stadion,Thomas Heftyes plass,172
+Schous plass trikkestopp,Aker Brygge,172
+Marcus Thranes gate,Kirkegata 15,172
+Sentrum Scene,Jess Carlsens gate,172
+SjÃ¸siden ved trappen,SÃ¸ndre gate,172
+Torshovparken vest,Olaf Ryes plass,172
+Forskningsveien,Forskningsveien,172
+TÃ¸yen skole,Jess Carlsens gate,172
+Jenny Braatens Plass,Carl Berners plass nord,172
+Aker Brygge,Universitetsgata,172
+Huk 1,Frognerstranda,172
+Parkveien,Kirkeristen,172
+Frogner Tennisklubb,Frogner Tennisklubb,172
+Jenny Braatens Plass,Ringnes Park,172
+Fagerheimgata,Sukkerbiten,172
+Oslo Plaza,Oslo Plaza,172
+Chr. Michelsens Gate,Birkelunden,172
+Torggata,GrÃ¸nlands torg,172
+Alexander Kiellands Plass,Hausmanns bru,172
+Sukkerbiten,Vippetangen vest,172
+Arkitekt Rivertz Plass,AHO,172
+John Colletts plass,John Colletts plass,172
+St. Olavs gate,Aker Brygge 3 mot Fergene,172
+Botanisk Hage vest,Klingenberggata,172
+Jernbanetorget,Fredensborg,172
+Saga Kino,Skillebekk,172
+Bislettgata,Edvard Storms gate,172
+SÃ¸ndre gate,Vaterlandsparken,172
+Marcus Thranes gate,Sofienbergparken nordvest,172
+Aker Brygge,Ringnes Park,171
+Sofienbergparken nordvest,Vippetangen vest,171
+Blindern Studenthus,Blindern Studenthus,171
+Majorstuen,Uranienborgveien,171
+Frogner plass,7. juni-plassen,171
+RÃ¥dhusgata,Akerselvallmenningen,171
+Lindern,Stensgata,171
+SÃ¸ndre gate,Helga Helgesens plass,171
+Bislett Stadion,MÃ¸lleparken,171
+Helga Helgesens plass,Botanisk Hage sÃ¸r,171
+Stavangergata,Chr. Michelsens Gate,171
+Torggata,Trondheimsveien,171
+Akerselvallmenningen,SjÃ¸siden ved trappen,171
+Botanisk Hage sÃ¸r,Sofienbergparken nord,171
+7. juni-plassen,Pilestredet Studenthus,171
+Frogner plass,SkÃ¸yen Stasjon,171
+Professor Aschehougs plass,Vulkan,171
+Enerhaugen,The Hub,171
+BjÃ¸rvika,Sofienbergparken nord,171
+Torggata,Jess Carlsens gate,171
+Blindern Studenthus,Fysikkbygningen,171
+Vulkan,Ringnes Park,171
+TÃ¸yen skole,Annette Thommessens Plass,171
+Lilleborgbanen,Olaf Ryes plass,171
+Fysikkbygningen,Bjerregaards gate,170
+Langkaia,Munkegata,170
+Marcus Thranes gate,Sofienbergparken sÃ¸r,170
+Hasle,LÃ¸renporten,170
+Saga Kino,Gimle Kino,170
+Enerhaugen,Bankplassen,170
+BjÃ¸lsen Studentby,Alexander Kiellands Plass,170
+Vulkan,Sentrum Scene,170
+Fagerheimgata,Marcus Thranes gate,170
+Lille Grensen,Aker Brygge 1 mot Nasjonalmuseet,170
+Trelastgata,EnsjÃ¸ T-bane,170
+SjÃ¸lyst,SjÃ¸lyst,170
+Alexander Kiellands Plass,Chr. Michelsens Gate,170
+Henrik Ibsens gate,Bislettgata,170
+Lakkegata,Torggata,170
+Akerselvallmenningen,PalÃ©haven,170
+Sofienbergparken nordvest,Aker Brygge 1 mot Nasjonalmuseet,170
+Briskeby,Spikersuppa Ã˜st,170
+MyralÃ¸kka Ã˜st,Lilleborgbanen,170
+Rostockgata,Huitfeldts gate,169
+Birkelunden,Sommerfrydhagen,169
+Tjuvholmen,SjÃ¸siden 2 ved fontenen,169
+MÃ¸lleparken,VÃ¥r Frelsers gravlund,169
+Sofienbergparken sÃ¸r,Sofienberggata,169
+GrÃ¼nerhagen Nord,Botanisk Hage sÃ¸r,169
+Jens Bjelkes Gate,Birkelunden,169
+Oslo Hospital,SjÃ¸siden 2 ved fontenen,169
+Uranienborgveien,Frogner plass,169
+Oslo Plaza,Sofienbergparken nord,169
+Dokkveien,Kirkegata 15,169
+Marcus Thranes gate,Griffenfeldts gate,169
+Schous plass,Ringnes Park,169
+UllevÃ¥l sykehus,DÃ¦lenenggata,169
+Hausmanns gate,Akersgata,169
+Jess Carlsens gate,Tjuvholmen,169
+Marcus Thranes gate,Botanisk Hage sÃ¸r,169
+Torggata,Akerselvallmenningen,169
+Botanisk hage sÃ¸r-vest,Vaterlandsparken,169
+Skillebekk,Henrik Ibsens gate,169
+Sofienbergparken nord,Vaterlandsparken,169
+BjÃ¸rvika,Sentrum Scene,169
+Frogner plass,Huk 2,169
+Colletts gate,VÃ¥r Frelsers gravlund,169
+Marcus Thranes gate,VÃ¥r Frelsers gravlund,168
+Vestkanttorvet,Colosseum Kino,168
+Olaf Ryes plass,SjÃ¸siden 1 ved trappen,168
+The Hub,Jakob kirke,168
+Annette Thommessens Plass,TÃ¸yen skole,168
+Fagerheimgata,Spikersuppa Ã˜st,168
+Hammersborg Torg,Spikersuppa Vest,168
+HallÃ©nparken,Olaf Ryes plass,168
+Studentparlamentet,St. Olavs gate,168
+Tiedemannsparken,EnsjÃ¸ T-bane,168
+Majorstua skole,Henrik Wergelands allÃ©,168
+Majorstua skole,Henrik Ibsens gate,168
+Botanisk Hage sÃ¸r,Fredensborg,168
+Hammersborg Torg,Kirkeristen,168
+Kirkeristen,Jess Carlsens gate,168
+Bislettgata,Henrik Wergelands allÃ©,168
+AHO,Dokkveien,168
+TÃ¸yenbekken,Jens Bjelkes Gate,168
+Dyvekes bru,Sukkerbiten,168
+Torshovparken vest,Torshovparken vest,168
+Alexander Kiellands Plass,Hesselbergs Gate,168
+SjÃ¸siden ved fontenen,Sukkerbiten,168
+Olaf Ryes plass,Fredensborg,168
+Birkelunden,Lille Grensen,168
+Enerhaugen,Schous plass,168
+Henrik Ibsens gate,Bogstadveien,168
+Landstads gate,Ringnes Park,168
+Aker Brygge,AHO,168
+Hasle,TÃ¸yen skole,168
+Ila,The Hub,168
+Marcus Thranes gate,St. Olavs gate,168
+Jenny Braatens Plass,Jenny Braatens Plass,168
+Galgeberg,SjÃ¸siden 1 ved trappen,167
+Oscars gate,Edvard Storms gate,167
+Hesselbergs Gate,TÃ¸yen skole,167
+Jess Carlsens gate,Olaf Ryes plass,167
+Sofienbergparken nord,TÃ¸yenparken,167
+BygdÃ¸y allÃ©,Gimle Kino,167
+Stavangergata,Bak Niels Treschows hus sÃ¸r,167
+Botanisk Hage sÃ¸r,GrÃ¸nlands torg,167
+Frognerstranda,Vaterlandsparken,167
+Uranienborgveien,RuselÃ¸kkgÃ¥rden,167
+Majorstua skole,Majorstuveien,167
+Lille Grensen,Schous plass,167
+Sofienberggata,Jens Bjelkes Gate,167
+7. juni-plassen,Oslo Handelsgymnasium,167
+Akerselvallmenningen,Torggata,167
+Arkitekt Rivertz Plass,Majorstuen,167
+Stavangergata,Alexander Kiellands Plass,167
+KvÃ¦rnerbyen,Kirkeristen,167
+Rostockgata,Jernbanetorget,167
+Schous plass,GrÃ¸nlands torg,167
+Henrik Ibsens gate,Uranienborgparken,167
+Aker Brygge,Sentrum Scene,167
+Schives gate,Majorstuen,167
+Sofienbergparken nordvest,St. Olavs gate,167
+Munkegata,Olaf Ryes plass,167
+Sirkustomta,Sirkustomta,167
+Carl Berners plass sÃ¸r,Olaf Ryes plass,167
+Sukkerbiten,Henrik Ibsens gate,167
+Georg Morgenstiernes hus,Friggfeltet,167
+Hans Nielsen Hauges plass,Birkelunden,167
+Sofienberggata,Sentrum Scene,167
+Professor Aschehougs plass,Kirkeristen,167
+Pilestredet 63,St. Olavs gate,167
+SÃ¸ndre gate,TÃ¸yenbekken,166
+Lille Grensen,Hausmanns gate,166
+Carl Berners plass sÃ¸r,TÃ¸yenbekken,166
+Tjuvholmen,Rostockgata,166
+Gimle Kino,Huitfeldts gate,166
+Kirkegata 15,Rostockgata,166
+Kjeld Stubs gate,Rostockgata,166
+UllevÃ¥l sykehus,Stensgata,166
+Sinsen T-bane,Arendalsgata,166
+UllevÃ¥l sykehus,Bislettgata,166
+Over RÃ¥dhusgata,Dokkveien,166
+Oslo Plaza,Olaf Ryes plass,166
+Arkitekt Rivertz Plass,Arkitekt Rivertz Plass,166
+GrÃ¼nerhagen Nord,Aker Brygge,166
+Enerhaugen,Vaterlandsparken,166
+KvÃ¦rnerbyen,Annette Thommessens Plass,166
+Bislettgata,Bankplassen,166
+Arkitekt Rivertz Plass,VÃ¥r Frelsers gravlund,166
+Fagerheimgata,Linaaes gate,166
+KvÃ¦rnerbyen,Galgeberg,166
+Thomas Heftyes plass,RÃ¥dhusgata,166
+Hammersborg Torg,Sukkerbiten,166
+Elgsletta,The Hub,166
+UllevÃ¥lsveien,Ringnes Park,166
+Sommerfrydhagen,Oslo Plaza,165
+Kirkeristen,KontraskjÃ¦ret,165
+Stavangergata,Uelands gate,165
+Fram-gÃ¥rden,Bankplassen,165
+Kirkeristen,St. Olavs gate,165
+The Hub,GrÃ¸nlands torg,165
+Fredensborg,TÃ¸yenbekken,165
+Oslo Plaza,AHO,165
+Hausmanns bru,Sukkerbiten,165
+Sofienbergparken sÃ¸r,Rostockgata,165
+Majorstuen,Bjerregaards gate,165
+Langkaia,Langkaia,165
+Jarlsborgveien,SkÃ¸yen Stasjon,165
+Fagerheimgata,Over RÃ¥dhusgata,165
+Alexander Kiellands Plass,Jakob kirke,165
+Torggata,Sofienberggata,165
+Via Vika,Rostockgata,165
+Holbergs plass,Kirkeristen,165
+Arkitekt Rivertz Plass,Hammersborg Torg,165
+Oslo Handelsgymnasium,Pilestredet 63,165
+Fredensborg,Linaaes gate,165
+Huk 1,Filipstadveien,165
+Sofienberggata,Sofienbergparken nordvest,165
+Jakob kirke,Aker Brygge,165
+Oslo Hospital,TÃ¸yen skole,165
+Uranienborgveien,Aker Brygge,165
+Jens Bjelkes Gate,Schous plass,165
+Trondheimsveien,Helga Helgesens plass,165
+Helga Helgesens plass,SÃ¸ndre gate,165
+Majorstuveien,Professor Aschehougs plass,165
+Bak Niels Treschows hus sÃ¸r,BjÃ¸lsen Studentby,165
+Saga Kino,Bankplassen,165
+Carl Berners plass nord,Ringnes Park,164
+TÃ¸yen skole,Galgeberg,164
+Bislett Stadion,Birkelunden,164
+BygdÃ¸y allÃ©,BygdÃ¸y allÃ©,164
+KvÃ¦rnerbyen,Arkaden Nord,164
+SkrÃ¥ninga,Aker Brygge,164
+Vippetangen vest,Stjerneplassen,164
+Galgeberg,Oslo Hospital,164
+Munkegata,Arkaden Nord,164
+BjÃ¸rvika,Kirkeristen,164
+Lilleborgbanen,Colosseum Kino,164
+Helga Helgesens plass,Vulkan,164
+Frognerstranda,Salt,164
+Aker Brygge,VÃ¥r Frelsers gravlund,164
+Olaf Ryes plass,SjÃ¸siden ved fontenen,164
+ColbjÃ¸rnsens gate,7. juni-plassen,164
+Landstads gate,Sentrum Scene,164
+Pilestredet 63,Holbergs plass,164
+VÃ¥r Frelsers gravlund,BjÃ¸rvika,164
+Lindern,Lindern,164
+OsloMet,Jernbanetorget,164
+Frognerstranda,SjÃ¸siden ved trappen,164
+Lille Grensen,Edvard Storms gate,164
+SkÃ¸yen,Gimle Kino,164
+TÃ¸yen skole,Spikersuppa Vest,164
+Ringnes Park,Bentsebrugata,164
+Jakob kirke,Lille Grensen,164
+Tjuvholmen,Aker Brygge,163
+BjÃ¸rvika,Dokkveien,163
+Jakob kirke,Spikersuppa Vest,163
+Vestkanttorvet,RuselÃ¸kkgÃ¥rden,163
+SjÃ¸siden ved trappen,AHO,163
+Jordalgata,Sommerfrydhagen,163
+Birkelunden,GrÃ¸nlands torg,163
+Birkelunden,PalÃ©haven,163
+Lindern,Sagene bussholdeplass,163
+Gimle Kino,Sukkerbiten,163
+Oscars gate,Pilestredet 63,163
+Hausmanns gate,Kirkeristen,163
+Akerselvallmenningen,Spikersuppa Ã˜st,163
+Gimle Kino,Henrik Ibsens gate,163
+Sofienbergparken nordvest,Fredensborg,163
+Majorstuen,Pilestredet 63,163
+Carl Berners plass sÃ¸r,Alexander Kiellands Plass,163
+Griffenfeldts gate,Ringnes Park,163
+Tjuvholmen,Dokkveien,163
+The Hub,Munkegata,163
+St. Olavs gate,Dokkveien,163
+BjÃ¸lsen Studentby,Bak Niels Treschows hus sÃ¸r,163
+Dronningens gate,Helga Helgesens plass,163
+Olaf Ryes plass,Fagerheimgata,163
+SÃ¸ndre gate,Jernbanetorget,163
+Birkelunden,Lakkegata,163
+Helga Helgesens plass,Lille Grensen,163
+AHO,Botanisk Hage sÃ¸r,163
+Vippetangen vest,Torggata,163
+Olaf Ryes plass,Saga Kino,163
+Lille Grensen,KontraskjÃ¦ret,163
+Parkveien,Arkaden Nord,163
+Botanisk Hage sÃ¸r,Annette Thommessens Plass,163
+Alexander Kiellands Plass,Brugata,163
+Hausmanns bru,TÃ¸yenbekken,163
+The Hub,Vaterlandsparken,163
+Ringnes Park,Bogstadveien,163
+Uranienborgveien,BjÃ¸rvika,162
+Maritimt Museum,Huk 1,162
+Jordalgata,Jakob kirke,162
+DÃ¦lenenggata,Olaf Ryes plass,162
+Tiedemannsparken,TÃ¸yen skole,162
+Bislettgata,OsloMet,162
+SÃ¸ndre gate,Botanisk Hage sÃ¸r,162
+Fredensborg,Kirkeristen,162
+Enerhaugen,MÃ¸lleparken,162
+Alexander Kiellands Plass,Marcus Thranes gate,162
+Bentsebrugata,Lilleborgbanen,162
+Aker Brygge,Akersgata,162
+Bjerregaards gate,Linaaes gate,162
+Kirkeristen,TÃ¸yenbekken,162
+Sognsveien,Georg Morgenstiernes hus,162
+Uranienborgparken,Spikersuppa Vest,162
+Olaf Ryes plass,Tjuvholmen,162
+Birkelunden,Fred Olsens gate,162
+Bogstadveien,Henrik Wergelands allÃ©,162
+Sofienbergparken nord,St. Olavs gate,162
+Akersgata,Bankplassen,162
+Lille Grensen,Oscars gate,162
+VÃ¥r Frelsers gravlund,Alexander Kiellands Plass,162
+TÃ¸yenparken,Carl Berners plass sÃ¸r,162
+7. juni-plassen,Skillebekk,162
+Tjuvholmen,PalÃ©haven,162
+Vulkan,SjÃ¸siden ved trappen,161
+Kirkegata 15,Dyvekes bru,161
+Tjuvholmen,Alexander Kiellands Plass,161
+Frogner plass,Uranienborgveien,161
+KÃ¸benhavngata busstopp,TÃ¸yen skole,161
+Bjerregaardsgate Ã˜st,Jernbanetorget,161
+Aker Brygge,Edvard Storms gate,161
+Gimle Kino,Hoffsveien,161
+Botanisk Hage vest,Vaterlandsparken,161
+Langkaia,Tjuvholmen,161
+BjÃ¸lsendumpa,Torggata,161
+Edvard Storms gate,Helga Helgesens plass,161
+Oslo Handelsgymnasium,7. juni-plassen,161
+Birkelunden,Hammersborg Torg,161
+Domus Athletica,Georg Morgenstiernes hus,161
+Thune,Thune,161
+Sofienbergparken nord,Munkegata,161
+DÃ¦lenenggata,Torggata,161
+Munkegata,Akerselvallmenningen,161
+Pilestredet 63,Pilestredet 63,161
+Sommerfrydhagen,Jakob kirke,161
+Gimle Kino,Bankplassen,161
+Huitfeldts gate,Spikersuppa Ã˜st,161
+Olaf Ryes plass,Anker Hotel,161
+Bjerregaards gate,Hammersborg Torg,161
+Olaf Ryes plass,Trondheimsveien,161
+SkÃ¸yen,Majorstuen,161
+Hammersborg Torg,BjÃ¸rvika,161
+AHO,Spikersuppa Vest,161
+Vestkanttorvet,Skovveien,160
+Hallings gate,Saga Kino,160
+Klingenberggata,KvÃ¦rnerbyen,160
+Vaterlandsparken,Sommerfrydhagen,160
+Vestkanttorvet,Professor Aschehougs plass,160
+SkÃ¸yen,Frogner plass,160
+Bankplassen,Torggata,160
+TÃ¸yen skole,Karenslyst allÃ©,160
+Helga Helgesens plass,Jordalgata,160
+Oslo Hospital,Trelastgata,160
+Jordalgata,Dyvekes bru,160
+Aker Brygge,KontraskjÃ¦ret,160
+KÃ¸benhavngata busstopp,Alexander Kiellands Plass,160
+UllevÃ¥l sykehus,Arendalsgata,160
+AHO,Sukkerbiten,160
+Storo Storsenter,Sagene bussholdeplass,160
+Oscars gate,St. Olavs gate,160
+Oslo Hospital,Kirkeristen,160
+Bislettgata,Parkveien,160
+Sukkerbiten,Kirkegata 15,160
+Bislett Stadion,Sukkerbiten,160
+LÃ¸renveien,Lilleborgbanen,160
+AHO,Arkaden Nord,160
+Chr. Michelsens Gate,Torggata,160
+VÃ¥r Frelsers gravlund,Schous plass trikkestopp,160
+OsloMet,OsloMet,159
+Fredensborg,UllevÃ¥l sykehus,159
+Majorstuen,Thomas Heftyes plass,159
+Dokkveien,KontraskjÃ¦ret,159
+Hallings gate,VÃ¥r Frelsers gravlund,159
+Trondheimsveien,Jens Bjelkes Gate,159
+Uranienborgveien,Filipstadveien,159
+VÃ¥r Frelsers gravlund,Studentparlamentet,159
+Bjerregaards gate,Saga Kino,159
+TÃ¸yenparken,Jens Bjelkes Gate,159
+Frognerstranda,SkÃ¸yen,159
+Briskeby,Frogner plass,159
+Huk 2,SkÃ¸yen,159
+Aker Brygge 2 mot RÃ¥dhusplassen,Saga Kino,159
+Professor Aschehougs plass,Oscars gate,159
+Majorstua skole,Bislettgata,159
+Sentrum Scene,Munkegata,159
+TÃ¸yenbekken,TÃ¸yenbekken,159
+Skovveien,Bogstadveien,159
+VÃ¥r Frelsers gravlund,Jakob kirke,159
+Kjeld Stubs gate,Helga Helgesens plass,159
+Karenslyst allÃ©,SjÃ¸lyst,159
+Suhms gate,Suhms gate,159
+Oslo Plaza,SÃ¸ndre gate,159
+Munkegata,Brugata,158
+DÃ¦lenenggata,DÃ¦lenenggata,158
+Jens Bjelkes Gate,Filipstadveien,158
+Helga Helgesens plass,OsloMet,158
+Rostockgata,Sofienbergparken nordvest,158
+Stensparken,Drammensveien,158
+Jakob kirke,Slottsparken Ã˜st,158
+Tjuvholmen,Oscars gate,158
+Blindern studentparkering,Blindern studentparkering,158
+Marcus Thranes gate,Jens Bjelkes Gate,158
+Kirkeristen,Dokkveien,158
+Forskningsveien,Majorstuen,158
+RÃ¥dhusgata,Vippetangen vest,158
+Sofienbergparken nord,VÃ¥r Frelsers gravlund,158
+Vaterlandsparken,Olaf Ryes plass,158
+Linaaes gate,Schous plass trikkestopp,158
+Helga Helgesens plass,Stjerneplassen,158
+St. Hanshaugen park sÃ¸r,Alexander Kiellands Plass,158
+Bislett Stadion,ColbjÃ¸rnsens gate,158
+Sentrum Scene,SÃ¸ndre gate,158
+Oslo Handelsgymnasium,Uranienborgveien,158
+Alexander Kiellands Plass,Fred Olsens gate,158
+Stavangergata,Parkveien,158
+VÃ¥lerenga,EnsjÃ¸ T-bane,158
+Bislettgata,RÃ¥dhusgata,158
+Huk 1,Norsk Folkemuseum,158
+Torggata,TÃ¸yenbekken,158
+Tjuvholmen,Thune,158
+Marcus Thranes gate,Majorstuen,158
+Kirkeristen,Sofienberggata,157
+Bogstadveien,Alexander Kiellands Plass,157
+Sofienbergparken sÃ¸r,Ringnes Park,157
+Bislett Stadion,Filipstadveien,157
+Sommerfrydhagen,Sukkerbiten,157
+Ringnes Park,St. Olavs gate,157
+7. juni-plassen,Holbergs plass,157
+Bislettgata,Jernbanetorget,157
+Lille Grensen,Ringnes Park,157
+Hammersborg Torg,Sofienbergparken nord,157
+Skillebekk,Dokkveien,157
+Stavangergata,Majorstuen,157
+EnsjÃ¸ T-bane,Jordalgata,157
+Helga Helgesens plass,Klingenberggata,157
+Studentparlamentet,Arkaden Nord,157
+Mandalls gate,Sentrum Scene,157
+Fagerheimgata,Lakkegata,157
+Colosseum Kino,Briskeby,157
+Huitfeldts gate,Kirkeristen,157
+Jens Bjelkes Gate,Anker Hotel,157
+Trondheimsveien,TÃ¸yenbekken,157
+Huitfeldts gate,Parkveien,157
+RÃ¥dhusgata,SjÃ¸siden ved trappen,157
+Bjerregaardsgate Ã˜st,Fredensborg,157
+Spikersuppa Vest,Rostockgata,157
+Bislettgata,Fred Olsens gate,157
+Marcus Thranes gate,Fagerheimgata,156
+The Hub,Hesselbergs Gate,156
+Slottsparken Ã˜st,Saga Kino,156
+Jordalgata,Jens Bjelkes Gate,156
+Carl Berners plass nord,Sommerfrydhagen,156
+Kirkeristen,TÃ¸yen skole,156
+Frogner plass,Majorstuen T-bane,156
+Mandalls gate,The Hub,156
+Bislettgata,Aker Brygge,156
+BjÃ¸lsen Studentby,Marcus Thranes gate,156
+Jordalgata,Vaterlandsparken,156
+Stavangergata,Vulkan,156
+Fagerheimgata,BjÃ¸rvika,156
+Anker Hotel,Aker Brygge,156
+Jakob kirke,Sommerfrydhagen,156
+Nordre gate,TÃ¸yen skole,156
+RÃ¥dhusgata,Kirkeristen,156
+Majorstuveien,Majorstuveien,156
+Schous plass trikkestopp,Vippetangen vest,156
+Oslo Plaza,Jakob kirke,156
+Bogstadveien,Skovveien,156
+Thomas Heftyes plass,Oslo Handelsgymnasium,156
+KvÃ¦rnerbyen,Dyvekes bru,156
+Oslo Handelsgymnasium,Filipstadveien,156
+Majorstuveien,Elisenberg,156
+BjÃ¸lsendumpa,BjÃ¸lsendumpa,156
+Slottsparken Ã˜st,Professor Aschehougs plass,156
+Salt,Tjuvholmen,156
+SÃ¸ndre gate,SjÃ¸siden ved trappen,156
+TÃ¸yenparken,Ringnes Park,156
+Oslo Plaza,Sofienberggata,156
+Edvard Storms gate,Jernbanetorget,156
+Akerselvallmenningen,RÃ¥dhusgata,156
+Georg Morgenstiernes hus,Blindern Studenthus,156
+Torggata,PalÃ©haven,156
+Carl Berners plass sÃ¸r,Botanisk Hage sÃ¸r,156
+Edvard Storms gate,Karenslyst allÃ©,156
+Jens Bjelkes Gate,Spikersuppa Vest,156
+Bogstadveien,Tjuvholmen,156
+Landstads gate,Fredensborg,156
+Skillebekk,Spikersuppa Vest,156
+SÃ¸ndre gate,Tjuvholmen,155
+Mandalls gate,Jess Carlsens gate,155
+Helga Helgesens plass,KrohgstÃ¸tten hospital,155
+Bislett Stadion,Akersgata,155
+Jernbanetorget,Anker Hotel,155
+BjÃ¸lsen Studentby,MyralÃ¸kka Ã˜st,155
+Botanisk Hage vest,Kirkeristen,155
+Karenslyst allÃ©,Frogner plass,155
+Oslo Hospital,Aker Brygge,155
+Arkitekt Rivertz Plass,TÃ¸yen skole,155
+Studentparlamentet,Jernbanetorget,155
+Torggata,Filipstadveien,155
+SÃ¸ndre gate,Sukkerbiten,155
+Landstads gate,Jernbanetorget,155
+Carl Berners plass nord,Alexander Kiellands Plass,155
+Skillebekk,Thune,155
+Colletts gate,Colletts gate,155
+Ringnes Park,Bankplassen,155
+Birkelunden,St. Olavs gate,155
+Huitfeldts gate,Karenslyst allÃ©,155
+RuselÃ¸kkgÃ¥rden,Kirkeristen,155
+Oslo Handelsgymnasium,Hydroparken,155
+Fyrstikktorget,Fyrstikktorget,155
+Aker Brygge 3 mot Fergene,BjÃ¸rvika,155
+Hesselbergs Gate,Schous plass,155
+Oslo Handelsgymnasium,RÃ¥dhusgata,155
+Alexander Kiellands Plass,Hausmanns gate,155
+Uranienborgparken,Tjuvholmen,155
+Mandalls gate,Kirkeristen,155
+GrÃ¸nlands torg,Sentrum Scene,155
+Huitfeldts gate,Tjuvholmen,155
+Torggata,TÃ¸yen skole,155
+Dokkveien,Annette Thommessens Plass,155
+Arkitekt Rivertz Plass,UllevÃ¥l sykehus,155
+Krebs' gate,Alexander Kiellands Plass,155
+Sofienbergparken nord,Spikersuppa Ã˜st,155
+Jess Carlsens gate,Brugata,155
+Gimle Kino,Spikersuppa Ã˜st,154
+Frognerveien,BjÃ¸rvika,154
+MyralÃ¸kka Ã˜st,Olaf Ryes plass,154
+Oscars gate,RuselÃ¸kkgÃ¥rden,154
+Oslo Hospital,TÃ¸yenbekken,154
+VÃ¥r Frelsers gravlund,The Hub,154
+Sentrum Scene,Botanisk Hage sÃ¸r,154
+Vulkan,BjÃ¸rvika,154
+Landstads gate,Helga Helgesens plass,154
+Henrik Ibsens gate,Spikersuppa Ã˜st,154
+Sofienbergparken nord,Ringnes Park,154
+Storo Storsenter,Schous plass,154
+Sentrum Scene,Fagerheimgata,154
+Jakob kirke,St. Olavs gate,154
+Bankplassen,Aker Brygge 1 mot Nasjonalmuseet,154
+Jess Carlsens gate,BjÃ¸rvika,154
+Birkelunden,Sofienbergparken sÃ¸r,154
+7. juni-plassen,St. Olavs gate,154
+Sukkerbiten,Schous plass,154
+Kirkeveien,Majorstua skole,154
+Hans Nielsen Hauges plass,Olaf Ryes plass,154
+KontraskjÃ¦ret,Kirkeristen,154
+Bogstadveien,Bislett Stadion,153
+Henrik Wergelands allÃ©,Bislettgata,153
+Sentrum Scene,Tjuvholmen,153
+Olaf Ryes plass,Brugata,153
+AHO,Ringnes Park,153
+Fredensborg,Saga Kino,153
+Sommerfrydhagen,Jess Carlsens gate,153
+Bislett Stadion,Arkaden Nord,153
+Rostockgata,Jens Bjelkes Gate,153
+Fredensborg,BjÃ¸rvika,153
+St. Olavs gate,Marcus Thranes gate,153
+Marcus Thranes gate,Bislettgata,153
+Bankplassen,Skillebekk,153
+Vippetangen vest,Klingenberggata,153
+SjÃ¸siden 1 ved trappen,Aker Brygge 1 mot Nasjonalmuseet,153
+Bentsebrugata,Hammersborg Torg,153
+Kampen park Ã˜st,BjÃ¸rvika,153
+Gunerius,Munkegata,153
+Alexander Kiellands Plass,Stensparken,153
+Aker Brygge 3 mot Fergene,Bankplassen,153
+Suhms gate,Henrik Wergelands allÃ©,153
+Gimle Kino,Frogner plass,153
+Annette Thommessens Plass,The Hub,153
+Ringnes Park,BjÃ¸rvika,153
+Georg Morgenstiernes hus,Vulkan,153
+Dokkveien,RÃ¥dhusgata,152
+Stensparken,Alexander Kiellands Plass,152
+Jens Bjelkes Gate,SjÃ¸siden ved trappen,152
+Stjerneplassen,Alexander Kiellands Plass,152
+Sinsen T-bane,Sinsen T-bane,152
+VÃ¥r Frelsers gravlund sÃ¸r,Akersgata,152
+TÃ¸yen skole,DÃ¦lenenggata,152
+Rostockgata,Lakkegata,152
+Professor Aschehougs plass,Jernbanetorget,152
+Frognerstranda,Norsk Folkemuseum,152
+Mandalls gate,Olaf Ryes plass,152
+Georg Morgenstiernes hus,Arendalsgata,152
+Olaf Ryes plass,SjÃ¸siden 2 ved fontenen,152
+Briskeby,7. juni-plassen,152
+MyralÃ¸kka Ã˜st,Torggata,152
+Parkveien,Tjuvholmen,152
+Olav Kyrres plass,Norsk Folkemuseum,152
+Majorstuen,Marcus Thranes gate,152
+Olaf Ryes plass,Enerhaugen,152
+Stavangergata,Birkelunden,152
+Hedmarksgata,Oslo Hospital,152
+Botanisk Hage sÃ¸r,Anker Hotel,152
+Arkitekt Rivertz Plass,Jess Carlsens gate,152
+SotahjÃ¸rnet,Galgeberg,152
+Birkelunden,Munkegata,152
+Edvard Storms gate,Huitfeldts gate,152
+Storo Storsenter,Torggata,152
+Spikersuppa Ã˜st,Frogner plass,152
+Skillebekk,PalÃ©haven,152
+Botanisk hage sÃ¸r-vest,Sommerfrydhagen,152
+Kirkeristen,Fagerheimgata,152
+Sofienbergparken nord,Jens Bjelkes Gate,152
+Carl Berners plass sÃ¸r,Schous plass,152
+Aker Brygge 2 mot RÃ¥dhusplassen,Sukkerbiten,152
+MÃ¸lleparken,Bislettgata,152
+VÃ¥r Frelsers gravlund,Sentrum Scene,151
+Parkveien,RuselÃ¸kkgÃ¥rden,151
+Bislettgata,MÃ¸lleparken,151
+Oscars gate,Professor Aschehougs plass,151
+Ã˜kern Portal,Ã˜kern Portal,151
+Oslo Plaza,Elgsletta,151
+Torggata,Jakob kirke,151
+Uranienborgveien,Kirkeristen,151
+Frogner plass,Huk 1,151
+Tjuvholmen,Over RÃ¥dhusgata,151
+Karenslyst allÃ©,Drammensveien,151
+St. Olavs gate,Pilestredet 63,151
+Dyvekes bru,Galgeberg,151
+Majorstua skole,Pilestredet,151
+Annette Thommessens Plass,Sukkerbiten,151
+Carl Berners plass sÃ¸r,Sofienberggata,151
+GrÃ¸nlands torg,Lakkegata,151
+Sommerfrydhagen,Nordre gate,151
+Oscars gate,Studenterlunden,151
+Jordalgata,The Hub,151
+Oslo Handelsgymnasium,Edvard Storms gate,151
+Fram-gÃ¥rden,Edvard Storms gate,151
+Sofienbergparken sÃ¸r,St. Olavs gate,151
+Parkveien,Dokkveien,151
+Sofienbergparken sÃ¸r,Olaf Ryes plass,151
+SÃ¸ndre gate,Linaaes gate,151
+Tjuvholmen,Olaf Ryes plass,151
+Nordre gate,Sommerfrydhagen,151
+MÃ¸lleparken,Carl Berners plass sÃ¸r,151
+Aker Brygge,Holbergs plass,151
+Carl Berners plass sÃ¸r,Botanisk Hage vest,150
+AHO,KontraskjÃ¦ret,150
+KontraskjÃ¦ret,Akerselvallmenningen,150
+Fagerheimgata,Fredensborg,150
+BjÃ¸lsen Studentby,Torggata,150
+Sukkerbiten,AHO,150
+Vestkanttorvet,ColbjÃ¸rnsens gate,150
+Vestkanttorvet,Frogner Stadion,150
+Lodalen busstopp,Helga Helgesens plass,150
+BjÃ¸lsendumpa,Bentsebrugata,150
+Bankplassen,Jess Carlsens gate,150
+Stensgata,Bogstadveien,150
+The Hub,Vippetangen vest,150
+Schives gate,Schives gate,150
+Landstads gate,Olaf Ryes plass,150
+BjÃ¸lsen Studentby,Olaf Ryes plass,150
+DÃ¦lenenggata,Birkelunden,150
+Olav Kyrres plass,Tjuvholmen,150
+Botanisk hage sÃ¸r-vest,Hausmanns bru,150
+Gunerius,TÃ¸yen skole,150
+Hausmanns gate,AHO,150
+Torggata,Landstads gate,150
+Aker Brygge 2 mot RÃ¥dhusplassen,Bankplassen,150
+Hesselbergs Gate,TÃ¸yenbekken,150
+Vippetangen vest,AHO,150
+Jess Carlsens gate,Birkelunden,150
+Majorstuen,Tjuvholmen,150
+Sinsen T-bane,Ringnes Park,150
+BI Nydalen,Olaf Ryes plass,150
+Stavangergata,Marcus Thranes gate,150
+Bislettgata,Lille Grensen,149
+Jens Bjelkes Gate,Lille Grensen,149
+Olaf Ryes plass,Elgsletta,149
+Botanisk hage sÃ¸r-vest,Sentrum Scene,149
+Majorstuen,Skovveien,149
+Botanisk hage sÃ¸r-vest,Botanisk hage sÃ¸r-vest,149
+Vippetangen vest,Tjuvholmen,149
+Bjerregaards gate,Tjuvholmen,149
+Helga Helgesens plass,KontraskjÃ¦ret,149
+Akerselvallmenningen,KontraskjÃ¦ret,149
+Helga Helgesens plass,Galgeberg,149
+Huk 2,Karenslyst allÃ©,149
+Jakob kirke,Sofienberggata,149
+Storo Storsenter,DÃ¦lenenggata,149
+Spikersuppa Ã˜st,Kirkeristen,149
+Trondheimsveien,Birkelunden,149
+Birkelunden,Schous plass trikkestopp,149
+Klingenberggata,Sukkerbiten,149
+SkÃ¸yen,Skillebekk,149
+HallÃ©nparken,HallÃ©nparken,149
+TÃ¸yen skole,Oslo Hospital,149
+SkÃ¸yen,Frognerbadet,149
+Stavangergata,VÃ¥r Frelsers gravlund,148
+Arkitekt Rivertz Plass,Kirkeristen,148
+Kirkeristen,Mandalls gate,148
+Annette Thommessens Plass,Kirkeristen,148
+Vippetangen Ã¸st,Fred Olsens gate,148
+GrÃ¸nlands torg,Olaf Ryes plass,148
+Mandalls gate,Sukkerbiten,148
+Georg Morgenstiernes hus,Ringnes Park,148
+PalÃ©haven,Akerselvallmenningen,148
+Dokkveien,Sukkerbiten,148
+Botanisk Hage sÃ¸r,BjÃ¸rvika,148
+Trondheimsveien,Schous plass,148
+Akerselvallmenningen,Munkegata,148
+TÃ¸yenparken,Olaf Ryes plass,148
+Saga Kino,Hammersborg Torg,148
+Krebs' gate,Olaf Ryes plass,148
+Helga Helgesens plass,RÃ¥dhusgata,148
+Ringnes Park,Spikersuppa Ã˜st,148
+Hasle Torg,Hasle Torg,148
+Sukkerbiten,Schous plass trikkestopp,148
+Henrik Wergelands allÃ©,Bjerregaards gate,148
+Blindern Studenthus,Georg Morgenstiernes hus,148
+Sofienberggata,Schous plass,148
+Munkegata,Jens Bjelkes Gate,148
+Botanisk Hage sÃ¸r,TÃ¸yen skole,148
+Parkveien,Aker Brygge,148
+Schous plass,Rostockgata,148
+Stavangergata,Sagene bussholdeplass,148
+Sofienberggata,Jakob kirke,148
+The Hub,Aker Brygge,148
+Bislett Stadion,Holbergs plass,148
+VÃ¥r Frelsers gravlund,St. Hanshaugen park nord,148
+Bjerregaards gate,Aker Brygge,148
+Henrik Ibsens gate,Spikersuppa Vest,148
+GrÃ¸nlands torg,Jess Carlsens gate,148
+BjÃ¸lsendumpa,Birkelunden,148
+Annette Thommessens Plass,Sommerfrydhagen,148
+Schous plass trikkestopp,PalÃ©haven,148
+TÃ¸yen skole,Botanisk Hage vest,147
+The Hub,Botanisk Hage vest,147
+UllevÃ¥lsveien,Akersgata,147
+Carl Berners plass sÃ¸r,Carl Berners plass sÃ¸r,147
+Oslo Hospital,Jernbanetorget,147
+BjÃ¸lsendumpa,AHO,147
+LÃ¸renveien,Torggata,147
+Sukkerbiten,Sofienbergparken nordvest,147
+TÃ¥sen Senter,Storo Storsenter,147
+The Hub,Anker Hotel,147
+Thomas Heftyes plass,Spikersuppa Vest,147
+Majorstuen,Marienlystparken,147
+Vulkan,Vaterlandsparken,147
+Huitfeldts gate,SkÃ¸yen,147
+Sagene bussholdeplass,Majorstuen,147
+BjÃ¸rvika,Alexander Kiellands Plass,147
+Botanisk Hage sÃ¸r,Alexander Kiellands Plass,147
+Schous plass trikkestopp,GrÃ¸nlands torg,147
+Kampen park Ã˜st,Sofienbergparken nordvest,147
+Studenterlunden,Olaf Ryes plass,147
+Spikersuppa Ã˜st,Botanisk Hage sÃ¸r,147
+Chr. Michelsens Gate,TÃ¸yen skole,147
+Linaaes gate,Landstads gate,147
+Schous plass,VÃ¥r Frelsers gravlund,147
+SotahjÃ¸rnet,SotahjÃ¸rnet,147
+Studenterlunden,Bogstadveien,147
+Sofienbergparken nord,PalÃ©haven,147
+Huitfeldts gate,Pilestredet Studenthus,147
+Aker Brygge,Frognerstranda,147
+Hesselbergs Gate,Kirkeristen,147
+Stavangergata,Bak Niels Treschows hus nord,147
+Bjerregaards gate,Akersgata,147
+Fysikkbygningen,Alexander Kiellands Plass,147
+Jenny Braatens Plass,Sommerfrydhagen,147
+Forskningsveien,Domus Athletica,147
+HallÃ©nparken,Schous plass,147
+Domus Athletica,Bak Niels Treschows hus sÃ¸r,147
+Edvard Storms gate,Spikersuppa Vest,147
+Vaterlandsparken,Botanisk Hage sÃ¸r,147
+Hedmarksgata,BjÃ¸rvika,147
+SÃ¸ndre gate,RÃ¥dhusgata,146
+Henrik Ibsens gate,Studentparlamentet,146
+Fredensborg,Edvard Storms gate,146
+Marcus Thranes gate,Vaterlandsparken,146
+Arendalsgata,UllevÃ¥l sykehus,146
+Hasle,LÃ¸renveien,146
+Stavangergata,Hammersborg Torg,146
+Sofienbergparken nordvest,Spikersuppa Vest,146
+Carl Berners plass sÃ¸r,Sirkustomta,146
+Helga Helgesens plass,Kirkegata 15,146
+SjÃ¸siden ved trappen,Jens Bjelkes Gate,146
+Gunerius,Sommerfrydhagen,146
+Torggata,Sofienbergparken sÃ¸r,146
+Torggata,BjÃ¸rvika,146
+Jens Bjelkes Gate,VÃ¥r Frelsers gravlund,146
+Ila,Uelands gate,146
+Hallings gate,Hallings gate,146
+Olaf Ryes plass,Mandalls gate,146
+Gunerius,GrÃ¸nlands torg,146
+Botanisk Hage sÃ¸r,Oslo Plaza,146
+Sognsveien,Ringnes Park,146
+Kirkeristen,Spikersuppa Vest,146
+Gunerius,AHO,146
+Pilestredet 63,Henrik Ibsens gate,146
+Torggata,Tjuvholmen,146
+Bankplassen,Sentrum Scene,146
+St. Hanshaugen park vest,St. Hanshaugen park vest,146
+Munkegata,Jess Carlsens gate,146
+Helga Helgesens plass,Universitetsgata,146
+LÃ¸renveien,Sinsen T-bane,146
+Aker Brygge 3 mot Fergene,Helga Helgesens plass,146
+Ringnes Park,SÃ¸ndre gate,146
+Pilestredet Studenthus,7. juni-plassen,146
+Fredensborg,Torggata,146
+Henrik Ibsens gate,Skillebekk,146
+Filipstadveien,St. Olavs gate,146
+Colosseum Kino,Elisenberg,146
+Stavangergata,Bislett Stadion,146
+Alexander Kiellands Plass,Anker Hotel,146
+Aker Brygge,Uranienborgveien,146
+Skillebekk,Oscars gate,146
+Vestkanttorvet,SkÃ¸yen,146
+Salt,PalÃ©haven,146
+Kirkeristen,Frognerveien,146
+Ringnes Park,Jess Carlsens gate,145
+Frogner plass,Oscars gate,145
+Sukkerbiten,Jess Carlsens gate,145
+Enerhaugen,GrÃ¸nlands torg,145
+Marcus Thranes gate,Bankplassen,145
+HallÃ©nparken,Sommerfrydhagen,145
+Vippetangen Ã¸st,PalÃ©haven,145
+Dokkveien,Fram-gÃ¥rden,145
+Kirkeristen,Oslo Hospital,145
+MÃ¸lleparken,Schous plass trikkestopp,145
+Stensgata,Stensgata,145
+AHO,Hausmanns gate,145
+Elgsletta,Sukkerbiten,145
+Sommerfrydhagen,HallÃ©nparken,145
+Frogner plass,Gimle Kino,145
+AHO,Munkegata,145
+Monolittveien,Jarlsborgveien,145
+Mandalls gate,Gunerius,145
+Fysikkbygningen,Stensgata,145
+Ringnes Park,MyralÃ¸kka Ã˜st,145
+Sofienbergparken nord,Sukkerbiten,145
+Munkegata,Arkaden SÃ¸r,145
+Oslo Plaza,Botanisk Hage sÃ¸r,145
+Frognerveien,Dokkveien,145
+Jernbanetorget,OsloMet,145
+Anker Hotel,PalÃ©haven,145
+Jess Carlsens gate,Fred Olsens gate,145
+MÃ¸lleparken,Aker Brygge,145
+Oslo Hospital,Over RÃ¥dhusgata,145
+Munkegata,Lille Schous plass,145
+The Hub,TÃ¸yen skole,144
+Sukkerbiten,Slottsparken Ã˜st,144
+Botanisk hage sÃ¸r-vest,Munkegata,144
+Skovveien,Huitfeldts gate,144
+Jakob kirke,Munkegata,144
+Rostockgata,Tjuvholmen,144
+KvÃ¦rnerveien,Munkegata,144
+Fram-gÃ¥rden,Henrik Ibsens gate,144
+SjÃ¸siden 1 ved trappen,Dyvekes bru,144
+Ringnes Park,Edvard Storms gate,144
+GrÃ¸nlands torg,Vaterlandsparken,144
+Bjerregaardsgate Ã˜st,TÃ¸yenbekken,144
+Skarpsnoparken,Tjuvholmen,144
+Bislett Stadion,SjÃ¸siden ved trappen,144
+Torggata,Lille Schous plass,144
+Galgeberg,TÃ¸yenbekken,144
+The Hub,SÃ¸ndre gate,144
+Olaf Ryes plass,SÃ¸ndre gate,144
+SjÃ¸lyst,Karenslyst allÃ©,144
+SjÃ¸siden 2 ved fontenen,KvÃ¦rnerbyen,144
+Hammersborg Torg,PalÃ©haven,144
+KontraskjÃ¦ret,Oslo Handelsgymnasium,144
+Jernbanetorget,Studentparlamentet,144
+Dokkveien,Torggata,144
+Frogner plass,Oslo Handelsgymnasium,144
+Forskningsveien,Birkelunden,144
+Elisenberg,Oslo Handelsgymnasium,144
+Sofienbergparken nordvest,Oslo Plaza,144
+Schous plass,Dokkveien,144
+Olav Kyrres plass,Olav Kyrres plass,144
+Marcus Thranes gate,Carl Berners plass nord,144
+Holbergs plass,Frognerveien,144
+Uranienborgveien,Dokkveien,144
+Skillebekk,Torggata,144
+SjÃ¸siden ved trappen,Torggata,144
+VÃ¥r Frelsers gravlund,Botanisk Hage sÃ¸r,143
+Kirkeristen,Akerselvallmenningen,143
+EnsjÃ¸ T-bane,Helga Helgesens plass,143
+7. juni-plassen,Parkveien,143
+BjÃ¸rvika,Sofienbergparken nordvest,143
+Frogner plass,Spikersuppa Vest,143
+Frogner Stadion,Karenslyst allÃ©,143
+Sukkerbiten,Akersgata,143
+7. juni-plassen,VÃ¥r Frelsers gravlund,143
+Ringnes Park,Stjerneplassen,143
+Krebs' gate,Torggata,143
+Gimle Kino,RÃ¥dhusgata,143
+SjÃ¸siden 1 ved trappen,Salt,143
+Ringnes Park,Lille Schous plass,143
+Colosseum Kino,Colosseum Kino,143
+Birkelunden,Anker Hotel,143
+Ringnes Park,Parkveien,143
+Olaf Ryes plass,Marcus Thranes gate,143
+Annette Thommessens Plass,Botanisk hage sÃ¸r-vest,143
+Briskeby,Colosseum Kino,143
+The Hub,Lille Schous plass,143
+Lindern,Arendalsgata,143
+Landstads gate,Sukkerbiten,143
+Fagerheimgata,PalÃ©haven,143
+Torggata,Fram-gÃ¥rden,143
+BygdÃ¸y allÃ©,SkÃ¸yen,143
+Jess Carlsens gate,Sofienbergparken nord,143
+Filipstadveien,Saga Kino,143
+Torggata,GrÃ¼nerhagen Nord,143
+Aker Brygge,Over RÃ¥dhusgata,143
+Schous plass trikkestopp,Jens Bjelkes Gate,143
+BI Nydalen,Fagerheimgata,143
+AHO,Akersgata,143
+Alexander Kiellands Plass,GrÃ¸nlands torg,143
+Bentsebrugata,Linaaes gate,143
+TÃ¸yen skole,AHO,143
+Georg Morgenstiernes hus,Domus Athletica,143
+SjÃ¸siden 1 ved trappen,Olaf Ryes plass,143
+Jess Carlsens gate,Sommerfrydhagen,143
+Oscars gate,Bislettgata,143
+Sofienbergparken sÃ¸r,RÃ¥dhusgata,143
+Enerhaugen,Oslo Plaza,143
+Stavangergata,Sognsveien,143
+Lille Grensen,Munkegata,142
+VÃ¥r Frelsers gravlund,Fredensborg,142
+Schous plass,Tjuvholmen,142
+Studenterlunden,Vulkan,142
+Thomas Heftyes plass,Saga Kino,142
+UllevÃ¥lsveien,Kirkeristen,142
+Bogstadveien,Spikersuppa Vest,142
+Majorstua skole,Parkveien,142
+BjÃ¸rvika,Torggata,142
+Fagerheimgata,Aker Brygge,142
+Henrik Ibsens gate,St. Olavs gate,142
+Hammersborg Torg,SjÃ¸siden 1 ved trappen,142
+Jordalgata,VÃ¥lerenga,142
+Nydalen,Nydalen,142
+SkÃ¸yen,Huk 1,142
+Akerselvallmenningen,Sentrum Scene,142
+Rostockgata,Schous plass,142
+Torggata,Munkegata,142
+Akerselvallmenningen,Slottsparken Ã˜st,142
+BjÃ¸lsen mÃ¸lle,Olaf Ryes plass,142
+Vippetangen vest,Dokkveien,142
+Lodalen busstopp,PalÃ©haven,142
+Sofienbergparken nord,Sommerfrydhagen,142
+AHO,SjÃ¸siden 1 ved trappen,142
+Vestkanttorvet,Majorstuen,142
+Briskeby,Oslo Handelsgymnasium,142
+Fredensborg,Birkelunden,142
+Sukkerbiten,KvÃ¦rnerbyen,142
+SjÃ¸siden ved trappen,Galgeberg,142
+Birkelunden,BjÃ¸lsen Studentby,142
+Kirkeristen,Sentrum Scene,142
+Lilleborgbanen,Bislett Stadion,142
+Oslo Hospital,Torggata,142
+Griffenfeldts gate,Marcus Thranes gate,142
+GrÃ¸nlands torg,Jens Bjelkes Gate,142
+Storo Storsenter,HallÃ©nparken,142
+BI Nydalen,Lilleborgbanen,142
+VÃ¥r Frelsers gravlund,Sofienbergparken nordvest,142
+Fyrstikktorget,Galgeberg,141
+KvÃ¦rnerbyen,TÃ¸yenparken,141
+AHO,Professor Aschehougs plass,141
+Skillebekk,Klingenberggata,141
+Ringnes Park,TÃ¸yenparken,141
+Bjerregaards gate,Spikersuppa Vest,141
+Schous plass trikkestopp,Sentrum Scene,141
+Stavangergata,Jess Carlsens gate,141
+SjÃ¸siden ved trappen,Sofienbergparken nord,141
+BjÃ¸lsen Studentby,Domus Athletica,141
+Schous plass trikkestopp,Jakob kirke,141
+Lille Grensen,Rostockgata,141
+SjÃ¸siden 1 ved trappen,Rostockgata,141
+Fysikkbygningen,Blindern Studenthus,141
+The Hub,Sommerfrydhagen,141
+Vippetangen vest,Rostockgata,141
+Aker Brygge 3 mot Fergene,SjÃ¸siden 2 ved fontenen,141
+Trondheimsveien,Vaterlandsparken,141
+Valkyrieplassen,Oscars gate,141
+Hausmanns gate,Aker Brygge,141
+Hoffsveien,BygdÃ¸y allÃ©,141
+Bislett Stadion,Bogstadveien,141
+The Hub,Studentparlamentet,141
+Vulkan,Akersgata,141
+Rostockgata,Spikersuppa Ã˜st,141
+Saga Kino,St. Olavs gate,141
+LÃ¸renveien,Ringnes Park,141
+Anker Hotel,Spikersuppa Vest,141
+Enerhaugen,Sentrum Scene,141
+Studenterlunden,Kirkeristen,141
+Brugata,Jakob kirke,141
+Frogner plass,Spikersuppa Ã˜st,141
+Hausmanns gate,Sukkerbiten,141
+Vulkan,Professor Aschehougs plass,141
+Thomas Heftyes plass,Professor Aschehougs plass,141
+SjÃ¸siden ved trappen,Vulkan,141
+Akerselvallmenningen,Aker Brygge 2 mot RÃ¥dhusplassen,140
+Ila,Vulkan,140
+Pilestredet 63,Majorstuen,140
+Lille Grensen,Spikersuppa Vest,140
+Bislett Stadion,Spikersuppa Ã˜st,140
+Bankplassen,Aker Brygge 2 mot RÃ¥dhusplassen,140
+Over RÃ¥dhusgata,Ringnes Park,140
+Sentrum Scene,Sofienbergparken nordvest,140
+Fredensborg,TÃ¸yen skole,140
+Skillebekk,Aker Brygge,140
+SjÃ¸siden ved fontenen,Aker Brygge,140
+Bislett Stadion,Vulkan,140
+Riddervoldplass,BjÃ¸rvika,140
+Anker Hotel,Stjerneplassen,140
+Mandalls gate,KvÃ¦rnerbyen,140
+St. Olavs gate,Sofienbergparken nord,140
+Klingenberggata,Aker Brygge,140
+Brugata,Olaf Ryes plass,140
+Fram-gÃ¥rden,Frognerstranda,140
+Bislettgata,Majorstua skole,140
+Landstads gate,Saga Kino,140
+Kirkegata 15,Bankplassen,140
+Bankplassen,Jakob kirke,140
+Fagerheimgata,Schous plass trikkestopp,140
+Briskeby,Hoffsveien,140
+Spikersuppa Ã˜st,Torggata,140
+Bak Niels Treschows hus nord,Marcus Thranes gate,140
+St. Olavs gate,Torggata,140
+Vippetangen vest,Kirkeristen,140
+Hans Nielsen Hauges plass,Torggata,140
+Bjerregaardsgate Ã˜st,Ringnes Park,140
+Fyrstikktorget,AHO,140
+Marcus Thranes gate,Trondheimsveien,140
+Oslo Hospital,Sentrum Scene,140
+Hans Nielsen Hauges plass,Alexander Kiellands Plass,139
+SkÃ¸yen,Huk 2,139
+TÃ¸yen skole,Elgsletta,139
+Akerselvallmenningen,Jens Bjelkes Gate,139
+Bak Niels Treschows hus nord,BjÃ¸lsen Studentby,139
+Botanisk Hage sÃ¸r,Linaaes gate,139
+Skovveien,Uranienborgveien,139
+Landstads gate,Vaterlandsparken,139
+Frognerstranda,Hydroparken,139
+Saga Kino,Helga Helgesens plass,139
+GrÃ¸nlands torg,TÃ¸yen skole,139
+Trondheimsveien,The Hub,139
+Vulkan,Stjerneplassen,139
+BI Nydalen,BjÃ¸lsendumpa,139
+Gunerius,Botanisk Hage sÃ¸r,139
+Norsk Folkemuseum,RÃ¥dhusgata,139
+St. Hanshaugen park vest,Aker Brygge,139
+Fagerheimgata,Jens Bjelkes Gate,139
+Schous plass,Spikersuppa Ã˜st,139
+Jenny Braatens Plass,TÃ¸yenbekken,139
+SÃ¸ndre gate,Lille Grensen,139
+Huk 2,Maritimt Museum,139
+Kirkegata 15,SjÃ¸siden ved trappen,139
+BygdÃ¸y allÃ©,Olav Kyrres plass,139
+RÃ¥dhusgata,Rostockgata,139
+Ringnes Park,Thune,139
+AHO,SjÃ¸siden ved fontenen,139
+Stensparken,St. Olavs gate,139
+Ringnes Park,Lilleborgbanen,139
+SkÃ¸yen,Thune,139
+Gimle Kino,Thomas Heftyes plass,139
+Stavangergata,Bjerregaardsgate Ã˜st,139
+Bislett Stadion,Hammersborg Torg,139
+7. juni-plassen,Bislett Stadion,139
+Oslo Hospital,Brugata,139
+Bankplassen,Helga Helgesens plass,139
+SkÃ¸yen,Olav Kyrres plass,139
+Fredensborg,Schous plass,139
+Hasle Torg,SotahjÃ¸rnet,139
+Fysikkbygningen,Domus Athletica,139
+Sukkerbiten,Annette Thommessens Plass,139
+Hausmanns bru,Hausmanns bru,139
+Dyvekes bru,GrÃ¸nlands torg,139
+Marienlystparken,Marienlystparken,139
+Linaaes gate,Lakkegata,139
+Ringnes Park,Trondheimsveien,139
+Oslo Handelsgymnasium,Spikersuppa Ã˜st,138
+Birkelunden,Elgsletta,138
+Munkegata,Studentparlamentet,138
+Elisenberg,Saga Kino,138
+VÃ¥r Frelsers gravlund,Akerselvallmenningen,138
+Lille Grensen,BjÃ¸rvika,138
+BjÃ¸lsen Studentby,Sagene bussholdeplass,138
+Bislettgata,Linaaes gate,138
+Botanisk Hage sÃ¸r,Marcus Thranes gate,138
+St. Olavs gate,Jernbanetorget,138
+Sentrum Scene,Vulkan,138
+Vestkanttorvet,Karenslyst allÃ©,138
+Nybrua holdeplass,Kirkeristen,138
+Ringnes Park,Saga Kino,138
+Huitfeldts gate,Slottsparken Ã˜st,138
+Frognerveien,SkÃ¸yen,138
+Storo Storsenter,Ila,138
+KvÃ¦rnerbyen,GrÃ¸nlands torg,138
+Jernbanetorget,Akerselvallmenningen,138
+Sofienbergparken nord,MÃ¸lleparken,138
+Huitfeldts gate,Lille Grensen,138
+Henrik Wergelands allÃ©,Suhms gate,138
+Skarpsnoparken,Skillebekk,138
+Annette Thommessens Plass,Dronningens gate,138
+Vulkan,Botanisk Hage sÃ¸r,138
+Sukkerbiten,Arkaden SÃ¸r,138
+Jess Carlsens gate,Rostockgata,138
+Anker Hotel,Gunerius,138
+Landstads gate,PalÃ©haven,138
+Skovveien,Helga Helgesens plass,138
+Fagerheimgata,St. Olavs gate,138
+Edvard Storms gate,Rostockgata,138
+Botanisk Hage sÃ¸r,Rostockgata,138
+Elisenberg,Torggata,138
+Lille Grensen,Jakob kirke,138
+Henrik Ibsens gate,BjÃ¸rvika,137
+Rostockgata,Vippetangen vest,137
+Professor Aschehougs plass,Jens Bjelkes Gate,137
+Sukkerbiten,TÃ¸yen skole,137
+Annette Thommessens Plass,Jernbanetorget,137
+TannlegehÃ¸yskolen,Idioten,137
+Langkaia,Dokkveien,137
+Botanisk Hage sÃ¸r,Aker Brygge,137
+KontraskjÃ¦ret,Huitfeldts gate,137
+Briskeby,BjÃ¸rvika,137
+Pilestredet 63,Saga Kino,137
+Gunerius,Lakkegata,137
+Alexander Kiellands Plass,Majorstuen,137
+Carl Berners plass nord,Olaf Ryes plass,137
+Oslo Plaza,Botanisk Hage vest,137
+Hans Nielsen Hauges plass,Carl Berners plass nord,137
+Ila,Aker Brygge,137
+Domus Athletica,Fysikkbygningen,137
+Karenslyst allÃ©,Olav Kyrres plass,137
+Majorstuen,Hallings gate,137
+Schous plass,Munkegata,137
+Fredensborg,SjÃ¸siden ved trappen,137
+Carl Berners plass nord,TÃ¸yenbekken,137
+DÃ¦lenenggata,Kirkeristen,137
+Monolittveien,Frogner plass,137
+Bankplassen,AHO,137
+OsloMet,SjÃ¸siden ved trappen,137
+Skarpsnoparken,Skarpsnoparken,137
+Frognerveien,Frogner plass,137
+Schous plass trikkestopp,Stjerneplassen,137
+Majorstuen,RuselÃ¸kkgÃ¥rden,137
+Torggata,Lakkegata,137
+Schous plass trikkestopp,BjÃ¸rvika,137
+Majorstua skole,Frognerveien,136
+Alexander Kiellands Plass,Oscars gate,136
+OsloMet,Bankplassen,136
+Saga Kino,Holbergs plass,136
+Vestkanttorvet,Dokkveien,136
+GrÃ¼nerhagen Nord,Sofienbergparken nord,136
+Bislettgata,Olaf Ryes plass,136
+Oscars gate,Universitetsgata,136
+Lodalen busstopp,GrÃ¸nlands torg,136
+7. juni-plassen,Hydroparken,136
+Uelands gate,Vulkan,136
+Aker Brygge,Jess Carlsens gate,136
+Schous plass,Marcus Thranes gate,136
+Karenslyst allÃ©,Huk 1,136
+Lille Schous plass,TÃ¸yenbekken,136
+Tjuvholmen,Vippetangen vest,136
+Galgeberg,Munkegata,136
+Lille Schous plass,The Hub,136
+Frognerstranda,RÃ¥dhusgata,136
+Henrik Ibsens gate,Frognerveien,136
+Nordre gate,Kirkeristen,136
+Helga Helgesens plass,Aker Brygge 1 mot Nasjonalmuseet,136
+Carl Berners plass nord,Jens Bjelkes Gate,136
+Bislettgata,Pilestredet,136
+7. juni-plassen,Fram-gÃ¥rden,136
+Sofienbergparken nord,Schous plass trikkestopp,136
+7. juni-plassen,Frogner plass,136
+BI Nydalen,HallÃ©nparken,136
+Elisenberg,RuselÃ¸kkgÃ¥rden,136
+KvÃ¦rnerveien,KvÃ¦rnerbyen,136
+Birkelunden,Spikersuppa Ã˜st,136
+Holbergs plass,Bogstadveien,136
+Sentrum Scene,Sofienbergparken sÃ¸r,136
+Hoffsveien,Briskeby,136
+Sukkerbiten,Anker Hotel,136
+Uranienborgveien,Skovveien,136
+TÃ¸yenbekken,Sofienbergparken nordvest,136
+Aker Brygge,RÃ¥dhusgata,136
+SotahjÃ¸rnet,BjÃ¸rvika,135
+SotahjÃ¸rnet,Jordalgata,135
+KvÃ¦rnerbyen,Jess Carlsens gate,135
+Stensgata,St. Olavs gate,135
+BygdÃ¸y allÃ©,Filipstadveien,135
+Stavangergata,Storo Storsenter,135
+VÃ¥r Frelsers gravlund,SjÃ¸siden ved fontenen,135
+Botanisk Hage sÃ¸r,Munkegata,135
+St. Olavs gate,PalÃ©haven,135
+Oslo Handelsgymnasium,Rostockgata,135
+John Colletts plass,Marcus Thranes gate,135
+Sukkerbiten,Aker Brygge 1 mot Nasjonalmuseet,135
+Jens Bjelkes Gate,Elgsletta,135
+Sentrum Scene,GrÃ¸nlands torg,135
+Frogner Stadion,Frognerveien,135
+Skovveien,Saga Kino,135
+Oslo Handelsgymnasium,Parkveien,135
+Storo Storsenter,Stavangergata,135
+Ringnes Park,St. Hanshaugen park sÃ¸r,135
+MÃ¸lleparken,Kirkeristen,135
+Elisenberg,Thune,135
+Jenny Braatens Plass,Fagerheimgata,135
+Uranienborgparken,Filipstadveien,135
+Edvard Storms gate,Tjuvholmen,135
+Marcus Thranes gate,Stjerneplassen,135
+Sofienbergparken nord,Spikersuppa Vest,135
+HallÃ©nparken,Carl Berners plass sÃ¸r,135
+Gimle Kino,Frogner Stadion,135
+GrÃ¸nlands torg,Botanisk Hage sÃ¸r,135
+Bislettgata,Holbergs plass,135
+Jens Bjelkes Gate,Akerselvallmenningen,135
+Uranienborgveien,Studenterlunden,135
+Dyvekes bru,Spikersuppa Ã˜st,135
+Frognerstranda,Huk 2,135
+UllevÃ¥l sykehus,Arkitekt Rivertz Plass,135
+Schous plass,Sommerfrydhagen,135
+Henrik Wergelands allÃ©,Bislett Stadion,135
+Aker Brygge,Oslo Hospital,135
+Sofienbergparken sÃ¸r,Jakob kirke,135
+Holbergs plass,Oscars gate,135
+Botanisk Hage vest,Jens Bjelkes Gate,135
+Lille Schous plass,Sommerfrydhagen,135
+Botanisk Hage vest,Botanisk Hage vest,135
+Sofienbergparken sÃ¸r,Sentrum Scene,135
+KvÃ¦rnerbyen,Spikersuppa Ã˜st,134
+EnsjÃ¸ T-bane,Galgeberg,134
+Jess Carlsens gate,Studenterlunden,134
+Saga Kino,OsloMet,134
+GrÃ¸nlands torg,Annette Thommessens Plass,134
+Colosseum Kino,Tjuvholmen,134
+Stavangergata,Domus Athletica,134
+Frogner Stadion,Filipstadveien,134
+Jernbanetorget,KvÃ¦rnerbyen,134
+Spikersuppa Vest,Helga Helgesens plass,134
+Alexander Kiellands Plass,SÃ¸ndre gate,134
+Stensgata,Pilestredet 63,134
+Elgsletta,Jess Carlsens gate,134
+Mandalls gate,Jens Bjelkes Gate,134
+Carl Berners plass nord,Torggata,134
+Carl Berners plass sÃ¸r,MÃ¸lleparken,134
+Hasle,EnsjÃ¸ T-bane,134
+Stavangergata,Schous plass,134
+Huitfeldts gate,7. juni-plassen,134
+Bislett Stadion,Helga Helgesens plass,134
+Arkaden Nord,Helga Helgesens plass,134
+Schous plass,Birkelunden,134
+Fram-gÃ¥rden,RÃ¥dhusgata,134
+Olav Kyrres plass,Huk 2,134
+Sinsen T-bane,Fagerheimgata,134
+Bogstadveien,Lille Grensen,134
+Stensgata,Parkveien,134
+Helga Helgesens plass,PalÃ©haven,134
+Vulkan,Jens Bjelkes Gate,134
+St. Olavs gate,Oslo Handelsgymnasium,134
+HallÃ©nparken,Chr. Michelsens Gate,134
+Karenslyst allÃ©,SjÃ¸siden ved trappen,134
+Gimle Kino,Spikersuppa Vest,134
+Galgeberg,Jens Bjelkes Gate,134
+Bogstadveien,Ringnes Park,134
+St. Olavs gate,Rostockgata,134
+Studenterlunden,Bjerregaards gate,134
+Sognsveien,Bak Niels Treschows hus sÃ¸r,134
+St. Olavs gate,SjÃ¸siden 1 ved trappen,134
+Forskningsveien,Stensgata,134
+Universitetsgata,Dokkveien,134
+Akersgata,Akersgata,134
+Majorstuen,Kirkeveien,134
+Skovveien,Aker Brygge,134
+Frognerveien,Holbergs plass,134
+Thune,ColbjÃ¸rnsens gate,134
+Annette Thommessens Plass,Enerhaugen,134
+Trondheimsveien,Jakob kirke,134
+Salt,Helga Helgesens plass,133
+MÃ¸lleparken,Sofienbergparken nord,133
+Hans Nielsen Hauges plass,Sinsen T-bane,133
+AHO,GrÃ¸nlands torg,133
+Dokkveien,Sofienbergparken nord,133
+Schives gate,Henrik Ibsens gate,133
+Bjerregaardsgate Ã˜st,Bankplassen,133
+Botanisk Hage sÃ¸r,Trelastgata,133
+Bogstadveien,Bjerregaards gate,133
+Schives gate,Gimle Kino,133
+Ila,Sentrum Scene,133
+Henrik Ibsens gate,Lille Grensen,133
+Uranienborgparken,Elisenberg,133
+Majorstua skole,Bjerregaards gate,133
+Bjerregaards gate,Professor Aschehougs plass,133
+Botanisk Hage sÃ¸r,SkrÃ¥ninga,133
+AHO,TÃ¸yen skole,133
+Kirkeristen,Hausmanns gate,133
+KvÃ¦rnerbyen,Klingenberggata,133
+Pilestredet 63,OsloMet,133
+Aker Brygge,Sofienbergparken nord,133
+Hausmanns gate,Botanisk Hage sÃ¸r,133
+Finnmarksgata,TÃ¸yenbekken,133
+Thune,Tjuvholmen,133
+Jens Bjelkes Gate,Saga Kino,133
+GrÃ¼nerhagen Nord,Sommerfrydhagen,133
+Majorstua skole,Uranienborgveien,133
+Bogstadveien,Parkveien,133
+Suhms gate,Bislett Stadion,133
+Alexander Kiellands Plass,Parkveien,133
+Norsk Folkemuseum,Huitfeldts gate,133
+Alexander Kiellands Plass,OsloMet,133
+Tjuvholmen,Bislett Stadion,133
+Marcus Thranes gate,Hammersborg Torg,133
+Vaterlandsparken,KvÃ¦rnerbyen,133
+Olaf Ryes plass,KontraskjÃ¦ret,133
+RÃ¥dhusgata,Annette Thommessens Plass,133
+Birkelunden,GrÃ¼nerhagen Nord,133
+KvÃ¦rnerbyen,KvÃ¦rnerveien,133
+Fagerheimgata,Sofienbergparken nordvest,133
+Helga Helgesens plass,Anker Hotel,133
+KontraskjÃ¦ret,Helga Helgesens plass,133
+Henrik Ibsens gate,Helga Helgesens plass,133
+BjÃ¸lsen mÃ¸lle,Birkelunden,133
+Kirkeristen,Annette Thommessens Plass,133
+Alexander Kiellands Plass,Carl Berners plass nord,133
+Lille Grensen,Slottsparken Ã˜st,133
+Hedmarksgata,Sommerfrydhagen,133
+Ringnes Park,Stensparken,132
+Sukkerbiten,Galgeberg,132
+Spikersuppa Ã˜st,AHO,132
+MÃ¸lleparken,Linaaes gate,132
+VÃ¥r Frelsers gravlund,St. Olavs gate,132
+Skippergata,Olaf Ryes plass,132
+Bislettgata,Marcus Thranes gate,132
+Schous plass,Arkaden Nord,132
+Ringnes Park,Oslo Plaza,132
+Carl Berners plass sÃ¸r,Birkelunden,132
+7. juni-plassen,Thomas Heftyes plass,132
+Filipstadveien,Skillebekk,132
+Bjerregaardsgate Ã˜st,Kirkeristen,132
+Uelands gate,The Hub,132
+Frogner plass,Kirkeristen,132
+SjÃ¸siden 1 ved trappen,Torggata,132
+Sirkustomta,Sofienbergparken nordvest,132
+Majorstuen,Majorstuveien,132
+Landstads gate,Botanisk hage sÃ¸r-vest,132
+Sommerfrydhagen,MÃ¸lleparken,132
+Jess Carlsens gate,SjÃ¸siden 1 ved trappen,132
+LÃ¸renveien,Fagerheimgata,132
+Bentsebrugata,Majorstuen,132
+Aker Brygge,Fred Olsens gate,132
+Thomas Heftyes plass,Gimle Kino,132
+Frognerveien,Filipstadveien,132
+TÃ¸yen skole,Gunerius,132
+Birkelunden,Oslo Plaza,132
+Thomas Heftyes plass,Majorstuen,132
+Sukkerbiten,Stjerneplassen,132
+HallÃ©nparken,Torggata,132
+Helga Helgesens plass,Ringnes Park,132
+Dokkveien,SjÃ¸siden 2 ved fontenen,132
+Sukkerbiten,Klingenberggata,132
+Torshovparken vest,TÃ¸yen skole,132
+SÃ¸ndre gate,Olaf Ryes plass,132
+St. Hanshaugen park nord,Marcus Thranes gate,132
+Olav Kyrres plass,Drammensveien,132
+Sofienberggata,Sofienbergparken sÃ¸r,132
+The Hub,Sofienbergparken sÃ¸r,132
+Hans Nielsen Hauges plass,Krebs' gate,132
+Elisenberg,Colosseum Kino,131
+Vestkanttorvet,Thune,131
+Hausmanns bru,Jess Carlsens gate,131
+Lille Grensen,Akerselvallmenningen,131
+Vippetangen Ã¸st,Skippergata,131
+Vulkan,Fred Olsens gate,131
+Jordalgata,Rostockgata,131
+Over RÃ¥dhusgata,Tjuvholmen,131
+The Hub,VÃ¥r Frelsers gravlund,131
+UllevÃ¥lsveien,MÃ¸lleparken,131
+Professor Aschehougs plass,Bislett Stadion,131
+Gunerius,Schous plass,131
+St. Hanshaugen park nord,VÃ¥r Frelsers gravlund,131
+Riddervoldplass,Skillebekk,131
+BjÃ¸lsen mÃ¸lle,Storo Storsenter,131
+VÃ¥r Frelsers gravlund,Tjuvholmen,131
+Sommerfrydhagen,Sofienbergparken sÃ¸r,131
+Bentsebrugata,Arendalsgata,131
+UllevÃ¥l sykehus,Henrik Wergelands allÃ©,131
+Birkelunden,Carl Berners plass sÃ¸r,131
+KvÃ¦rnerbyen,Arkaden SÃ¸r,131
+Sentrum Scene,Sofienberggata,131
+Brugata,Oslo Hospital,131
+BjÃ¸lsen Studentby,Majorstuen,131
+Henrik Ibsens gate,Filipstadveien,131
+Landstads gate,SjÃ¸siden ved trappen,131
+Suhms gate,Bislettgata,131
+Mandalls gate,Spikersuppa Vest,131
+Lilleborgbanen,Linaaes gate,131
+Bjerregaards gate,Birkelunden,131
+MÃ¸lleparken,Vaterlandsparken,131
+Jess Carlsens gate,Elgsletta,131
+Fyrstikktorget,BjÃ¸rvika,131
+Sukkerbiten,Saga Kino,131
+Jens Bjelkes Gate,Lakkegata,131
+Jakob kirke,Vaterlandsparken,131
+Akersgata,Hammersborg Torg,130
+Sagene bussholdeplass,Torggata,130
+7. juni-plassen,Kirkeristen,130
+Ila,Ila,130
+Kirkeristen,Parkveien,130
+Tjuvholmen,Annette Thommessens Plass,130
+VÃ¥r Frelsers gravlund,Schous plass,130
+Dyvekes bru,Vaterlandsparken,130
+Rostockgata,Linaaes gate,130
+Stensparken,Colosseum Kino,130
+Linaaes gate,Mandalls gate,130
+Sukkerbiten,Jakob kirke,130
+Bankplassen,Lille Grensen,130
+Georg Morgenstiernes hus,BjÃ¸lsen Studentby,130
+Linaaes gate,Munkegata,130
+VÃ¥r Frelsers gravlund,TÃ¸yenbekken,130
+Ringnes Park,PalÃ©haven,130
+Alexander Kiellands Plass,Aker Brygge 1 mot Nasjonalmuseet,130
+Helga Helgesens plass,VÃ¥r Frelsers gravlund,130
+VÃ¥r Frelsers gravlund,Aker Brygge 1 mot Nasjonalmuseet,130
+Gunerius,Alexander Kiellands Plass,130
+Schous plass,St. Olavs gate,130
+Edvard Storms gate,Lille Grensen,130
+Gunerius,Mandalls gate,130
+Huk 1,SkÃ¸yen,130
+Hedmarksgata,Hedmarksgata,130
+SotahjÃ¸rnet,SjÃ¸siden ved trappen,130
+Jordalgata,Sukkerbiten,130
+Stensparken,Majorstua skole,130
+Aker Brygge,Alexander Kiellands Plass,130
+Henrik Ibsens gate,Frogner plass,130
+TÃ¸yenbekken,Nordre gate,130
+Maritimt Museum,Frogner plass,130
+AHO,SjÃ¸siden ved trappen,130
+Jakob kirke,Schous plass,130
+Bankplassen,PalÃ©haven,130
+KvÃ¦rnerbyen,Lille Grensen,130
+Sogn Studentby,Domus Athletica,130
+Uelands gate,Kirkeristen,130
+Storo Storsenter,Arkitekt Rivertz Plass,130
+Hedmarksgata,KvÃ¦rnerbyen,130
+Oslo Hospital,Akerselvallmenningen,130
+Nordre gate,Aker Brygge,130
+BjÃ¸lsen Studentby,Bak Niels Treschows hus nord,130
+Sentrum Scene,Aker Brygge,130
+Krebs' gate,Storo Storsenter,130
+Uranienborgveien,Sukkerbiten,130
+Jenny Braatens Plass,DÃ¦lenenggata,130
+Parkveien,Professor Aschehougs plass,129
+Enerhaugen,Sukkerbiten,129
+Schous plass trikkestopp,Gunerius,129
+UllevÃ¥l sykehus,Birkelunden,129
+Birkelunden,Fagerheimgata,129
+Alexander Kiellands Plass,Arkaden Nord,129
+Carl Berners plass sÃ¸r,Kirkeristen,129
+Gunerius,Schous plass trikkestopp,129
+Stjerneplassen,Botanisk Hage sÃ¸r,129
+Professor Aschehougs plass,Akerselvallmenningen,129
+Hydroparken,Filipstadveien,129
+St. Olavs gate,Sentrum Scene,129
+Uranienborgparken,Karenslyst allÃ©,129
+Schous plass trikkestopp,Fred Olsens gate,129
+Fredensborg,Marcus Thranes gate,129
+TÃ¸yen skole,Carl Berners plass nord,129
+Bjerregaards gate,BjÃ¸rvika,129
+SÃ¸ndre gate,Jakob kirke,129
+Olaf Ryes plass,Schous plass,129
+Fredensborg,Bislett Stadion,129
+Akersgata,VÃ¥r Frelsers gravlund,129
+Jens Bjelkes Gate,Ringnes Park,129
+Munkegata,RÃ¥dhusgata,129
+Schous plass trikkestopp,Botanisk hage sÃ¸r-vest,129
+Sukkerbiten,Skippergata,129
+KvÃ¦rnerbyen,RÃ¥dhusgata,129
+Lille Grensen,St. Olavs gate,129
+Uranienborgveien,Skillebekk,129
+Carl Berners plass sÃ¸r,Trondheimsveien,129
+Sagene bussholdeplass,Stavangergata,129
+Lille Grensen,Sofienbergparken nord,129
+Majorstuen,Ringnes Park,129
+SkÃ¸yen,Frognerstranda,129
+Marcus Thranes gate,Aker Brygge,129
+Frognerveien,Saga Kino,129
+Chr. Michelsens Gate,DÃ¦lenenggata,129
+Universitetsgata,Spikersuppa Vest,129
+Lille Grensen,KvÃ¦rnerbyen,129
+Bislettgata,Oslo Handelsgymnasium,129
+KvÃ¦rnerbyen,Vaterlandsparken,129
+Jernbanetorget,Tjuvholmen,129
+Schous plass,Edvard Storms gate,129
+Oslo Handelsgymnasium,Saga Kino,129
+EnsjÃ¸ T-bane,TÃ¸yen skole,129
+Stensparken,7. juni-plassen,129
+SÃ¸ndre gate,Oslo Plaza,129
+Akersgata,Alexander Kiellands Plass,129
+Marcus Thranes gate,SÃ¸ndre gate,129
+BjÃ¸lsendumpa,Sagene bussholdeplass,129
+Bankplassen,Uranienborgveien,129
+Marcus Thranes gate,Sukkerbiten,128
+Schous plass,Stjerneplassen,128
+Spikersuppa Ã˜st,Uranienborgveien,128
+Saga Kino,Sukkerbiten,128
+Majorstuen,Gimle Kino,128
+Schives gate,Karenslyst allÃ©,128
+Sofienbergparken nordvest,VÃ¥r Frelsers gravlund,128
+Sofienbergparken sÃ¸r,Oslo Hospital,128
+GrÃ¸nlands torg,Gunerius,128
+Vaterlandsparken,TÃ¸yen skole,128
+MÃ¸lleparken,Jakob kirke,128
+Bentsebrugata,MÃ¸lleparken,128
+TÃ¸yen skole,Fredensborg,128
+LÃ¸renveien,HallÃ©nparken,128
+Hoffsveien,Thune,128
+Stjerneplassen,AHO,128
+SkÃ¸yen,Hoffsveien,128
+Uelands gate,BjÃ¸rvika,128
+Torggata,Spikersuppa Vest,128
+Adamstuen,VÃ¥r Frelsers gravlund,128
+Fredensborg,Jens Bjelkes Gate,128
+VÃ¥lerenga,Jordalgata,128
+Uelands gate,Hammersborg Torg,128
+SÃ¸ndre gate,Spikersuppa Ã˜st,128
+Bogstadveien,Stensgata,128
+Stavangergata,Marienlystparken,128
+UllevÃ¥l sykehus,Bjerregaards gate,128
+Helga Helgesens plass,Elgsletta,128
+Skillebekk,Spikersuppa Ã˜st,128
+Sofienbergparken nordvest,AHO,128
+LÃ¸renveien,Olaf Ryes plass,128
+Bogstadveien,Holbergs plass,128
+BjÃ¸rvika,The Hub,128
+Uranienborgveien,Professor Aschehougs plass,128
+Vippetangen Ã¸st,Vippetangen Ã¸st,128
+SjÃ¸siden 1 ved trappen,Dokkveien,128
+Dokkveien,VÃ¥r Frelsers gravlund,128
+Marienlystparken,Majorstuen T-bane,128
+Aker Brygge 2 mot RÃ¥dhusplassen,Kirkeristen,128
+BjÃ¸lsendumpa,Kirkeristen,128
+Jenny Braatens Plass,Alexander Kiellands Plass,128
+St. Hanshaugen park vest,Saga Kino,128
+Henrik Wergelands allÃ©,Kirkeristen,128
+AHO,St. Olavs gate,128
+Vulkan,Jakob kirke,128
+Sofienbergparken nordvest,SjÃ¸siden 1 ved trappen,128
+Schous plass trikkestopp,Bankplassen,128
+Ila,Alexander Kiellands Plass,128
+Fyrstikktorget,Tiedemannsparken,128
+Bislettgata,Torggata,128
+Fyrstikktorget,Helga Helgesens plass,128
+Jens Bjelkes Gate,SjÃ¸siden 1 ved trappen,128
+Finnmarksgata,Sommerfrydhagen,128
+Botanisk Hage sÃ¸r,Mandalls gate,128
+Idioten,Idioten,128
+TÃ¸yen skole,Brugata,128
+Fram-gÃ¥rden,Aker Brygge,128
+Oscars gate,Sukkerbiten,128
+John Colletts plass,AHO,128
+Valkyrieplassen,Uranienborgveien,127
+Sukkerbiten,Over RÃ¥dhusgata,127
+BI Nydalen,Torggata,127
+St. Olavs gate,AHO,127
+Bislettgata,Marienlyst,127
+Hans Nielsen Hauges plass,Arendalsgata,127
+GrÃ¼nerhagen Nord,Sukkerbiten,127
+Filipstadveien,Dokkveien,127
+Saga Kino,Kirkeristen,127
+Torggata,MÃ¸lleparken,127
+Marcus Thranes gate,MÃ¸lleparken,127
+Jens Bjelkes Gate,Slottsparken Ã˜st,127
+Ulven Torg,Hasle Torg,127
+Ringnes Park,Aker Brygge 1 mot Nasjonalmuseet,127
+St. Hanshaugen park vest,Marcus Thranes gate,127
+Marcus Thranes gate,Jernbanetorget,127
+Sofienbergparken sÃ¸r,MÃ¸lleparken,127
+Munkedamsveien,Filipstadveien,127
+VÃ¥r Frelsers gravlund,Stensparken,127
+Jess Carlsens gate,Akersgata,127
+Sukkerbiten,Hammersborg Torg,127
+Vaterlandsparken,Jess Carlsens gate,127
+Vaterlandsparken,AHO,127
+Botanisk Hage vest,BjÃ¸rvika,127
+Fred Olsens gate,Olaf Ryes plass,127
+Anker Hotel,Torggata,127
+TÃ¸yenbekken,Schous plass,127
+Helga Helgesens plass,Hammersborg Torg,127
+MyralÃ¸kka Ã˜st,MyralÃ¸kka Ã˜st,127
+Marcus Thranes gate,TÃ¸yenbekken,127
+Bogstadveien,VÃ¥r Frelsers gravlund,127
+PalÃ©haven,BjÃ¸rvika,127
+Majorstuveien,SkÃ¸yen,127
+Landstads gate,Spikersuppa Vest,127
+Kirkegata 15,Dokkveien,127
+BjÃ¸rvika,Hesselbergs Gate,127
+Bjerregaards gate,Jernbanetorget,127
+Majorstua skole,Bislett Stadion,127
+Hammersborg Torg,Aker Brygge 1 mot Nasjonalmuseet,127
+Bentsebrugata,Oscars gate,127
+Marcus Thranes gate,The Hub,127
+GrÃ¸nlands torg,Akerselvallmenningen,127
+St. Olavs gate,Schous plass,127
+Annette Thommessens Plass,GrÃ¸nlands torg,127
+Sognsveien,Stensgata,127
+Birkelunden,Fredensborg,127
+BI Nydalen,Arendalsgata,127
+Alexander Kiellands Plass,Bogstadveien,127
+Professor Aschehougs plass,Vaterlandsparken,127
+Hesselbergs Gate,Jernbanetorget,126
+Aker Brygge 2 mot RÃ¥dhusplassen,Olaf Ryes plass,126
+Hydroparken,Kirkeristen,126
+Sofienbergparken nordvest,SkrÃ¥ninga,126
+AHO,Oslo Plaza,126
+ColbjÃ¸rnsens gate,Slottsparken Ã˜st,126
+Sommerfrydhagen,Ringnes Park,126
+Elisenberg,Hoffsveien,126
+Sofienbergparken nordvest,GrÃ¸nlands torg,126
+Thune,Huk 2,126
+Aker Brygge,Vulkan,126
+SÃ¸ndre gate,Spikersuppa Vest,126
+Thune,Hoffsveien,126
+Kirkeristen,Sommerfrydhagen,126
+Dokkveien,Lille Grensen,126
+Storo Storsenter,Torshovdalen Ã¸st,126
+Fysikkbygningen,VÃ¥r Frelsers gravlund,126
+Frognerstranda,Langkaia,126
+Rostockgata,The Hub,126
+Jens Bjelkes Gate,Akersgata,126
+Lille Grensen,Dokkveien,126
+Olaf Ryes plass,MÃ¸lleparken,126
+Henrik Wergelands allÃ©,Frogner plass,126
+Olaf Ryes plass,Gunerius,126
+Dyvekes bru,Trelastgata,126
+KÃ¸benhavngata busstopp,MÃ¸lleparken,126
+Munkegata,Botanisk hage sÃ¸r-vest,126
+Hausmanns bru,Torggata,126
+Enerhaugen,Olaf Ryes plass,126
+UllevÃ¥lsveien,Henrik Ibsens gate,126
+Fredensborg,Sukkerbiten,126
+Ringnes Park,Over RÃ¥dhusgata,126
+Spikersuppa Ã˜st,Helga Helgesens plass,126
+Bislettgata,Stensparken,126
+Akerselvallmenningen,Alexander Kiellands Plass,125
+Sommerfrydhagen,Botanisk hage sÃ¸r-vest,125
+Schous plass,Hausmanns bru,125
+Filipstadveien,Tjuvholmen,125
+SjÃ¸lyst,Frognerstranda,125
+AHO,VÃ¥r Frelsers gravlund,125
+Vippetangen Ã¸st,SjÃ¸siden 2 ved fontenen,125
+Bankplassen,Rostockgata,125
+Kirkeristen,Professor Aschehougs plass,125
+Uelands gate,Uelands gate,125
+St. Olavs gate,Studentparlamentet,125
+Sommerfrydhagen,Schous plass trikkestopp,125
+Fram-gÃ¥rden,Professor Aschehougs plass,125
+OsloMet,Lille Grensen,125
+Aker Brygge 2 mot RÃ¥dhusplassen,Akerselvallmenningen,125
+Filipstadveien,SkÃ¸yen,125
+Schous plass trikkestopp,Sommerfrydhagen,125
+Rostockgata,Adamstuen,125
+KrohgstÃ¸tten hospital,Munkegata,125
+Linaaes gate,Fredensborg,125
+TÃ¥sen Senter,Sognsveien,125
+Hallings gate,Studenterlunden,125
+Bankplassen,Jernbanetorget,125
+Olaf Ryes plass,Aker Brygge 2 mot RÃ¥dhusplassen,125
+Stjerneplassen,GrÃ¸nlands torg,125
+Torggata,Carl Berners plass sÃ¸r,125
+Torshovparken vest,Bankplassen,125
+Alexander Kiellands Plass,Sommerfrydhagen,125
+Sofienbergparken nordvest,Lille Grensen,125
+Hans Nielsen Hauges plass,MyralÃ¸kka Ã˜st,125
+MÃ¸lleparken,Bankplassen,125
+Edvard Storms gate,BjÃ¸rvika,125
+Annette Thommessens Plass,Lakkegata,125
+Majorstuen,Schives gate,125
+Studenterlunden,Oscars gate,125
+Jens Bjelkes Gate,Alexander Kiellands Plass,125
+St. Olavs gate,Birkelunden,125
+Sofienbergparken nordvest,Rostockgata,125
+Frogner plass,Skillebekk,125
+Fredensborg,Lille Grensen,125
+Linaaes gate,St. Olavs gate,125
+Akersgata,SjÃ¸siden ved trappen,125
+KÃ¸benhavngata busstopp,KÃ¸benhavngata busstopp,125
+Fysikkbygningen,Henrik Wergelands allÃ©,125
+AHO,Sofienbergparken nord,125
+Hammersborg Torg,Birkelunden,125
+Helga Helgesens plass,Over RÃ¥dhusgata,125
+Tjuvholmen,Edvard Storms gate,125
+Mandalls gate,Aker Brygge,125
+Frogner plass,Frognerveien,125
+Skovveien,Vestkanttorvet,125
+Landstads gate,St. Olavs gate,125
+Landstads gate,Schous plass trikkestopp,124
+VÃ¥r Frelsers gravlund,SjÃ¸siden 1 ved trappen,124
+Akersgata,Jess Carlsens gate,124
+Galgeberg,Oslo Plaza,124
+BI Nydalen,Bentsebrugata,124
+KontraskjÃ¦ret,BjÃ¸rvika,124
+7. juni-plassen,Studentparlamentet,124
+Sentrum Scene,Birkelunden,124
+Schous plass,Arkaden SÃ¸r,124
+Sofienbergparken sÃ¸r,Sommerfrydhagen,124
+Jens Bjelkes Gate,SkrÃ¥ninga,124
+Vulkan,Henrik Ibsens gate,124
+Trondheimsveien,Ringnes Park,124
+Carl Berners plass sÃ¸r,Galgeberg,124
+Bjerregaards gate,Hallings gate,124
+Bogstadveien,Hallings gate,124
+Bislett Stadion,Fredensborg,124
+Bislett Stadion,Karenslyst allÃ©,124
+Bjerregaards gate,Kirkeristen,124
+Pilestredet 63,Jernbanetorget,124
+Krebs' gate,Birkelunden,124
+Stjerneplassen,Munkegata,124
+Jess Carlsens gate,Mandalls gate,124
+Jordalgata,TÃ¸yenbekken,124
+Trelastgata,Galgeberg,124
+Hesselbergs Gate,Olaf Ryes plass,124
+Lakkegata,Aker Brygge,124
+GrÃ¼nerhagen Nord,Vippetangen vest,124
+Stensparken,Saga Kino,124
+Kirkeristen,Sofienbergparken sÃ¸r,124
+Gimle Kino,Majorstuen,124
+Frogner Stadion,Huitfeldts gate,124
+Jakob kirke,Oslo Plaza,124
+Bjerregaardsgate Ã˜st,Vulkan,124
+Birkelunden,Rostockgata,124
+Bislett Stadion,Sofienbergparken nordvest,124
+Majorstua skole,Marcus Thranes gate,124
+SkÃ¸yen Stasjon,SkÃ¸yen Stasjon,124
+Arendalsgata,Arendalsgata,124
+Sukkerbiten,Dokkveien,124
+Sofienberggata,Sukkerbiten,124
+SjÃ¸lyst,Frognerbadet,123
+Torggata,Hesselbergs Gate,123
+Sommerfrydhagen,Gunerius,123
+Torshovparken vest,Kirkeristen,123
+Fyrstikktorget,TÃ¸yen skole,123
+Birkelunden,Akersgata,123
+Schives gate,Tjuvholmen,123
+Schous plass trikkestopp,Sofienbergparken nord,123
+Bjerregaardsgate Ã˜st,Jess Carlsens gate,123
+Bislett Stadion,Henrik Wergelands allÃ©,123
+Studenterlunden,Jens Bjelkes Gate,123
+Helga Helgesens plass,Lille Schous plass,123
+Anker Hotel,Fred Olsens gate,123
+Ringnes Park,Fred Olsens gate,123
+Uranienborgparken,Skovveien,123
+Hesselbergs Gate,Alexander Kiellands Plass,123
+Torshovparken vest,Jakob kirke,123
+Lilleborgbanen,Schous plass,123
+SjÃ¸siden 1 ved trappen,Vulkan,123
+St. Hanshaugen park vest,Stensparken,123
+The Hub,Landstads gate,123
+Aker Brygge,Spikersuppa Vest,123
+Bentsebrugata,Arkitekt Rivertz Plass,123
+Bislett Stadion,Meltzers gate,123
+Sofienberggata,AHO,123
+Karenslyst allÃ©,Aker Brygge,123
+Schous plass,Sofienbergparken nordvest,123
+Sognsveien,Bentsebrugata,123
+VÃ¥r Frelsers gravlund,Vippetangen vest,123
+Arendalsgata,Alexander Kiellands Plass,123
+Bjerregaards gate,Vulkan,123
+Sukkerbiten,Spikersuppa Vest,123
+St. Olavs gate,Vippetangen vest,123
+Carl Berners plass sÃ¸r,HallÃ©nparken,123
+Jens Bjelkes Gate,St. Olavs gate,123
+Lilleborgbanen,Birkelunden,123
+Tjuvholmen,Frognerveien,123
+Botanisk Hage sÃ¸r,Hesselbergs Gate,123
+7. juni-plassen,Skovveien,123
+Nordre gate,The Hub,123
+Fred Olsens gate,SÃ¸ndre gate,123
+Sirkustomta,Olaf Ryes plass,123
+Schous plass trikkestopp,Sofienberggata,123
+Holbergs plass,Bjerregaards gate,123
+Lakkegata,Hydroparken,123
+Carl Berners plass nord,Trondheimsveien,123
+Bentsebrugata,Bislett Stadion,123
+Jens Bjelkes Gate,Bankplassen,123
+Professor Aschehougs plass,The Hub,123
+Olaf Ryes plass,Vippetangen vest,123
+Pilestredet Studenthus,Saga Kino,123
+Galgeberg,The Hub,123
+Sukkerbiten,Vaterlandsparken,123
+Arkaden Nord,Arkaden Nord,122
+Majorstua skole,Skillebekk,122
+Lakkegata,Bislettgata,122
+BjÃ¸rvika,Riddervoldplass,122
+Birkelunden,Enerhaugen,122
+GrÃ¸nlands torg,Schous plass trikkestopp,122
+Torggata,Slottsparken Ã˜st,122
+Bislettgata,Spikersuppa Ã˜st,122
+Henrik Ibsens gate,Stortingstunellen,122
+Kirkeristen,OsloMet,122
+Fredensborg,Bankplassen,122
+GrÃ¸nlands torg,Schous plass,122
+GrÃ¸nlands torg,Professor Aschehougs plass,122
+Bak Niels Treschows hus nord,Ringnes Park,122
+Oslo Hospital,Elgsletta,122
+Kirkeristen,Dyvekes bru,122
+Skovveien,Skillebekk,122
+Frognerstranda,Sukkerbiten,122
+Jakob kirke,Sentrum Scene,122
+GrÃ¸nlands torg,Bankplassen,122
+The Hub,Enerhaugen,122
+Over RÃ¥dhusgata,Sukkerbiten,122
+Alexander Kiellands Plass,TÃ¸yenparken,122
+Torggata,Bentsebrugata,122
+Bogstadveien,Studenterlunden,122
+BjÃ¸rvika,RuselÃ¸kkgÃ¥rden,122
+Brugata,Botanisk Hage sÃ¸r,122
+Frogner plass,Drammensveien,122
+Botanisk Hage vest,TÃ¸yenbekken,122
+Akerselvallmenningen,Bankplassen,122
+Spikersuppa Ã˜st,Olaf Ryes plass,122
+Vulkan,AHO,122
+Elisenberg,7. juni-plassen,122
+Sukkerbiten,Hausmanns bru,122
+Henrik Ibsens gate,Vulkan,122
+MÃ¸lleparken,Vulkan,122
+SjÃ¸siden 2 ved fontenen,Vippetangen vest,122
+Lindern,Majorstuen,122
+Bislett Stadion,Frogner plass,122
+Sofienbergparken nordvest,MÃ¸lleparken,122
+Nordre gate,Torggata,122
+Bankplassen,Akerselvallmenningen,122
+Gimle Kino,Henrik Wergelands allÃ©,122
+Bogstadveien,Valkyrieplassen,122
+Majorstuen,Hoffsveien,122
+Akerselvallmenningen,Fred Olsens gate,122
+Idioten,VÃ¥r Frelsers gravlund,122
+BjÃ¸rvika,Aker Brygge 1 mot Nasjonalmuseet,122
+Oscars gate,Filipstadveien,122
+Rostockgata,Aker Brygge 2 mot RÃ¥dhusplassen,122
+Sofienbergparken nord,Klingenberggata,122
+Bjerregaards gate,Jens Bjelkes Gate,122
+Stavangergata,Badebakken,121
+Hausmanns bru,Jakob kirke,121
+Jens Bjelkes Gate,Vulkan,121
+Aker Brygge 2 mot RÃ¥dhusplassen,SjÃ¸siden 2 ved fontenen,121
+Frogner plass,Bogstadveien,121
+Lille Grensen,Nordre gate,121
+UllevÃ¥l sykehus,Bogstadveien,121
+Sommerfrydhagen,Rostockgata,121
+Majorstuen,Uranienborgparken,121
+Holbergs plass,Tjuvholmen,121
+Lodalen busstopp,SjÃ¸siden 1 ved trappen,121
+Schous plass trikkestopp,Munkegata,121
+Chr. Michelsens Gate,Fredensborg,121
+Kirkeveien,Henrik Wergelands allÃ©,121
+Landstads gate,BjÃ¸rvika,121
+Badebakken,Storo Storsenter,121
+Jernbanetorget,Hesselbergs Gate,121
+Finnmarksgata,TÃ¸yenparken,121
+Munkegata,Gunerius,121
+Botanisk Hage sÃ¸r,Bankplassen,121
+Jernbanetorget,Fagerheimgata,121
+Lille Grensen,Lakkegata,121
+Saga Kino,Aker Brygge 1,121
+Aker Brygge,Spikersuppa Ã˜st,121
+Uelands gate,Fredensborg,121
+Arkitekt Rivertz Plass,Fredensborg,121
+Botanisk Hage sÃ¸r,Hausmanns gate,121
+7. juni-plassen,Gimle Kino,121
+PalÃ©haven,Lodalen busstopp,121
+Via Vika,Majorstuveien,121
+MÃ¸lleparken,The Hub,121
+BjÃ¸rvika,Jess Carlsens gate,121
+Dokkveien,Spikersuppa Ã˜st,121
+HallÃ©nparken,Alexander Kiellands Plass,121
+BI Nydalen,TÃ¸yen skole,121
+Spikersuppa Vest,Dyvekes bru,121
+Birkelunden,Professor Aschehougs plass,121
+Jens Bjelkes Gate,Munkedamsveien,121
+Bislettgata,Frognerbadet,121
+Olav Kyrres plass,BygdÃ¸y allÃ©,121
+Slottsparken Ã˜st,Frognerbadet,121
+Henrik Ibsens gate,Rostockgata,121
+Tjuvholmen,Bankplassen,121
+Fagerheimgata,Stjerneplassen,121
+Lilleborgbanen,Chr. Michelsens Gate,121
+Tjuvholmen,7. juni-plassen,121
+Pilestredet Studenthus,Kirkeristen,121
+Spikersuppa Vest,Kirkeristen,121
+Jens Bjelkes Gate,Carl Berners plass sÃ¸r,121
+Fagerheimgata,Carl Berners plass sÃ¸r,121
+Torggata,Carl Berners plass nord,121
+Fysikkbygningen,BjÃ¸lsen Studentby,121
+Valkyrieplassen,Valkyrieplassen,121
+Kampen park Ã˜st,Olaf Ryes plass,121
+Ringnes Park,Nordre gate,120
+Tjuvholmen,Vestkanttorvet,120
+Frogner plass,Briskeby,120
+The Hub,Fagerheimgata,120
+Alexander Kiellands Plass,SkrÃ¥ninga,120
+Fyrstikktorget,Sofienbergparken nord,120
+Bislettgata,PalÃ©haven,120
+Over RÃ¥dhusgata,Oslo Handelsgymnasium,120
+Lilleborgbanen,Jenny Braatens Plass,120
+TÃ¸yen skole,Jordalgata,120
+Hasle,Jens Bjelkes Gate,120
+Thomas Heftyes plass,Skovveien,120
+Frogner plass,Henrik Wergelands allÃ©,120
+Uelands gate,SjÃ¸siden ved trappen,120
+Jakob kirke,Marcus Thranes gate,120
+Ringnes Park,Munkegata,120
+Fagerheimgata,SkrÃ¥ninga,120
+Saga Kino,Schous plass,120
+Karenslyst allÃ©,Bogstadveien,120
+Over RÃ¥dhusgata,Torggata,120
+Sofienberggata,Anker Hotel,120
+Bjerregaards gate,TÃ¸yen skole,120
+Vaterlandsparken,Torggata,120
+VÃ¥r Frelsers gravlund,Vulkan,120
+Bogstadveien,Universitetsgata,120
+Botanisk Hage sÃ¸r,SÃ¸ndre gate,120
+Helga Helgesens plass,Salt,120
+Kirkegata 15,Olaf Ryes plass,120
+Kjeld Stubs gate,Botanisk Hage sÃ¸r,120
+RÃ¥dhusgata,SjÃ¸siden 1 ved trappen,120
+Elisenberg,Majorstuveien,120
+Oslo Hospital,Mandalls gate,120
+Ringnes Park,St. Hanshaugen,120
+Professor Aschehougs plass,Fram-gÃ¥rden,120
+BjÃ¸rvika,Aker Brygge 2 mot RÃ¥dhusplassen,120
+TÃ¸yenbekken,Sukkerbiten,120
+Olaf Ryes plass,Filipstadveien,120
+Majorstua skole,St. Olavs gate,120
+Marcus Thranes gate,Spikersuppa Ã˜st,120
+Klingenberggata,Alexander Kiellands Plass,120
+Tjuvholmen,Bogstadveien,120
+OsloMet,Filipstadveien,120
+Botanisk Hage vest,Torggata,120
+Munkegata,Botanisk Hage sÃ¸r,120
+Stavangergata,Pilestredet 63,120
+Skarpsnoparken,Filipstadveien,120
+St. Hanshaugen,Ringnes Park,120
+Bentsebrugata,BjÃ¸lsen Studentby,120
+Forskningsveien,Blindern studentparkering,120
+Torshovparken vest,Helga Helgesens plass,120
+Birkelunden,Ringnes Park,120
+Schous plass,Fred Olsens gate,120
+Professor Aschehougs plass,Vippetangen vest,120
+Sofienbergparken sÃ¸r,GrÃ¼nerhagen Nord,120
+Landstads gate,Birkelunden,119
+Vulkan,Aker Brygge 1 mot Nasjonalmuseet,119
+Tjuvholmen,Elisenberg,119
+Spikersuppa Vest,Oslo Hospital,119
+AHO,Jens Bjelkes Gate,119
+Ringnes Park,SkrÃ¥ninga,119
+Fysikkbygningen,Friggfeltet,119
+Rostockgata,Slottsparken Ã˜st,119
+Schives gate,Thune,119
+Jenny Braatens Plass,Kirkeristen,119
+Lille Grensen,GrÃ¸nlands torg,119
+DÃ¦lenenggata,Oslo Plaza,119
+TÃ¸yen skole,Trelastgata,119
+Hammersborg Torg,Over RÃ¥dhusgata,119
+Aker Brygge 3 mot Fergene,Rostockgata,119
+Oslo Plaza,Enerhaugen,119
+Lilleborgbanen,MÃ¸lleparken,119
+Trelastgata,Trelastgata,119
+Olaf Ryes plass,AHO,119
+Bislett Stadion,Studenterlunden,119
+Hammersborg Torg,Jens Bjelkes Gate,119
+Linaaes gate,VÃ¥r Frelsers gravlund,119
+Bislett Stadion,RÃ¥dhusgata,119
+Hausmanns bru,Sentrum Scene,119
+Bjerregaards gate,Jess Carlsens gate,119
+Bislettgata,Jess Carlsens gate,119
+Sofienbergparken sÃ¸r,Valkyrieplassen,119
+Jakob kirke,PalÃ©haven,119
+Schous plass,Skippergata,119
+Pilestredet 63,Professor Aschehougs plass,119
+Fysikkbygningen,Majorstuen T-bane,119
+Fagerheimgata,Lille Grensen,119
+Fredensborg,Spikersuppa Ã˜st,119
+Majorstuen,FrÃ¸en T-bane,119
+Blindern Studenthus,Marcus Thranes gate,119
+Hammersborg Torg,VÃ¥r Frelsers gravlund,119
+Annette Thommessens Plass,Langkaia,119
+Alexander Kiellands Plass,Henrik Ibsens gate,119
+Bislett Stadion,PalÃ©haven,119
+Drammensveien,SkÃ¸yen Stasjon,119
+Hans Nielsen Hauges plass,Marcus Thranes gate,119
+Kirkegata 15,Kirkeristen,119
+Gunerius,TÃ¸yenbekken,119
+Chr. Michelsens Gate,Chr. Michelsens Gate,119
+Schous plass trikkestopp,Rostockgata,119
+Birkelunden,Lille Schous plass,119
+Akerselvallmenningen,SjÃ¸siden 1 ved trappen,119
+Akerselvallmenningen,Helga Helgesens plass,119
+St. Olavs gate,Oscars gate,119
+Universitetsgata,Kirkeristen,119
+Dokkveien,SÃ¸ndre gate,119
+Linaaes gate,Marcus Thranes gate,119
+Torggata,RÃ¥dhusgata,119
+Professor Aschehougs plass,SjÃ¸siden ved trappen,119
+Majorstua skole,Oslo Handelsgymnasium,119
+Lindern,Arkitekt Rivertz Plass,119
+Jens Bjelkes Gate,Arkaden Nord,119
+Thomas Heftyes plass,Aker Brygge,119
+Stjerneplassen,Aker Brygge,119
+Tiedemannsparken,Fyrstikktorget,119
+Hesselbergs Gate,Spikersuppa Ã˜st,119
+Fagerheimgata,Fred Olsens gate,119
+Stavangergata,Bislettgata,119
+St. Olavs gate,Fredensborg,119
+Lille Grensen,Birkelunden,118
+Pilestredet 63,Sukkerbiten,118
+Sukkerbiten,Dyvekes bru,118
+Jakob kirke,Schous plass trikkestopp,118
+Aker Brygge,Bjerregaards gate,118
+Majorstuen,Filipstadveien,118
+Kirkeristen,Spikersuppa Ã˜st,118
+Professor Aschehougs plass,AHO,118
+Olaf Ryes plass,Aker Brygge 3 mot Fergene,118
+The Hub,Hammersborg Torg,118
+Aker Brygge,Dyvekes bru,118
+Kirkeristen,Lille Schous plass,118
+PalÃ©haven,Tjuvholmen,118
+Ringnes Park,Enerhaugen,118
+Alexander Kiellands Plass,Uranienborgveien,118
+Fyrstikktorget,Dyvekes bru,118
+Sofienbergparken nordvest,Ringnes Park,118
+DÃ¦lenenggata,Carl Berners plass nord,118
+Botanisk Hage sÃ¸r,Vulkan,118
+Akerselvallmenningen,Karenslyst allÃ©,118
+Sukkerbiten,VÃ¥r Frelsers gravlund,118
+Helga Helgesens plass,Saga Kino,118
+Ringnes Park,Pilestredet 63,118
+Colletts gate,Stensparken,118
+VÃ¥lerenga,TÃ¸yen skole,118
+Marcus Thranes gate,Bjerregaardsgate Ã˜st,118
+Hesselbergs Gate,Sofienbergparken sÃ¸r,118
+Professor Aschehougs plass,Rostockgata,118
+Tjuvholmen,Olav Kyrres plass,118
+Alexander Kiellands Plass,Holbergs plass,118
+MÃ¸lleparken,Landstads gate,118
+Slottsparken Ã˜st,Spikersuppa Vest,118
+Arkaden Nord,Sukkerbiten,118
+Jakob kirke,Aker Brygge 1 mot Nasjonalmuseet,118
+St. Olavs gate,Schous plass trikkestopp,118
+Jakob kirke,Akerselvallmenningen,118
+Arendalsgata,Birkelunden,118
+Aker Brygge 3 mot Fergene,St. Olavs gate,118
+Bak Niels Treschows hus sÃ¸r,Bak Niels Treschows hus sÃ¸r,118
+Elgsletta,Jakob kirke,118
+Bislett Stadion,Colosseum Kino,118
+AHO,Rostockgata,118
+Lille Grensen,Uranienborgveien,118
+Carl Berners plass nord,Birkelunden,118
+Landstads gate,MÃ¸lleparken,118
+Bislett Stadion,Elisenberg,118
+Skillebekk,Volvat,118
+Brynseng T-bane,VÃ¥lerenga,118
+Helga Helgesens plass,Slottsparken Ã˜st,118
+Spikersuppa Ã˜st,Briskeby,118
+MyralÃ¸kka Ã˜st,Marcus Thranes gate,118
+Sentrum Scene,Marcus Thranes gate,118
+MÃ¸lleparken,Ringnes Park,118
+Linaaes gate,Fagerheimgata,118
+Kirkeristen,The Hub,118
+Bislettgata,Over RÃ¥dhusgata,118
+Professor Aschehougs plass,Jakob kirke,118
+Carl Berners plass sÃ¸r,Marcus Thranes gate,118
+Brynseng T-bane,Galgeberg,118
+Holbergs plass,Filipstadveien,118
+Brynseng T-bane,KvÃ¦rnerbyen,118
+Oscars gate,Slottsparken Ã˜st,118
+Rostockgata,Vaterlandsparken,118
+Dyvekes bru,Oslo Hospital,117
+Botanisk hage sÃ¸r-vest,Sukkerbiten,117
+Kirkeristen,SjÃ¸siden ved trappen,117
+Annette Thommessens Plass,KvÃ¦rnerbyen,117
+VÃ¥r Frelsers gravlund,Vaterlandsparken,117
+Trondheimsveien,Anker Hotel,117
+Oslo Hospital,Spikersuppa Ã˜st,117
+Vaterlandsparken,Sofienbergparken nord,117
+SÃ¸ndre gate,MÃ¸lleparken,117
+Arkitekt Rivertz Plass,Bjerregaards gate,117
+TÃ¥sen Senter,BI Nydalen,117
+Jernbanetorget,St. Olavs gate,117
+AHO,Lakkegata,117
+Slottsparken Ã˜st,Huitfeldts gate,117
+Ulven Torg,TÃ¸yen skole,117
+Helga Helgesens plass,Akersgata,117
+Fred Olsens gate,BjÃ¸rvika,117
+UllevÃ¥l sykehus,Georg Morgenstiernes hus,117
+Skovveien,Briskeby,117
+EnsjÃ¸ T-bane,Munkegata,117
+Rolf WickstrÃ¸ms vei,BjÃ¸lsen Studentby,117
+Bentsebrugata,Jess Carlsens gate,117
+Akerselvallmenningen,Dokkveien,117
+Lilleborgbanen,Alexander Kiellands Plass,117
+Chr. Michelsens Gate,Griffenfeldts gate,117
+Ila,Linaaes gate,117
+Professor Aschehougs plass,Vestkanttorvet,117
+Torshovdalen Ã¸st,Torshovdalen Ã¸st,117
+Alexander Kiellands Plass,Saga Kino,117
+RÃ¥dhusgata,Aker Brygge,117
+Kirkegata 15,Vippetangen vest,117
+Vippetangen vest,Over RÃ¥dhusgata,117
+Bislettgata,Birkelunden,117
+Bislettgata,Sukkerbiten,117
+7. juni-plassen,Huitfeldts gate,117
+Lille Grensen,Lille Schous plass,117
+Gunerius,Sofienbergparken nord,117
+Vippetangen vest,RÃ¥dhusgata,117
+Bislett Stadion,Rostockgata,117
+Henrik Wergelands allÃ©,Holbergs plass,117
+Dyvekes bru,Aker Brygge,117
+Tjuvholmen,Maritimt Museum,117
+Thomas Heftyes plass,Majorstua skole,117
+Akersgata,Sukkerbiten,117
+Hydroparken,Frognerbadet,117
+Bjerregaards gate,Schous plass,117
+Galgeberg,Carl Berners plass sÃ¸r,117
+Jenny Braatens Plass,Pilestredet,117
+Sofienbergparken nord,KvÃ¦rnerbyen,117
+AHO,Sofienberggata,117
+Bentsebrugata,Fredensborg,117
+MÃ¸lleparken,Enerhaugen,117
+Landstads gate,Jess Carlsens gate,116
+Trelastgata,TÃ¸yen skole,116
+Bislett Stadion,Bjerregaardsgate Ã˜st,116
+Domus Athletica,Blindern studentparkering,116
+Oslo Handelsgymnasium,Briskeby,116
+Bislett Stadion,Jenny Braatens Plass,116
+Jernbanetorget,Annette Thommessens Plass,116
+Bislett Stadion,Majorstua skole,116
+Bogstadveien,Frogner plass,116
+Ringnes Park,GrÃ¸nlands torg,116
+Uelands gate,TÃ¸yenbekken,116
+Sofienbergparken nordvest,Spikersuppa Ã˜st,116
+Sofienberggata,Gunerius,116
+Carl Berners plass sÃ¸r,Sofienbergparken nord,116
+Brugata,Jess Carlsens gate,116
+Sommerfrydhagen,Saga Kino,116
+Sognsveien,BjÃ¸lsen Studentby,116
+Bislettgata,Helga Helgesens plass,116
+Schous plass,Fagerheimgata,116
+Hallings gate,Hammersborg Torg,116
+Professor Aschehougs plass,GrÃ¸nlands torg,116
+Torggata,SjÃ¸siden ved trappen,116
+Sukkerbiten,Oslo Hospital,116
+GrÃ¸nlands torg,Trelastgata,116
+Galgeberg,Jakob kirke,116
+Bjerregaardsgate Ã˜st,Bjerregaardsgate Ã˜st,116
+Gunerius,Anker Hotel,116
+Bentsebrugata,Sagene bussholdeplass,116
+Fysikkbygningen,SkÃ¸yen,116
+Skovveien,Holbergs plass,116
+Sofienbergparken nordvest,Akerselvallmenningen,116
+Dyvekes bru,Lodalen busstopp,116
+Bislettgata,Huitfeldts gate,116
+Kirkeristen,Holbergs plass,116
+Oslo Plaza,Schous plass trikkestopp,116
+Olaf Ryes plass,Carl Berners plass sÃ¸r,116
+Sukkerbiten,Nordre gate,116
+Bankplassen,Anker Hotel,116
+Bjerregaards gate,TÃ¸yenbekken,116
+Aker Brygge,Fredensborg,116
+EnsjÃ¸ T-bane,Oslo Hospital,116
+Lodalen busstopp,Rostockgata,116
+Lille Grensen,Sentrum Scene,116
+Botanisk Hage vest,Sukkerbiten,116
+Filipstadveien,Hoffsveien,116
+The Hub,St. Olavs gate,116
+Georg Morgenstiernes hus,Ila,116
+Akerselvallmenningen,The Hub,116
+BI Nydalen,Schous plass,116
+Bjerregaards gate,Fagerheimgata,116
+Bankplassen,Lakkegata,116
+Skippergata,Sukkerbiten,116
+Mandalls gate,OsloMet,116
+Holbergs plass,Bislett Stadion,116
+Botanisk Hage vest,Olaf Ryes plass,116
+Lille Grensen,Botanisk Hage sÃ¸r,116
+BI Nydalen,Sofienbergparken nordvest,116
+Linaaes gate,GrÃ¼nerhagen Nord,116
+Jernbanetorget,Professor Aschehougs plass,116
+Brugata,Munkegata,116
+Aker Brygge,Sofienbergparken nordvest,116
+Hans Nielsen Hauges plass,LÃ¸renveien,116
+Alexander Kiellands Plass,Slottsparken Ã˜st,116
+Lilleborgbanen,Hans Nielsen Hauges plass,116
+TÃ¸yenparken,Sofienbergparken nord,116
+Blindern studentparkering,Majorstuen,116
+MÃ¸lleparken,Sentrum Scene,115
+SjÃ¸siden 2 ved fontenen,Aker Brygge 2 mot RÃ¥dhusplassen,115
+SkÃ¸yen,Majorstua skole,115
+Over RÃ¥dhusgata,Oslo Hospital,115
+Elisenberg,Studentparlamentet,115
+Dyvekes bru,Aker Brygge 1 mot Nasjonalmuseet,115
+Via Vika,Via Vika,115
+Lille Grensen,Saga Kino,115
+Akerselvallmenningen,VÃ¥r Frelsers gravlund,115
+KontraskjÃ¦ret,Aker Brygge 1 mot Nasjonalmuseet,115
+Griffenfeldts gate,Torggata,115
+Alexander Kiellands Plass,Enerhaugen,115
+Hallings gate,Aker Brygge,115
+Alexander Kiellands Plass,Rostockgata,115
+Frogner plass,PalÃ©haven,115
+Maritimt Museum,Tjuvholmen,115
+Tjuvholmen,Majorstuen,115
+Vippetangen vest,Hammersborg Torg,115
+Jess Carlsens gate,Gimle Kino,115
+Fredensborg,Sirkustomta,115
+Henrik Ibsens gate,MÃ¸lleparken,115
+GrÃ¸nlands torg,Jakob kirke,115
+Sofienbergparken nord,Nordre gate,115
+Colosseum Kino,Vestkanttorvet,115
+SÃ¸ndre gate,PalÃ©haven,115
+Mandalls gate,Torggata,115
+Olaf Ryes plass,Dokkveien,115
+Fysikkbygningen,UllevÃ¥lsveien,115
+Edvard Storms gate,Oscars gate,115
+Jakob kirke,Stjerneplassen,115
+Majorstua skole,Filipstadveien,115
+Slottsparken Ã˜st,SÃ¸ndre gate,115
+Lilleborgbanen,Storo Storsenter,115
+Jernbanetorget,Bislett Stadion,115
+Hedmarksgata,Helga Helgesens plass,115
+Studenterlunden,Uranienborgveien,115
+Skovveien,Oscars gate,115
+Kirkeristen,Marcus Thranes gate,115
+Oslo Handelsgymnasium,Skarpsnoparken,115
+Uranienborgveien,Frognerveien,115
+UllevÃ¥lsveien,Over RÃ¥dhusgata,115
+Stensgata,Bislettgata,115
+Marcus Thranes gate,OsloMet,115
+Munkegata,Alexander Kiellands Plass,115
+Fram-gÃ¥rden,RuselÃ¸kkgÃ¥rden,115
+Alexander Kiellands Plass,SjÃ¸siden 1 ved trappen,115
+Professor Aschehougs plass,Sentrum Scene,115
+Briskeby,Vestkanttorvet,115
+Parkveien,Ringnes Park,115
+Idioten,Bislettgata,115
+Tjuvholmen,Ringnes Park,115
+Uranienborgparken,Studenterlunden,115
+DÃ¦lenenggata,Schous plass,115
+PalÃ©haven,Olaf Ryes plass,115
+SjÃ¸siden ved trappen,Helga Helgesens plass,115
+MÃ¸lleparken,Lakkegata,115
+Stjerneplassen,Vaterlandsparken,115
+Gimle Kino,Jess Carlsens gate,115
+Slottsparken Ã˜st,Dokkveien,115
+SotahjÃ¸rnet,TÃ¸yen skole,115
+Pilestredet 63,BjÃ¸rvika,115
+Huitfeldts gate,Vaterlandsparken,115
+Lille Grensen,Jernbanetorget,114
+Slottsparken Ã˜st,SjÃ¸siden 1 ved trappen,114
+Fram-gÃ¥rden,Skillebekk,114
+Over RÃ¥dhusgata,Thomas Heftyes plass,114
+MÃ¸lleparken,Birkelunden,114
+Lille Schous plass,Alexander Kiellands Plass,114
+Sofienbergparken nordvest,Arkaden Nord,114
+TÃ¸yen skole,Rostockgata,114
+BjÃ¸rvika,Tjuvholmen,114
+BjÃ¸lsen mÃ¸lle,Krebs' gate,114
+Galgeberg,Aker Brygge,114
+Georg Morgenstiernes hus,Sagene bussholdeplass,114
+Sofienbergparken nordvest,Olaf Ryes plass,114
+Sommerfrydhagen,Trelastgata,114
+Lakkegata,SjÃ¸siden ved trappen,114
+LÃ¸renporten,LÃ¸renporten,114
+Sentrum Scene,Kirkeristen,114
+Linaaes gate,Enerhaugen,114
+MÃ¸lleparken,DÃ¦lenenggata,114
+Filipstadveien,BygdÃ¸y allÃ©,114
+Vestkanttorvet,Huitfeldts gate,114
+Drammensveien,Vestkanttorvet,114
+Jenny Braatens Plass,Birkelunden,114
+Lille Grensen,VÃ¥r Frelsers gravlund,114
+Tjuvholmen,Skarpsnoparken,114
+Rostockgata,GrÃ¸nlands torg,114
+Hausmanns bru,Spikersuppa Ã˜st,114
+VÃ¥r Frelsers gravlund,KontraskjÃ¦ret,114
+Professor Aschehougs plass,SÃ¸ndre gate,114
+KontraskjÃ¦ret,Filipstadveien,114
+Skillebekk,Skarpsnoparken,114
+SkÃ¸yen,Majorstuveien,114
+Jens Bjelkes Gate,GrÃ¼nerhagen Nord,114
+Sukkerbiten,Vippetangen Ã¸st,114
+Skovveien,RÃ¥dhusgata,114
+Frogner Stadion,Uranienborgveien,114
+Bislett Stadion,Studentparlamentet,114
+Dokkveien,Klingenberggata,114
+OsloMet,Fred Olsens gate,114
+Edvard Storms gate,Alexander Kiellands Plass,114
+Kampen park Ã˜st,TÃ¸yen skole,114
+Meltzers gate,Bislett Stadion,114
+Alexander Kiellands Plass,Akerselvallmenningen,114
+Bankplassen,Arkaden Nord,114
+Lindern,Ila,114
+Alexander Kiellands Plass,Universitetsgata,114
+Briskeby,Henrik Wergelands allÃ©,114
+SjÃ¸siden ved trappen,Alexander Kiellands Plass,114
+Huitfeldts gate,SjÃ¸siden ved trappen,114
+Thomas Heftyes plass,Fredensborg,114
+Jakob kirke,SjÃ¸siden ved trappen,114
+Sofienbergparken nord,Stjerneplassen,114
+Arkitekt Rivertz Plass,Olaf Ryes plass,114
+Jens Bjelkes Gate,RÃ¥dhusgata,114
+Majorstua skole,Tjuvholmen,114
+Sinsen T-bane,Krebs' gate,114
+Hans Nielsen Hauges plass,Helga Helgesens plass,114
+Henrik Wergelands allÃ©,Karenslyst allÃ©,114
+Akerselvallmenningen,Sofienbergparken nordvest,114
+KÃ¸benhavngata busstopp,Birkelunden,114
+Bislettgata,Lakkegata,114
+Majorstuen,Skillebekk,114
+Munkegata,Schous plass trikkestopp,114
+Stensgata,Thereses gate,114
+The Hub,Sentrum Scene,114
+KontraskjÃ¦ret,Aker Brygge 2 mot RÃ¥dhusplassen,114
+Akerselvallmenningen,Lille Grensen,113
+Carl Berners plass nord,Helga Helgesens plass,113
+Huitfeldts gate,Vippetangen vest,113
+Vulkan,GrÃ¸nlands torg,113
+John Colletts plass,Stavangergata,113
+Hedmarksgata,Sofienbergparken nordvest,113
+Holbergs plass,Professor Aschehougs plass,113
+Langkaia,Aker Brygge 2 mot RÃ¥dhusplassen,113
+Aker Brygge,GrÃ¸nlands torg,113
+Brugata,Botanisk hage sÃ¸r-vest,113
+AHO,Marcus Thranes gate,113
+Slottsparken Ã˜st,Akerselvallmenningen,113
+AHO,Arkaden SÃ¸r,113
+Universitetsgata,Vippetangen vest,113
+Sukkerbiten,Dronningens gate,113
+Akerselvallmenningen,TÃ¸yenbekken,113
+SkÃ¸yen,Huitfeldts gate,113
+Olaf Ryes plass,Edvard Storms gate,113
+SjÃ¸siden ved fontenen,Dyvekes bru,113
+St. Olavs gate,Frogner plass,113
+AHO,Schous plass,113
+Aker Brygge 1 mot Nasjonalmuseet,Sukkerbiten,113
+ColbjÃ¸rnsens gate,Saga Kino,113
+VÃ¥r Frelsers gravlund,Nordre gate,113
+Hans Nielsen Hauges plass,Fagerheimgata,113
+Oslo Plaza,Ila,113
+Kirkeristen,Jernbanetorget,113
+Fagerheimgata,SjÃ¸siden 1 ved trappen,113
+Parkveien,Bislett Stadion,113
+Nybrua holdeplass,Sukkerbiten,113
+Stavangergata,Sofienberggata,113
+Huk 1,Karenslyst allÃ©,113
+EnsjÃ¸ T-bane,Jens Bjelkes Gate,113
+Olav Kyrres plass,Thune,113
+Majorstuveien,Majorstua skole,113
+Olaf Ryes plass,KvÃ¦rnerbyen,113
+Sukkerbiten,Elgsletta,113
+Marcus Thranes gate,TÃ¸yenparken,113
+SÃ¸ndre gate,BjÃ¸rvika,113
+Studenterlunden,Torggata,113
+Studentparlamentet,Henrik Ibsens gate,113
+GrÃ¸nlands torg,AHO,113
+Sinsen T-bane,Marcus Thranes gate,113
+Ringnes Park,Hammersborg Torg,113
+Jakob kirke,RÃ¥dhusgata,113
+Alexander Kiellands Plass,Tjuvholmen,113
+MÃ¸lleparken,Hammersborg Torg,113
+Marcus Thranes gate,Lakkegata,113
+Akersgata,Bjerregaards gate,113
+GrÃ¸nlands torg,Enerhaugen,113
+Sukkerbiten,Filipstadveien,113
+Oslo Plaza,SotahjÃ¸rnet,113
+Sofienbergparken nord,RÃ¥dhusgata,113
+Aker Brygge 3 mot Fergene,Salt,113
+TÃ¸yen skole,BjÃ¸rvika,113
+Sommerfrydhagen,Henrik Ibsens gate,113
+SkÃ¸yen,Thomas Heftyes plass,113
+Gimle Kino,Thune,113
+Majorstuen T-bane,Elisenberg,113
+Vippetangen vest,Salt,113
+Aker Brygge,Arkaden Nord,113
+Sukkerbiten,Ringnes Park,113
+Frognerveien,Majorstuen,113
+Vulkan,RÃ¥dhusgata,112
+Birkelunden,Arkaden Nord,112
+Akerselvallmenningen,Aker Brygge 3 mot Fergene,112
+Huitfeldts gate,Norsk Folkemuseum,112
+Fysikkbygningen,Arendalsgata,112
+Saga Kino,Olaf Ryes plass,112
+Carl Berners plass nord,DÃ¦lenenggata,112
+Sofienberggata,Spikersuppa Vest,112
+Huitfeldts gate,Over RÃ¥dhusgata,112
+Fredensborg,PalÃ©haven,112
+Frogner Stadion,Gimle Kino,112
+Sofienbergparken sÃ¸r,Alexander Kiellands Plass,112
+Botanisk Hage sÃ¸r,SjÃ¸siden ved trappen,112
+Sognsveien,AHO,112
+Professor Aschehougs plass,Frogner plass,112
+Stavangergata,Fredensborg,112
+Oslo Handelsgymnasium,BjÃ¸rvika,112
+John Colletts plass,Ringnes Park,112
+Aker Brygge 3 mot Fergene,Hammersborg Torg,112
+Carl Berners plass sÃ¸r,Fagerheimgata,112
+Thomas Heftyes plass,Frogner Stadion,112
+Huitfeldts gate,Forskningsveien,112
+Hasle,Ã˜kern Portal,112
+GrÃ¸nlands torg,Fred Olsens gate,112
+Frognerveien,Bislett Stadion,112
+Enerhaugen,Arkaden Nord,112
+Akerselvallmenningen,Vulkan,112
+Gimle Kino,Universitetsgata,112
+Spikersuppa Vest,Olaf Ryes plass,112
+Mandalls gate,Vaterlandsparken,112
+Olaf Ryes plass,Oslo Hospital,112
+Sirkustomta,Sofienbergparken nord,112
+Kampen park Ã˜st,Sofienbergparken nord,112
+Oscars gate,Aker Brygge,112
+Bislett Stadion,Bankplassen,112
+EnsjÃ¸ T-bane,BjÃ¸rvika,112
+SotahjÃ¸rnet,Sommerfrydhagen,112
+Lille Schous plass,Fagerheimgata,112
+Bislettgata,RuselÃ¸kkgÃ¥rden,112
+Bentsebrugata,Sentrum Scene,112
+Blindern studentparkering,Domus Athletica,112
+Skovveien,Slottsparken Ã˜st,112
+Vaterlandsparken,Kirkeristen,112
+Stensparken,Henrik Wergelands allÃ©,112
+Birkelunden,Sofienbergparken nordvest,112
+St. Hanshaugen park vest,Jess Carlsens gate,112
+St. Olavs gate,Botanisk Hage sÃ¸r,112
+UllevÃ¥lsveien,Lille Grensen,112
+Marcus Thranes gate,BI Nydalen,112
+Hasle,Helga Helgesens plass,112
+St. Hanshaugen park vest,Bislett Stadion,112
+Rostockgata,Kjeld Stubs gate,112
+Munkegata,Hausmanns bru,112
+AHO,Jakob kirke,112
+HallÃ©nparken,Helga Helgesens plass,112
+UllevÃ¥l sykehus,Majorstua skole,112
+SjÃ¸siden 1 ved trappen,Spikersuppa Ã˜st,112
+Mandalls gate,Arkaden SÃ¸r,112
+Sofienbergparken nordvest,Elgsletta,112
+VÃ¥r Frelsers gravlund,Jens Bjelkes Gate,112
+Huitfeldts gate,Spikersuppa Vest,112
+Akersgata,Olaf Ryes plass,112
+Aker Brygge 3 mot Fergene,Olaf Ryes plass,112
+Oslo Handelsgymnasium,Studenterlunden,112
+Vestkanttorvet,Henrik Ibsens gate,112
+Thomas Heftyes plass,Uranienborgveien,112
+Sommerfrydhagen,Mandalls gate,112
+Holbergs plass,Helga Helgesens plass,112
+Kirkeristen,GrÃ¼nerhagen Nord,112
+Fred Olsens gate,Tjuvholmen,112
+Bislettgata,Slottsparken Ã˜st,112
+Aker Brygge 1,Saga Kino,112
+Jenny Braatens Plass,Helga Helgesens plass,112
+Jess Carlsens gate,KontraskjÃ¦ret,112
+Annette Thommessens Plass,Botanisk Hage sÃ¸r,112
+Hasle Torg,Jens Bjelkes Gate,111
+Georg Morgenstiernes hus,Majorstuen T-bane,111
+Krebs' gate,Arendalsgata,111
+Stensparken,Lille Grensen,111
+Henrik Wergelands allÃ©,Gimle Kino,111
+Rostockgata,Lille Grensen,111
+TÃ¸yen skole,Arkaden SÃ¸r,111
+Henrik Wergelands allÃ©,Parkveien,111
+Elisenberg,Kirkeristen,111
+RÃ¥dhusgata,Tjuvholmen,111
+Stavangergata,TÃ¸yen skole,111
+Kirkeristen,Edvard Storms gate,111
+Linaaes gate,Trondheimsveien,111
+Enerhaugen,Galgeberg,111
+SjÃ¸siden ved trappen,Kjeld Stubs gate,111
+EnsjÃ¸veien,TÃ¸yen skole,111
+Bislettgata,Vippetangen vest,111
+Lakkegata,Linaaes gate,111
+Hammersborg Torg,Spikersuppa Ã˜st,111
+Jens Bjelkes Gate,AHO,111
+Bjerregaards gate,Helga Helgesens plass,111
+Vippetangen Ã¸st,Sukkerbiten,111
+KontraskjÃ¦ret,Olaf Ryes plass,111
+Lakkegata,Dyvekes bru,111
+Slottsparken Ã˜st,Frogner Tennisklubb,111
+RÃ¥dhusgata,PalÃ©haven,111
+Holbergs plass,RuselÃ¸kkgÃ¥rden,111
+Kirkeristen,RuselÃ¸kkgÃ¥rden,111
+Kirkeristen,Trondheimsveien,111
+Ringnes Park,Anker Hotel,111
+BI Nydalen,Hans Nielsen Hauges plass,111
+Trondheimsveien,Sofienbergparken nord,111
+Bogstadveien,Professor Aschehougs plass,111
+Jess Carlsens gate,Vulkan,111
+RuselÃ¸kkgÃ¥rden,Karenslyst allÃ©,111
+Enerhaugen,Lakkegata,111
+OsloMet,Professor Aschehougs plass,111
+Birkelunden,Jess Carlsens gate,111
+Tjuvholmen,Fram-gÃ¥rden,111
+MÃ¸lleparken,Carl Berners plass nord,111
+Bogstadveien,Colosseum Kino,111
+Holbergs plass,Sukkerbiten,111
+Anker Hotel,Akerselvallmenningen,111
+Botanisk Hage sÃ¸r,Gunerius,111
+Fram-gÃ¥rden,Spikersuppa Vest,111
+Hallings gate,Bogstadveien,111
+Marcus Thranes gate,Stensparken,111
+Sognsveien,Marcus Thranes gate,111
+KontraskjÃ¦ret,Rostockgata,111
+Uelands gate,Bankplassen,111
+Gunerius,Jakob kirke,111
+Studentparlamentet,Studentparlamentet,111
+Sofienbergparken nordvest,Bislett Stadion,111
+Nordre gate,Oslo Hospital,111
+Arkaden SÃ¸r,Sukkerbiten,111
+Hans Nielsen Hauges plass,Jakob kirke,111
+Dokkveien,Frognerbadet,111
+Stavangergata,Oscars gate,111
+SjÃ¸siden 1 ved trappen,Spikersuppa Vest,111
+Uranienborgparken,Vippetangen vest,111
+VÃ¥r Frelsers gravlund,Professor Aschehougs plass,111
+Uelands gate,Saga Kino,111
+Stavangergata,Linaaes gate,111
+Aker Brygge,Norsk Folkemuseum,110
+VÃ¥lerenga,Dyvekes bru,110
+UllevÃ¥l sykehus,UllevÃ¥lsveien,110
+Jernbanetorget,Sofienbergparken sÃ¸r,110
+Oslo Plaza,Torggata,110
+Sagene bussholdeplass,Bislett Stadion,110
+Hedmarksgata,TÃ¸yenbekken,110
+Studenterlunden,Jess Carlsens gate,110
+Edvard Storms gate,Birkelunden,110
+Saga Kino,Jess Carlsens gate,110
+Sofienbergparken nord,Alexander Kiellands Plass,110
+RÃ¥dhusgata,Frogner plass,110
+Saga Kino,KvÃ¦rnerbyen,110
+Frognerbadet,Tjuvholmen,110
+Dyvekes bru,TÃ¸yenbekken,110
+RÃ¥dhusgata,Olaf Ryes plass,110
+Lilleborgbanen,Jakob kirke,110
+Uranienborgveien,Vestkanttorvet,110
+GrÃ¼nerhagen Nord,Helga Helgesens plass,110
+Oslo Hospital,Olaf Ryes plass,110
+Aker Brygge,BI Nydalen,110
+Suhms gate,Hallings gate,110
+Stjerneplassen,Torggata,110
+Arkitekt Rivertz Plass,Bankplassen,110
+Botanisk Hage sÃ¸r,Hausmanns bru,110
+Karenslyst allÃ©,Skillebekk,110
+BjÃ¸rvika,Lodalen busstopp,110
+Stavangergata,Adamstuen,110
+Majorstua skole,Volvat,110
+TÃ¸yen skole,Jenny Braatens Plass,110
+Rostockgata,SjÃ¸siden ved fontenen,110
+Torggata,Vaterlandsparken,110
+Oscars gate,Over RÃ¥dhusgata,110
+Pilestredet Studenthus,Sentrum Scene,110
+Griffenfeldts gate,Landstads gate,110
+SkÃ¸yen,Hoff terrasse holdeplass,110
+KontraskjÃ¦ret,Lille Grensen,110
+Jernbanetorget,Salt,110
+Fredensborg,Hesselbergs Gate,110
+Fagerheimgata,Vulkan,110
+Sommerfrydhagen,Lille Schous plass,110
+Jess Carlsens gate,Arkaden Nord,110
+Salt,RÃ¥dhusgata,110
+Jens Bjelkes Gate,Jess Carlsens gate,110
+Kirkeristen,Saga Kino,110
+KvÃ¦rnerbyen,Hausmanns bru,110
+Majorstuen,Kirkeristen,110
+Torshovdalen Ã¸st,Ringnes Park,110
+SjÃ¸siden 1 ved trappen,RÃ¥dhusgata,110
+Forskningsveien,SkÃ¸yen,110
+Holbergs plass,Huitfeldts gate,110
+Sofienberggata,Spikersuppa Ã˜st,110
+Marienlyst,Pilestredet 63,110
+Jenny Braatens Plass,BjÃ¸rvika,110
+Dokkveien,Schous plass,110
+Hesselbergs Gate,Jakob kirke,110
+Dokkveien,Studentparlamentet,110
+ColbjÃ¸rnsens gate,Bislett Stadion,110
+Edvard Storms gate,Bogstadveien,110
+Bankplassen,Hallings gate,110
+Trelastgata,PalÃ©haven,110
+KvÃ¦rnerbyen,Spikersuppa Vest,110
+Elgsletta,BjÃ¸rvika,110
+Stensparken,Bislettgata,110
+Skovveien,Spikersuppa Ã˜st,110
+Marcus Thranes gate,KÃ¸benhavngata busstopp,110
+Stavangergata,Olaf Ryes plass,110
+Helga Helgesens plass,Aker Brygge 3 mot Fergene,110
+Botanisk Hage vest,TÃ¸yen skole,110
+Oscars gate,Frogner plass,110
+MyralÃ¸kka Ã˜st,Fredensborg,110
+Storo Storsenter,Oscars gate,109
+Arkitekt Rivertz Plass,Ringnes Park,109
+Majorstua skole,Alexander Kiellands Plass,109
+Jess Carlsens gate,SÃ¸ndre gate,109
+Stavangergata,Georg Morgenstiernes hus,109
+Frogner Stadion,ColbjÃ¸rnsens gate,109
+Olaf Ryes plass,Birkelunden,109
+Jakob kirke,Fred Olsens gate,109
+SÃ¸ndre gate,Professor Aschehougs plass,109
+St. Hanshaugen park nord,UllevÃ¥l sykehus,109
+Rostockgata,Dokkveien,109
+Filipstadveien,RÃ¥dhusgata,109
+LÃ¸renveien,Carl Berners plass nord,109
+Schives gate,Huitfeldts gate,109
+Skovveien,Schives gate,109
+BjÃ¸lsen mÃ¸lle,HallÃ©nparken,109
+Torggata,Fredensborg,109
+Aker Brygge,Klingenberggata,109
+John Colletts plass,Domus Athletica,109
+KvÃ¦rnerbyen,Olaf Ryes plass,109
+Linaaes gate,Lille Schous plass,109
+BI Nydalen,Bislettgata,109
+MÃ¸lleparken,Sofienbergparken sÃ¸r,109
+Krebs' gate,Krebs' gate,109
+Uelands gate,Aker Brygge,109
+Sofienbergparken nordvest,PalÃ©haven,109
+Oscars gate,Oslo Handelsgymnasium,109
+TÃ¸yenparken,TÃ¸yenbekken,109
+DÃ¦lenenggata,Vaterlandsparken,109
+Parkveien,BjÃ¸rvika,109
+SjÃ¸siden 1 ved trappen,AHO,109
+Kirkeristen,Bogstadveien,109
+AHO,SkrÃ¥ninga,109
+Ringnes Park,HallÃ©nparken,109
+OsloMet,Tjuvholmen,109
+RÃ¥dhusgata,KvÃ¦rnerbyen,109
+Bislett Stadion,Stavangergata,109
+Munkegata,TÃ¸yen skole,109
+Oslo Hospital,Lakkegata,109
+Fyrstikktorget,Jordalgata,109
+BjÃ¸lsen mÃ¸lle,Torggata,109
+Sofienbergparken sÃ¸r,Sukkerbiten,109
+Sentrum Scene,Schous plass trikkestopp,109
+Helga Helgesens plass,Aker Brygge 2 mot RÃ¥dhusplassen,109
+Linaaes gate,Rostockgata,109
+RuselÃ¸kkgÃ¥rden,Oscars gate,109
+Hallings gate,Olaf Ryes plass,109
+Sirkustomta,Birkelunden,109
+Chr. Michelsens Gate,St. Olavs gate,109
+Forskningsveien,Majorstua skole,109
+Frognerveien,Oslo Handelsgymnasium,109
+Sirkustomta,Annette Thommessens Plass,109
+Kirkegata 15,Munkegata,109
+Slottsparken Ã˜st,7. juni-plassen,109
+Birkelunden,TÃ¸yenparken,109
+Slottsparken Ã˜st,Frogner Stadion,109
+Parkveien,Spikersuppa Ã˜st,109
+Chr. Michelsens Gate,TÃ¸yenparken,109
+Alexander Kiellands Plass,Bentsebrugata,108
+Skillebekk,Uranienborgveien,108
+SjÃ¸lyst,Tjuvholmen,108
+Storo Storsenter,Bislettgata,108
+Uranienborgveien,Huitfeldts gate,108
+Huk 2,Huk 1,108
+Carl Berners plass nord,Sofienbergparken nordvest,108
+Elisenberg,Karenslyst allÃ©,108
+KontraskjÃ¦ret,St. Olavs gate,108
+Schous plass,Aker Brygge 1 mot Nasjonalmuseet,108
+Frognerbadet,Thune,108
+Holbergs plass,Studenterlunden,108
+Bogstadveien,Thomas Heftyes plass,108
+Kirkeristen,Hammersborg Torg,108
+Vaterlandsparken,Oslo Hospital,108
+Brugata,AHO,108
+Majorstuveien,Frogner plass,108
+Gunerius,Sukkerbiten,108
+St. Olavs gate,Linaaes gate,108
+SjÃ¸siden ved trappen,Sentrum Scene,108
+Gimle Kino,Huk 2,108
+Drammensveien,Stensparken,108
+Rostockgata,Fred Olsens gate,108
+Frognerbadet,Elisenberg,108
+Hasle Torg,KvÃ¦rnerbyen,108
+Stavangergata,Arkitekt Rivertz Plass,108
+John Colletts plass,Majorstuen,108
+Frogner plass,Thomas Heftyes plass,108
+Henrik Ibsens gate,Pilestredet 63,108
+Akerselvallmenningen,Professor Aschehougs plass,108
+Jakob kirke,SjÃ¸siden 1 ved trappen,108
+Karenslyst allÃ©,Schives gate,108
+Ã˜kern Portal,EnsjÃ¸ T-bane,108
+Skovveien,Elisenberg,108
+Lindern,Birkelunden,108
+Over RÃ¥dhusgata,Kirkeristen,108
+7. juni-plassen,Alexander Kiellands Plass,108
+Lille Grensen,Bislett Stadion,108
+GrÃ¼nerhagen Nord,Vaterlandsparken,108
+Landstads gate,SjÃ¸siden 1 ved trappen,108
+St. Hanshaugen park nord,Bislett Stadion,108
+ColbjÃ¸rnsens gate,Vestkanttorvet,108
+KontraskjÃ¦ret,SjÃ¸siden ved trappen,108
+Sofienberggata,Ringnes Park,108
+Ringnes Park,Spikersuppa Vest,108
+St. Olavs gate,Henrik Ibsens gate,108
+Botanisk Hage sÃ¸r,Stjerneplassen,108
+Studentparlamentet,Torggata,108
+Filipstadveien,SjÃ¸siden ved trappen,107
+Oslo Hospital,Dokkveien,107
+Botanisk Hage sÃ¸r,BI Nydalen,107
+Sofienbergparken nordvest,Stjerneplassen,107
+VÃ¥r Frelsers gravlund,Ringnes Park,107
+Stjerneplassen,Rostockgata,107
+Spikersuppa Ã˜st,PalÃ©haven,107
+Uelands gate,Sukkerbiten,107
+Torggata,Rostockgata,107
+Sognsveien,UllevÃ¥lsveien,107
+Frognerbadet,Hoffsveien,107
+St. Olavs gate,Sofienbergparken nordvest,107
+Vestkanttorvet,Frogner plass,107
+Fred Olsens gate,Spikersuppa Ã˜st,107
+Jens Bjelkes Gate,KvÃ¦rnerbyen,107
+Filipstadveien,Huk 2,107
+Hasle,Sommerfrydhagen,107
+Dokkveien,Frogner plass,107
+Anker Hotel,Vaterlandsparken,107
+St. Hanshaugen park vest,Ringnes Park,107
+Kampen park Ã˜st,Kampen park Ã˜st,107
+Kirkeristen,Kirkegata 15,107
+Hallings gate,Torggata,107
+Munkedamsveien,Frognerstranda,107
+Norsk Folkemuseum,Dokkveien,107
+Spikersuppa Vest,Sukkerbiten,107
+Fredensborg,Hammersborg Torg,107
+Skovveien,Majorstuen,107
+Ringnes Park,Elgsletta,107
+AHO,Nordre gate,107
+Hammersborg Torg,Bjerregaardsgate Ã˜st,107
+Sofienbergparken sÃ¸r,Jens Bjelkes Gate,107
+Meltzers gate,Tjuvholmen,107
+Finnmarksgata,Helga Helgesens plass,107
+Jens Bjelkes Gate,Arkaden SÃ¸r,107
+The Hub,TÃ¸yenbekken,107
+Lille Grensen,Bjerregaards gate,107
+Marcus Thranes gate,Marienlystparken,107
+St. Olavs gate,BjÃ¸rvika,107
+Annette Thommessens Plass,Arkaden Nord,107
+Birkelunden,Nordre gate,107
+Thomas Heftyes plass,Slottsparken Ã˜st,107
+Hasle Torg,Helga Helgesens plass,107
+KvÃ¦rnerbyen,Brugata,107
+Akerselvallmenningen,Spikersuppa Vest,107
+Lakkegata,Elgsletta,107
+Kirkegata 15,BjÃ¸rvika,107
+Sinsenveien,TÃ¸yen skole,107
+Sognsveien,Stavangergata,107
+Hammersborg Torg,Aker Brygge 2 mot RÃ¥dhusplassen,107
+Bislett Stadion,Schous plass trikkestopp,107
+Thomas Heftyes plass,SÃ¸rvest for Slottsparken,107
+Alexander Kiellands Plass,Edvard Storms gate,107
+Jakob kirke,BjÃ¸rvika,107
+Gimle Kino,Kirkeristen,107
+Schous plass trikkestopp,Alexander Kiellands Plass,107
+Hammersborg Torg,Nordre gate,107
+DÃ¦lenenggata,TÃ¸yenparken,107
+Jess Carlsens gate,Jens Bjelkes Gate,107
+Volvat,Skillebekk,107
+Monolittveien,Monolittveien,107
+Professor Aschehougs plass,Elisenberg,107
+Marcus Thranes gate,Spikersuppa Vest,107
+Marcus Thranes gate,Edvard Storms gate,107
+Bjerregaards gate,AHO,107
+Schous plass trikkestopp,Trondheimsveien,107
+GrÃ¼nerhagen Nord,The Hub,107
+Jess Carlsens gate,Hammersborg Torg,107
+Marcus Thranes gate,Hallings gate,107
+Schous plass,Skarpsnoparken,107
+Dokkveien,Alexander Kiellands Plass,107
+KvÃ¦rnerbyen,Jens Bjelkes Gate,107
+Akerselvallmenningen,Galgeberg,107
+DÃ¦lenenggata,Jens Bjelkes Gate,107
+Adamstuen,Bislettgata,107
+Tjuvholmen,Salt,107
+Spikersuppa Ã˜st,Akerselvallmenningen,106
+Colosseum Kino,Filipstadveien,106
+Uranienborgparken,Briskeby,106
+AHO,Universitetsgata,106
+UllevÃ¥l sykehus,TÃ¸yen skole,106
+Thomas Heftyes plass,Henrik Wergelands allÃ©,106
+Jenny Braatens Plass,Finnmarksgata,106
+Uranienborgparken,Uranienborgparken,106
+Uranienborgveien,Uranienborgparken,106
+BjÃ¸rvika,AHO,106
+Schives gate,Sentrum Scene,106
+Hasle,Fyrstikktorget,106
+Sagene bussholdeplass,Linaaes gate,106
+Bjerregaards gate,Lille Grensen,106
+KvÃ¦rnerbyen,Fred Olsens gate,106
+Bislett Stadion,Universitetsgata,106
+Elgsletta,Helga Helgesens plass,106
+Frogner plass,Maritimt Museum,106
+Carl Berners plass nord,Finnmarksgata,106
+Rostockgata,Sofienbergparken sÃ¸r,106
+Over RÃ¥dhusgata,Helga Helgesens plass,106
+Spikersuppa Ã˜st,Skillebekk,106
+Tjuvholmen,Torggata,106
+BygdÃ¸y allÃ©,Karenslyst allÃ©,106
+Oslo Hospital,Sofienbergparken sÃ¸r,106
+Marcus Thranes gate,GrÃ¼nerhagen Nord,106
+Lille Grensen,Aker Brygge 2 mot RÃ¥dhusplassen,106
+Hesselbergs Gate,Linaaes gate,106
+Lille Schous plass,Spikersuppa Vest,106
+Sinsen T-bane,BjÃ¸lsendumpa,106
+Storo Storsenter,TÃ¸yen skole,106
+Pilestredet,Bislettgata,106
+Botanisk Hage sÃ¸r,Fred Olsens gate,106
+Fredensborg,Fred Olsens gate,106
+Torggata,Dokkveien,106
+Blindern studentparkering,Bjerregaards gate,106
+Tjuvholmen,SkrÃ¥ninga,106
+Annette Thommessens Plass,Helga Helgesens plass,106
+Skovveien,Dokkveien,106
+Bentsebrugata,TÃ¸yen skole,106
+Lakkegata,Nordre gate,106
+Karenslyst allÃ©,Akerselvallmenningen,106
+Bjerregaards gate,Landstads gate,106
+Bjerregaards gate,Sofienbergparken nordvest,106
+BjÃ¸lsendumpa,Bjerregaardsgate Ã˜st,106
+Hesselbergs Gate,Helga Helgesens plass,106
+Thomas Heftyes plass,Universitetsgata,106
+St. Olavs gate,Jess Carlsens gate,106
+Storo Storsenter,Sofienbergparken nordvest,106
+Vulkan,SjÃ¸siden 1 ved trappen,106
+Fagerheimgata,Elgsletta,106
+Jess Carlsens gate,Ringnes Park,106
+Dyvekes bru,Kirkeristen,106
+Universitetsgata,VÃ¥r Frelsers gravlund,106
+Sofienbergparken nordvest,Sirkustomta,106
+Majorstuen,Via Vika,106
+Tiedemannsparken,Jens Bjelkes Gate,106
+Galgeberg,Akerselvallmenningen,106
+Friggfeltet,Oscars gate,106
+Jakob kirke,Hesselbergs Gate,106
+Frognerbadet,SkÃ¸yen Stasjon,106
+KvÃ¦rnerbyen,Torggata,106
+BjÃ¸rvika,Hammersborg Torg,106
